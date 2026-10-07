@@ -1,0 +1,1453 @@
+[
+  {
+    "id": "financial_001",
+    "question": "What was Infosys' total revenue in fiscal 2025?",
+    "category": "financial",
+    "expected_answer": "Infosys' total revenues in fiscal 2025 were ₹1,62,990 crore.",
+    "expected_facts": [
+      "Total revenues in fiscal 2025 were ₹1,62,990 crore"
+    ],
+    "expected_source_pages": [
+      10,
+      15
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "id": "financial_002",
+    "question": "What was Infosys' revenue growth in fiscal 2025?",
+    "category": "financial",
+    "expected_answer": "Infosys reported 6.1% revenue growth in fiscal 2025.",
+    "expected_facts": [
+      "Revenue growth was 6.1%"
+    ],
+    "expected_source_pages": [
+      15,
+      23
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "id": "financial_003",
+    "question": "What was Infosys' constant currency revenue growth in fiscal 2025?",
+    "category": "financial",
+    "expected_answer": "Infosys reported 4.2% constant currency revenue growth year-on-year in fiscal 2025.",
+    "expected_facts": [
+      "Constant currency growth was 4.2% Y-o-Y"
+    ],
+    "expected_source_pages": [
+      15
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "id": "financial_004",
+    "question": "What was Infosys' operating margin in fiscal 2025?",
+    "category": "financial",
+    "expected_answer": "Infosys' operating margin in fiscal 2025 was 21.1%.",
+    "expected_facts": [
+      "Operating margin was 21.1%"
+    ],
+    "expected_source_pages": [
+      15,
+      17,
+      23
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "id": "financial_005",
+    "question": "What was Infosys' highest ever free cash flow in fiscal 2025?",
+    "category": "financial",
+    "expected_answer": "Infosys reported its highest ever free cash flow of ₹34,549 crore for fiscal 2025.",
+    "expected_facts": [
+      "Free cash flow was ₹34,549 crore",
+      "It was described as highest ever free cash flow for fiscal 2025"
+    ],
+    "expected_source_pages": [
+      15
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "id": "financial_006",
+    "question": "What was Infosys' free cash flow growth in fiscal 2025?",
+    "category": "financial",
+    "expected_answer": "Infosys' free cash flow growth in fiscal 2025 was 44.8% year-on-year.",
+    "expected_facts": [
+      "Free cash flow growth was 44.8% Y-o-Y"
+    ],
+    "expected_source_pages": [
+      15,
+      23
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "id": "financial_007",
+    "question": "What was Infosys' FCF conversion as a percentage of net profit in fiscal 2025?",
+    "category": "financial",
+    "expected_answer": "Infosys reported FCF conversion at 129.2% of net profit in fiscal 2025.",
+    "expected_facts": [
+      "FCF conversion was 129.2% of net profit"
+    ],
+    "expected_source_pages": [
+      15
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "financial_008",
+    "question": "What was Infosys' consolidated cash and investments in fiscal 2025?",
+    "category": "financial",
+    "expected_answer": "Infosys' consolidated cash and investments were ₹47,549 crore in fiscal 2025.",
+    "expected_facts": [
+      "Consolidated cash and investments were ₹47,549 crore"
+    ],
+    "expected_source_pages": [
+      15,
+      22,
+      33
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "id": "financial_009",
+    "question": "What was Infosys' basic earnings per share in fiscal 2025?",
+    "category": "financial",
+    "expected_answer": "Infosys' basic earnings per share in fiscal 2025 was ₹64.50.",
+    "expected_facts": [
+      "Basic EPS was ₹64.50"
+    ],
+    "expected_source_pages": [
+      15
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "id": "financial_010",
+    "question": "What was Infosys' basic EPS growth in fiscal 2025?",
+    "category": "financial",
+    "expected_answer": "Infosys' basic earnings per share grew 8.3% year-on-year in fiscal 2025.",
+    "expected_facts": [
+      "Basic EPS growth was 8.3% Y-o-Y"
+    ],
+    "expected_source_pages": [
+      15,
+      22
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "financial_011",
+    "question": "What was Infosys' market capitalization in fiscal 2025 according to the business highlights?",
+    "category": "financial",
+    "expected_answer": "Infosys' market capitalization for FY 2025 was ₹6,52,332 crore.",
+    "expected_facts": [
+      "Market capitalization was ₹6,52,332 crore"
+    ],
+    "expected_source_pages": [
+      15,
+      23
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "financial_012",
+    "question": "What was Infosys' large deal total contract value in fiscal 2025?",
+    "category": "financial",
+    "expected_answer": "Infosys' large deal total contract value in fiscal 2025 was US$11.6 billion.",
+    "expected_facts": [
+      "Large deal TCV was US$11.6 billion"
+    ],
+    "expected_source_pages": [
+      15,
+      21
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "id": "financial_013",
+    "question": "What were Infosys' consolidated revenue from operations in 2025 and 2024?",
+    "category": "financial",
+    "expected_answer": "Infosys' consolidated revenue from operations was ₹1,62,990 crore in 2025 and ₹1,53,670 crore in 2024.",
+    "expected_facts": [
+      "2025 consolidated revenue from operations was ₹1,62,990 crore",
+      "2024 consolidated revenue from operations was ₹1,53,670 crore"
+    ],
+    "expected_source_pages": [
+      30,
+      276
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "financial_014",
+    "question": "What was Infosys' consolidated profit after tax in fiscal 2025?",
+    "category": "financial",
+    "expected_answer": "Infosys' consolidated profit after tax for fiscal 2025 was ₹26,750 crore.",
+    "expected_facts": [
+      "Consolidated profit after tax was ₹26,750 crore"
+    ],
+    "expected_source_pages": [
+      30,
+      276
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "financial_015",
+    "question": "What was Infosys' profit attributable to owners of the Company in fiscal 2025?",
+    "category": "financial",
+    "expected_answer": "Infosys' profit attributable to owners of the Company in fiscal 2025 was ₹26,713 crore.",
+    "expected_facts": [
+      "Profit attributable to owners of the Company was ₹26,713 crore"
+    ],
+    "expected_source_pages": [
+      15,
+      30
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "financial_016",
+    "question": "What was Infosys' consolidated total income in fiscal 2025?",
+    "category": "financial",
+    "expected_answer": "Infosys' consolidated total income for fiscal 2025 was ₹1,66,590 crore.",
+    "expected_facts": [
+      "Consolidated total income was ₹1,66,590 crore"
+    ],
+    "expected_source_pages": [
+      30,
+      276
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "financial_017",
+    "question": "What was Infosys' consolidated net current assets as of March 31, 2025?",
+    "category": "financial",
+    "expected_answer": "Infosys' consolidated net current assets as of March 31, 2025 were ₹54,249 crore.",
+    "expected_facts": [
+      "Consolidated net current assets were ₹54,249 crore"
+    ],
+    "expected_source_pages": [
+      31,
+      33
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "financial_018",
+    "question": "What was Infosys' consolidated total assets as of March 31, 2025?",
+    "category": "financial",
+    "expected_answer": "Infosys' consolidated total assets as of March 31, 2025 were ₹1,48,903 crore.",
+    "expected_facts": [
+      "Consolidated total assets were ₹1,48,903 crore"
+    ],
+    "expected_source_pages": [
+      31
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "financial_019",
+    "question": "What was Infosys' consolidated total equity as of March 31, 2025?",
+    "category": "financial",
+    "expected_answer": "Infosys' consolidated total equity as of March 31, 2025 was ₹96,203 crore.",
+    "expected_facts": [
+      "Consolidated total equity was ₹96,203 crore"
+    ],
+    "expected_source_pages": [
+      31,
+      275
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "financial_020",
+    "question": "What does Infosys' capital allocation policy target from fiscal 2025?",
+    "category": "financial",
+    "expected_answer": "From fiscal 2025, Infosys expects to return approximately 85% of free cash flow cumulatively over five years through semi-annual dividends and/or share buyback/special dividends, subject to applicable laws and approvals.",
+    "expected_facts": [
+      "Return approximately 85% of free cash flow cumulatively over five years",
+      "May use semi-annual dividends and/or share buyback/special dividends"
+    ],
+    "expected_source_pages": [
+      23,
+      33
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "business_segments_001",
+    "question": "What are Infosys' primary business segments?",
+    "category": "business_segments",
+    "expected_answer": "Infosys' primary business segments are Financial Services and Insurance, Manufacturing, Retail, Consumer Packaged Goods and Logistics, Energy, Utilities, Resources and Services, Communication, Telecom OEM and Media, Hi-Tech, Life Sciences and Healthcare, and all other segments.",
+    "expected_facts": [
+      "Financial Services and Insurance",
+      "Manufacturing",
+      "Retail, Consumer Packaged Goods and Logistics",
+      "Energy, Utilities, Resources and Services",
+      "Communication, Telecom OEM and Media",
+      "Hi-Tech",
+      "Life Sciences and Healthcare",
+      "All other segments"
+    ],
+    "expected_source_pages": [
+      344
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "business_segments_002",
+    "question": "What does the Financial Services segment include?",
+    "category": "business_segments",
+    "expected_answer": "The Financial Services segment includes enterprises in Financial Services and Insurance.",
+    "expected_facts": [
+      "Financial Services includes enterprises in Financial Services and Insurance"
+    ],
+    "expected_source_pages": [
+      32,
+      345
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "id": "business_segments_003",
+    "question": "What does the Retail segment include?",
+    "category": "business_segments",
+    "expected_answer": "The Retail segment includes enterprises in Retail, Consumer Packaged Goods and Logistics.",
+    "expected_facts": [
+      "Retail includes enterprises in Retail, Consumer Packaged Goods and Logistics"
+    ],
+    "expected_source_pages": [
+      32,
+      345
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "id": "business_segments_004",
+    "question": "What does the Communication segment include?",
+    "category": "business_segments",
+    "expected_answer": "The Communication segment includes enterprises in Communication, Telecom OEM and Media.",
+    "expected_facts": [
+      "Communication includes enterprises in Communication, Telecom OEM and Media"
+    ],
+    "expected_source_pages": [
+      32,
+      345
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "id": "business_segments_005",
+    "question": "What does the EURS segment include?",
+    "category": "business_segments",
+    "expected_answer": "The EURS segment includes enterprises in Energy, Utilities, Resources and Services.",
+    "expected_facts": [
+      "EURS includes enterprises in Energy, Utilities, Resources and Services"
+    ],
+    "expected_source_pages": [
+      32
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "id": "business_segments_006",
+    "question": "What does the Life Sciences segment include?",
+    "category": "business_segments",
+    "expected_answer": "The Life Sciences segment includes enterprises in Life Sciences and Healthcare.",
+    "expected_facts": [
+      "Life Sciences includes enterprises in Life Sciences and Healthcare"
+    ],
+    "expected_source_pages": [
+      32,
+      345
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "id": "business_segments_007",
+    "question": "What does Infosys classify as 'all other segments'?",
+    "category": "business_segments",
+    "expected_answer": "All other segments include segments of businesses in India, Japan, China, Infosys Public Services and other enterprises in public services.",
+    "expected_facts": [
+      "Others include India, Japan, China, Infosys Public Services and other public services enterprises"
+    ],
+    "expected_source_pages": [
+      32,
+      344,
+      345
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "business_segments_008",
+    "question": "Which business segment had the highest revenue from operations in 2025?",
+    "category": "business_segments",
+    "expected_answer": "Financial Services had the highest segment revenue from operations in 2025 at ₹45,175 crore.",
+    "expected_facts": [
+      "Financial Services revenue from operations in 2025 was ₹45,175 crore",
+      "It was the largest listed segment revenue"
+    ],
+    "expected_source_pages": [
+      345
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "business_segments_009",
+    "question": "What was Manufacturing revenue from operations in 2025?",
+    "category": "business_segments",
+    "expected_answer": "Manufacturing revenue from operations in 2025 was ₹25,207 crore.",
+    "expected_facts": [
+      "Manufacturing revenue from operations was ₹25,207 crore"
+    ],
+    "expected_source_pages": [
+      345
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "business_segments_010",
+    "question": "What was the total segmental revenue from operations in 2025?",
+    "category": "business_segments",
+    "expected_answer": "Total segmental revenue from operations in 2025 was ₹1,62,990 crore.",
+    "expected_facts": [
+      "Total revenue from operations was ₹1,62,990 crore"
+    ],
+    "expected_source_pages": [
+      345
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "id": "leadership_governance_001",
+    "question": "Who is the CEO and Managing Director of Infosys?",
+    "category": "leadership_governance",
+    "expected_answer": "Salil Parekh is the Chief Executive Officer and Managing Director of Infosys.",
+    "expected_facts": [
+      "Salil Parekh is Chief Executive Officer and Managing Director"
+    ],
+    "expected_source_pages": [
+      12,
+      14,
+      17,
+      362
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "id": "leadership_governance_002",
+    "question": "Who is the Chairman of Infosys?",
+    "category": "leadership_governance",
+    "expected_answer": "Nandan M. Nilekani is the Chairman of Infosys.",
+    "expected_facts": [
+      "Nandan M. Nilekani is Chairman"
+    ],
+    "expected_source_pages": [
+      11,
+      16
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "id": "leadership_governance_003",
+    "question": "Who is Infosys' Chief Financial Officer?",
+    "category": "leadership_governance",
+    "expected_answer": "Jayesh Sanghrajka is Infosys' Chief Financial Officer.",
+    "expected_facts": [
+      "Jayesh Sanghrajka is Chief Financial Officer"
+    ],
+    "expected_source_pages": [
+      14,
+      38
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "id": "leadership_governance_004",
+    "question": "Who is Infosys' Chief Technology Officer?",
+    "category": "leadership_governance",
+    "expected_answer": "Mohammed Rafee Tarafdar is Infosys' Chief Technology Officer.",
+    "expected_facts": [
+      "Mohammed Rafee Tarafdar is Chief Technology Officer"
+    ],
+    "expected_source_pages": [
+      14
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "id": "leadership_governance_005",
+    "question": "Who is Infosys' Chief Human Resources Officer?",
+    "category": "leadership_governance",
+    "expected_answer": "Shaji Mathew is Infosys' Chief Human Resources Officer.",
+    "expected_facts": [
+      "Shaji Mathew is Chief Human Resources Officer"
+    ],
+    "expected_source_pages": [
+      14
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "id": "leadership_governance_006",
+    "question": "Who is Infosys' Chief Legal Officer and Chief Compliance Officer?",
+    "category": "leadership_governance",
+    "expected_answer": "Inderpreet Sawhney is Infosys' Chief Legal Officer and Chief Compliance Officer.",
+    "expected_facts": [
+      "Inderpreet Sawhney is Chief Legal Officer and Chief Compliance Officer"
+    ],
+    "expected_source_pages": [
+      14
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "id": "leadership_governance_007",
+    "question": "How many members did the Infosys Board have as of March 31, 2025?",
+    "category": "leadership_governance",
+    "expected_answer": "As of March 31, 2025, Infosys' Board had nine members.",
+    "expected_facts": [
+      "Board had nine members as of March 31, 2025"
+    ],
+    "expected_source_pages": [
+      38
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "leadership_governance_008",
+    "question": "What was the composition of Infosys' Board as of March 31, 2025?",
+    "category": "leadership_governance",
+    "expected_answer": "As of March 31, 2025, the Board consisted of one executive director, one non-executive and non-independent director, and seven independent directors.",
+    "expected_facts": [
+      "One executive director",
+      "One non-executive and non-independent director",
+      "Seven independent directors"
+    ],
+    "expected_source_pages": [
+      38
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "leadership_governance_009",
+    "question": "How many independent directors on Infosys' Board were women as of March 31, 2025?",
+    "category": "leadership_governance",
+    "expected_answer": "Two of the independent directors on Infosys' Board were women as of March 31, 2025.",
+    "expected_facts": [
+      "Two independent directors were women"
+    ],
+    "expected_source_pages": [
+      38
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "leadership_governance_010",
+    "question": "What committees did Infosys' Board have as of March 31, 2025?",
+    "category": "leadership_governance",
+    "expected_answer": "As of March 31, 2025, Infosys' Board had six committees: Audit Committee, Corporate Social Responsibility Committee, Nomination and Remuneration Committee, Risk Management Committee, Stakeholders Relationship Committee, and Environment, Social and Governance Committee.",
+    "expected_facts": [
+      "Audit Committee",
+      "Corporate Social Responsibility Committee",
+      "Nomination and Remuneration Committee",
+      "Risk Management Committee",
+      "Stakeholders Relationship Committee",
+      "Environment, Social and Governance Committee"
+    ],
+    "expected_source_pages": [
+      39
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "ai_strategy_001",
+    "question": "What are the key AI initiatives Infosys discusses in the annual report?",
+    "category": "ai_strategy",
+    "expected_answer": "Infosys discusses AI initiatives including Infosys Topaz, AI agents, domain-specific language models, Cobalt cloud capabilities as a foundation for AI, data capabilities for enterprise AI deployment, and employee AI upskilling.",
+    "expected_facts": [
+      "Infosys Topaz",
+      "AI agents",
+      "Domain-specific language models",
+      "Cobalt cloud capabilities",
+      "Data capabilities",
+      "Employee AI upskilling"
+    ],
+    "expected_source_pages": [
+      17,
+      21,
+      24,
+      25
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "ai_strategy_002",
+    "question": "What is Infosys Topaz?",
+    "category": "ai_strategy",
+    "expected_answer": "Infosys Topaz is an AI-first offering to accelerate business value for global enterprises using generative AI.",
+    "expected_facts": [
+      "Infosys Topaz is an AI-first offering",
+      "It uses generative AI",
+      "It accelerates business value for global enterprises"
+    ],
+    "expected_source_pages": [
+      21
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "id": "ai_strategy_003",
+    "question": "How many generative AI projects has Infosys delivered with Infosys Topaz?",
+    "category": "ai_strategy",
+    "expected_answer": "Infosys has successfully delivered over 400 generative AI projects with Infosys Topaz.",
+    "expected_facts": [
+      "Over 400 generative AI projects delivered with Infosys Topaz"
+    ],
+    "expected_source_pages": [
+      21,
+      25
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "id": "ai_strategy_004",
+    "question": "What types of small language models has Infosys built?",
+    "category": "ai_strategy",
+    "expected_answer": "Infosys has built four small language models for banking, IT operations, cyber, and enterprises broadly.",
+    "expected_facts": [
+      "Four small language models",
+      "Banking",
+      "IT operations",
+      "Cyber",
+      "Enterprises broadly"
+    ],
+    "expected_source_pages": [
+      21,
+      25
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "ai_strategy_005",
+    "question": "What is Infosys Agentic Foundry used for?",
+    "category": "ai_strategy",
+    "expected_answer": "Infosys Agentic Foundry has developed hundreds of agents across industries, with multiple agentic projects going live and showing returns in cost and business benefits.",
+    "expected_facts": [
+      "Infosys Agentic Foundry developed hundreds of agents",
+      "Multiple agentic projects went live",
+      "Projects showed returns in cost and business benefits"
+    ],
+    "expected_source_pages": [
+      21
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "ai_strategy_006",
+    "question": "How does Infosys describe its client demand in the AI era?",
+    "category": "ai_strategy",
+    "expected_answer": "Infosys says clients are preparing for success in the AI era and moving from a use-case-based approach to an agentic AI-led transformational approach.",
+    "expected_facts": [
+      "Clients are preparing for the AI era",
+      "Clients are moving from use-case-based approach to agentic AI-led transformational approach"
+    ],
+    "expected_source_pages": [
+      21
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "ai_strategy_007",
+    "question": "What is the role of Cobalt in Infosys' AI strategy?",
+    "category": "ai_strategy",
+    "expected_answer": "Infosys says its Cobalt cloud capabilities provide the foundation for AI, supported by work with public cloud providers, private cloud players, SaaS companies and PaaS platforms.",
+    "expected_facts": [
+      "Cobalt cloud capabilities provide the foundation for AI",
+      "Infosys works with public cloud, private cloud, SaaS, and PaaS providers"
+    ],
+    "expected_source_pages": [
+      17,
+      21
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "ai_strategy_008",
+    "question": "Why does Infosys say data is foundational for AI?",
+    "category": "ai_strategy",
+    "expected_answer": "Infosys says data is foundational because its data architecture and structured and unstructured data management capabilities give clients confidence to use their data for enterprise AI deployment.",
+    "expected_facts": [
+      "Data is foundational for AI",
+      "Data architecture capabilities support enterprise AI deployment",
+      "Structured and unstructured data management capabilities support client confidence"
+    ],
+    "expected_source_pages": [
+      17
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "ai_strategy_009",
+    "question": "How many Infosys employees are AI-aware according to the annual report?",
+    "category": "ai_strategy",
+    "expected_answer": "Over 2,70,000 Infosys employees are AI-aware.",
+    "expected_facts": [
+      "Over 2,70,000 employees are AI-aware"
+    ],
+    "expected_source_pages": [
+      15,
+      21,
+      22,
+      24
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "id": "ai_strategy_010",
+    "question": "How does Infosys use AI to improve employee experience?",
+    "category": "ai_strategy",
+    "expected_answer": "Infosys uses AI for recruitment screening, role matching, interview scheduling, onboarding, identity verification, manager insights, Pulse analysis, personalized learning paths, tutoring, summarization, and contextual learning support.",
+    "expected_facts": [
+      "AI-powered recruitment capabilities",
+      "Role matching and interview scheduling",
+      "Onboarding and smart identity verification",
+      "AI-driven Pulse analysis",
+      "Personalized learning paths",
+      "AI companions on Lex"
+    ],
+    "expected_source_pages": [
+      24
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "ai_strategy_011",
+    "question": "What AI companions on Lex are mentioned in the annual report?",
+    "category": "ai_strategy",
+    "expected_answer": "The annual report mentions Zoiee and SynthAIz as AI companions on Infosys' learning platform Lex.",
+    "expected_facts": [
+      "Zoiee",
+      "SynthAIz",
+      "Lex learning platform"
+    ],
+    "expected_source_pages": [
+      24
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "ai_strategy_012",
+    "question": "What AI trends shaped industries in fiscal 2025 according to Infosys?",
+    "category": "ai_strategy",
+    "expected_answer": "Infosys says AI, including agentic AI, generative AI, 5G, Low Code No Code and quantum computing shaped the future of industries in fiscal 2025.",
+    "expected_facts": [
+      "AI",
+      "Agentic AI",
+      "Generative AI",
+      "5G",
+      "Low Code No Code",
+      "Quantum computing"
+    ],
+    "expected_source_pages": [
+      20
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "ai_strategy_013",
+    "question": "What are AI agents expected to drive according to the business context section?",
+    "category": "ai_strategy",
+    "expected_answer": "AI agents are expected to drive the next wave of monetization of AI by doing multi-step tasks, autonomous interactions with tools and data, and automating business workflows.",
+    "expected_facts": [
+      "AI agents are expected to drive the next wave of monetization of AI",
+      "AI agents can do multi-step tasks",
+      "AI agents can interact autonomously with tools and data",
+      "AI agents automate business workflows"
+    ],
+    "expected_source_pages": [
+      20
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "ai_strategy_014",
+    "question": "What is EdgeVerve AI Next?",
+    "category": "ai_strategy",
+    "expected_answer": "EdgeVerve AI Next is a unified AI platform designed to harness generative AI and agentic AI, eliminate silos across people, processes, data and technology, and enable enterprises to scale applied AI.",
+    "expected_facts": [
+      "Unified AI platform",
+      "Harnesses generative AI and agentic AI",
+      "Eliminates silos across people, processes, data and technology",
+      "Enables enterprises to scale applied AI"
+    ],
+    "expected_source_pages": [
+      25
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "ai_strategy_015",
+    "question": "How does Infosys describe responsible AI in its human capital section?",
+    "category": "ai_strategy",
+    "expected_answer": "Infosys says its vision is to responsibly use AI not as a replacement, but as an enabler that enhances personalization, operational agility, and a people-first, future-ready workplace.",
+    "expected_facts": [
+      "AI is not a replacement",
+      "AI is a powerful enabler",
+      "Enhances personalization",
+      "Improves operational agility",
+      "Supports a people-first, future-ready workplace"
+    ],
+    "expected_source_pages": [
+      24
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "employees_people_001",
+    "question": "How many employees did Infosys have globally in fiscal 2025?",
+    "category": "employees_people",
+    "expected_answer": "Infosys had 3,23,578 employees globally.",
+    "expected_facts": [
+      "3,23,578 employees globally"
+    ],
+    "expected_source_pages": [
+      10,
+      22,
+      24
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "id": "employees_people_002",
+    "question": "How many nationalities were represented in Infosys' workforce?",
+    "category": "employees_people",
+    "expected_answer": "Infosys' workforce represented 156 nationalities.",
+    "expected_facts": [
+      "156 nationalities in the workforce"
+    ],
+    "expected_source_pages": [
+      22,
+      24
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "id": "employees_people_003",
+    "question": "What was Infosys' employee satisfaction score?",
+    "category": "employees_people",
+    "expected_answer": "Infosys reported an employee satisfaction score of 77%.",
+    "expected_facts": [
+      "Employee satisfaction score was 77%"
+    ],
+    "expected_source_pages": [
+      24
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "id": "employees_people_004",
+    "question": "How many fresh graduates did Infosys hire globally?",
+    "category": "employees_people",
+    "expected_answer": "Infosys hired 15,288 fresh graduates globally.",
+    "expected_facts": [
+      "15,288 fresh graduates hired globally"
+    ],
+    "expected_source_pages": [
+      22,
+      24
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "id": "employees_people_005",
+    "question": "How many Infosys employees voluntarily disclosed their disability?",
+    "category": "employees_people",
+    "expected_answer": "1,095 Infosys employees voluntarily disclosed their disability.",
+    "expected_facts": [
+      "1,095 employees voluntarily disclosed their disability"
+    ],
+    "expected_source_pages": [
+      24
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "employees_people_006",
+    "question": "What percentage of Infosys' workforce were women in fiscal 2025?",
+    "category": "employees_people",
+    "expected_answer": "Women made up about 39% of Infosys' workforce in fiscal 2025.",
+    "expected_facts": [
+      "About 39% of the total workforce were women",
+      "Around 1,25,000 women employees"
+    ],
+    "expected_source_pages": [
+      17,
+      24
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "employees_people_007",
+    "question": "What is Infosys' female representation target under ESG Vision 2030?",
+    "category": "employees_people",
+    "expected_answer": "Infosys aims to achieve 45% female representation in its workforce by 2030.",
+    "expected_facts": [
+      "45% female representation target by 2030"
+    ],
+    "expected_source_pages": [
+      24
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "employees_people_008",
+    "question": "What was Infosys' annual average training hours per employee?",
+    "category": "employees_people",
+    "expected_answer": "Infosys reported 71.35 annual average training hours per employee.",
+    "expected_facts": [
+      "71.35 annual average training hours per employee"
+    ],
+    "expected_source_pages": [
+      22
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "employees_people_009",
+    "question": "How much did Infosys invest in employee well-being?",
+    "category": "employees_people",
+    "expected_answer": "Infosys reported ₹2,066 crore in investments in employee well-being.",
+    "expected_facts": [
+      "₹2,066 crore investments in employee well-being"
+    ],
+    "expected_source_pages": [
+      22
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "employees_people_010",
+    "question": "What is HALE at Infosys?",
+    "category": "employees_people",
+    "expected_answer": "HALE is Infosys' Health Assessment and Lifestyle Enrichment program, a non-monetary employee benefit focused on physical, emotional, social well-being and safety.",
+    "expected_facts": [
+      "HALE stands for Health Assessment and Lifestyle Enrichment",
+      "It is a non-monetary employee benefit",
+      "It focuses on physical, emotional, social well-being and safety"
+    ],
+    "expected_source_pages": [
+      24
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "esg_sustainability_001",
+    "question": "For how many consecutive years has Infosys remained carbon neutral?",
+    "category": "esg_sustainability",
+    "expected_answer": "Infosys has remained carbon neutral for six years in a row.",
+    "expected_facts": [
+      "Carbon neutral for 6 years in a row"
+    ],
+    "expected_source_pages": [
+      15,
+      22,
+      26
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "id": "esg_sustainability_002",
+    "question": "What percentage of electricity for Infosys' India operations came from renewable sources?",
+    "category": "esg_sustainability",
+    "expected_answer": "77.7% of electricity for Infosys' India operations came from renewable sources.",
+    "expected_facts": [
+      "77.7% share of renewables in India operations"
+    ],
+    "expected_source_pages": [
+      22,
+      26
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "id": "esg_sustainability_003",
+    "question": "How much highest-level green certified space did Infosys report?",
+    "category": "esg_sustainability",
+    "expected_answer": "Infosys reported 29.7 million square feet of highest-level green certified space.",
+    "expected_facts": [
+      "29.7 million sq. ft. highest-rated/highest-level green certified space"
+    ],
+    "expected_source_pages": [
+      22,
+      26,
+      27
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "esg_sustainability_004",
+    "question": "How many rural families benefited through Infosys' carbon offset programs?",
+    "category": "esg_sustainability",
+    "expected_answer": "Over 2,72,000 rural families benefited through Infosys' carbon offset programs.",
+    "expected_facts": [
+      "Over 2,72,000 rural families benefited"
+    ],
+    "expected_source_pages": [
+      15,
+      22,
+      26
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "id": "esg_sustainability_005",
+    "question": "What are the three pillars of Infosys' climate action strategy?",
+    "category": "esg_sustainability",
+    "expected_answer": "Infosys' three pillars of climate action are energy efficiency, renewable energy, and carbon offsets.",
+    "expected_facts": [
+      "Energy efficiency",
+      "Renewable energy",
+      "Carbon offsets"
+    ],
+    "expected_source_pages": [
+      26
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "esg_sustainability_006",
+    "question": "How much solar photovoltaic capacity has Infosys installed?",
+    "category": "esg_sustainability",
+    "expected_answer": "Infosys has installed over 60 MW of solar photovoltaic capacity through rooftop and ground-mounted systems.",
+    "expected_facts": [
+      "Over 60 MW solar photovoltaic capacity installed"
+    ],
+    "expected_source_pages": [
+      15,
+      26
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "esg_sustainability_007",
+    "question": "What percentage of wastewater does Infosys recycle within its campuses?",
+    "category": "esg_sustainability",
+    "expected_answer": "Infosys recycles 100% of wastewater within its campuses.",
+    "expected_facts": [
+      "100% wastewater recycled within campuses"
+    ],
+    "expected_source_pages": [
+      26
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "id": "esg_sustainability_008",
+    "question": "How much water holding capacity has Infosys increased through lake rejuvenation projects over two years?",
+    "category": "esg_sustainability",
+    "expected_answer": "Infosys achieved an increase of 4.3 billion liters in water holding capacity through 11 lake rejuvenation projects over two years.",
+    "expected_facts": [
+      "4.3 billion liters increase in water holding capacity",
+      "11 lake rejuvenation projects"
+    ],
+    "expected_source_pages": [
+      15,
+      26
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "esg_sustainability_009",
+    "question": "What is ASSURE in Infosys' sustainability context?",
+    "category": "esg_sustainability",
+    "expected_answer": "ASSURE, or Accelerating Sustainable Super-Efficient Real Estate, is a multi-stakeholder platform launched with IIHS to replicate climate-resilient, energy-efficient infrastructure.",
+    "expected_facts": [
+      "ASSURE stands for Accelerating Sustainable Super-Efficient Real Estate",
+      "Launched with IIHS",
+      "Aims to replicate climate-resilient, energy-efficient infrastructure"
+    ],
+    "expected_source_pages": [
+      26
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "esg_sustainability_010",
+    "question": "What is Infosys' goal for ASSURE by 2030?",
+    "category": "esg_sustainability",
+    "expected_answer": "ASSURE aims to demonstrate 100 million square feet of super-efficient commercial real estate by 2030.",
+    "expected_facts": [
+      "Goal of demonstrating 100 million sq. ft. of super-efficient commercial real estate by 2030"
+    ],
+    "expected_source_pages": [
+      26
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "geography_clients_001",
+    "question": "How many active clients did Infosys report?",
+    "category": "geography_clients",
+    "expected_answer": "Infosys reported 1,869 active clients.",
+    "expected_facts": [
+      "1,869 active clients"
+    ],
+    "expected_source_pages": [
+      10,
+      22
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "id": "geography_clients_002",
+    "question": "How many offices did Infosys have?",
+    "category": "geography_clients",
+    "expected_answer": "Infosys had 292 offices.",
+    "expected_facts": [
+      "292 offices"
+    ],
+    "expected_source_pages": [
+      10
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "id": "geography_clients_003",
+    "question": "In how many countries did Infosys operate?",
+    "category": "geography_clients",
+    "expected_answer": "Infosys operated in 59 countries.",
+    "expected_facts": [
+      "59 countries"
+    ],
+    "expected_source_pages": [
+      10,
+      36
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "id": "geography_clients_004",
+    "question": "What percentage of Infosys' 2024-25 revenue came from North America?",
+    "category": "geography_clients",
+    "expected_answer": "North America contributed 57.9% of Infosys' 2024-25 revenue.",
+    "expected_facts": [
+      "North America revenue share was 57.9%"
+    ],
+    "expected_source_pages": [
+      10,
+      32
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "id": "geography_clients_005",
+    "question": "What percentage of Infosys' 2024-25 revenue came from Europe?",
+    "category": "geography_clients",
+    "expected_answer": "Europe contributed 29.8% of Infosys' 2024-25 revenue.",
+    "expected_facts": [
+      "Europe revenue share was 29.8%"
+    ],
+    "expected_source_pages": [
+      10,
+      32
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "id": "geography_clients_006",
+    "question": "What percentage of Infosys' 2024-25 revenue came from India?",
+    "category": "geography_clients",
+    "expected_answer": "India contributed 3.1% of Infosys' 2024-25 revenue.",
+    "expected_facts": [
+      "India revenue share was 3.1%"
+    ],
+    "expected_source_pages": [
+      10,
+      32
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "id": "geography_clients_007",
+    "question": "What percentage of Infosys' 2024-25 revenue came from the Rest of the World?",
+    "category": "geography_clients",
+    "expected_answer": "Rest of the World contributed 9.2% of Infosys' 2024-25 revenue.",
+    "expected_facts": [
+      "Rest of the World revenue share was 9.2%"
+    ],
+    "expected_source_pages": [
+      10,
+      32
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "id": "geography_clients_008",
+    "question": "What percentage of clients expressed satisfaction with Infosys?",
+    "category": "geography_clients",
+    "expected_answer": "According to the latest annual client survey, 90% of clients expressed satisfaction with Infosys.",
+    "expected_facts": [
+      "90% of clients expressed satisfaction"
+    ],
+    "expected_source_pages": [
+      28
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_clients_009",
+    "question": "How many new client accounts did Infosys report?",
+    "category": "geography_clients",
+    "expected_answer": "Infosys reported 365 new client accounts.",
+    "expected_facts": [
+      "365 new client accounts"
+    ],
+    "expected_source_pages": [
+      22
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_clients_010",
+    "question": "How many employees were in nearshore or tier-2 locations?",
+    "category": "geography_clients",
+    "expected_answer": "Infosys reported 72,205 employees in nearshore or tier-2 locations.",
+    "expected_facts": [
+      "72,205 employees in nearshore / tier-2 locations"
+    ],
+    "expected_source_pages": [
+      22
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "products_platforms_001",
+    "question": "How does Infosys classify its solutions?",
+    "category": "products_platforms",
+    "expected_answer": "Infosys classifies its solutions as digital and core.",
+    "expected_facts": [
+      "Solutions are classified as digital and core"
+    ],
+    "expected_source_pages": [
+      21
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "id": "products_platforms_002",
+    "question": "What are the five digital solution areas listed by Infosys?",
+    "category": "products_platforms",
+    "expected_answer": "The five digital solution areas listed are Experience, Accelerate, Insight, Assure, and Innovate.",
+    "expected_facts": [
+      "Experience",
+      "Accelerate",
+      "Insight",
+      "Assure",
+      "Innovate"
+    ],
+    "expected_source_pages": [
+      21,
+      28
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "id": "products_platforms_003",
+    "question": "What are the core solution areas listed by Infosys?",
+    "category": "products_platforms",
+    "expected_answer": "The core solution areas include application management services, infrastructure management services, proprietary application development services, traditional enterprise application implementation, independent validation solutions, support and integration services, product engineering and management, and business process management.",
+    "expected_facts": [
+      "Application management services",
+      "Infrastructure management services",
+      "Proprietary application development services",
+      "Traditional enterprise application implementation",
+      "Independent validation solutions",
+      "Support and integration services",
+      "Product engineering and management",
+      "Business process management"
+    ],
+    "expected_source_pages": [
+      21
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "products_platforms_004",
+    "question": "What is Infosys Cobalt?",
+    "category": "products_platforms",
+    "expected_answer": "Infosys Cobalt is a set of services, solutions and platforms for enterprises to accelerate their cloud journey.",
+    "expected_facts": [
+      "Infosys Cobalt accelerates enterprise cloud journeys"
+    ],
+    "expected_source_pages": [
+      21
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "id": "products_platforms_005",
+    "question": "What is Infosys Aster?",
+    "category": "products_platforms",
+    "expected_answer": "Infosys Aster is an AI-amplified marketing suite that delivers engaging brand experiences, enhanced marketing efficiency and accelerated business growth.",
+    "expected_facts": [
+      "AI-amplified marketing suite",
+      "Engaging brand experiences",
+      "Enhanced marketing efficiency",
+      "Accelerated business growth"
+    ],
+    "expected_source_pages": [
+      21
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "products_platforms_006",
+    "question": "What is Infosys Metaverse Foundry?",
+    "category": "products_platforms",
+    "expected_answer": "Infosys Metaverse Foundry helps enterprises explore the metaverse, including virtual and augmented environments for customers, workplace, products and operations.",
+    "expected_facts": [
+      "Eases and fast-tracks exploration of the metaverse",
+      "Covers virtual and augmented environments",
+      "Supports customers, workplace, products and operations"
+    ],
+    "expected_source_pages": [
+      21
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "products_platforms_007",
+    "question": "What does Infosys Center for Emerging Technology Solutions focus on?",
+    "category": "products_platforms",
+    "expected_answer": "Infosys Center for Emerging Technology Solutions focuses on incubating NextGen services and offerings by identifying and building technology capabilities to accelerate innovation.",
+    "expected_facts": [
+      "Incubation of NextGen services and offerings",
+      "Identifying and building technology capabilities",
+      "Accelerating innovation"
+    ],
+    "expected_source_pages": [
+      21,
+      25
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "products_platforms_008",
+    "question": "How many industry-leading products, solutions and platforms power Infosys Cobalt and Topaz offerings?",
+    "category": "products_platforms",
+    "expected_answer": "More than 200 industry-leading products, solutions and platforms power Infosys Cobalt and Topaz offerings.",
+    "expected_facts": [
+      "200+ industry-leading products, solutions and platforms power Cobalt and Topaz offerings"
+    ],
+    "expected_source_pages": [
+      22
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "products_platforms_009",
+    "question": "How many patents did Infosys report in its portfolio?",
+    "category": "products_platforms",
+    "expected_answer": "Infosys reported 823 patents in its portfolio, granted or pending.",
+    "expected_facts": [
+      "823 patents granted/pending"
+    ],
+    "expected_source_pages": [
+      22,
+      25
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "id": "products_platforms_010",
+    "question": "How many startups are in Infosys' innovation ecosystem?",
+    "category": "products_platforms",
+    "expected_answer": "Infosys reported over 370 startups in its innovation ecosystem.",
+    "expected_facts": [
+      "370+ startups in innovation ecosystem"
+    ],
+    "expected_source_pages": [
+      22,
+      25
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "id": "risk_compliance_001",
+    "question": "What cybersecurity standard is Infosys certified against?",
+    "category": "risk_compliance",
+    "expected_answer": "Infosys is certified against the Information Security Management System standard ISO 27001:2022.",
+    "expected_facts": [
+      "Certified against ISMS Standard ISO 27001:2022"
+    ],
+    "expected_source_pages": [
+      39
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "risk_compliance_002",
+    "question": "What SOC attestations does Infosys mention?",
+    "category": "risk_compliance",
+    "expected_answer": "Infosys states that it has been attested for SSAE 18 and ISAE 3402 SOC 1 and SOC 2 by an independent audit firm.",
+    "expected_facts": [
+      "SSAE 18",
+      "ISAE 3402 SOC 1",
+      "SOC 2",
+      "Independent audit firm"
+    ],
+    "expected_source_pages": [
+      39
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "risk_compliance_003",
+    "question": "What cybersecurity governance sub-committee was constituted?",
+    "category": "risk_compliance",
+    "expected_answer": "A Cybersecurity Risk Sub-committee of the Risk Management Committee was constituted to assess and enhance preparedness to mitigate cybersecurity risks.",
+    "expected_facts": [
+      "Cybersecurity Risk Sub-committee",
+      "Sub-committee of the Risk Management Committee",
+      "Assesses and enhances preparedness to mitigate cybersecurity risks"
+    ],
+    "expected_source_pages": [
+      39
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "risk_compliance_004",
+    "question": "Did the fiscal 2025 auditors' reports contain qualifications or adverse remarks?",
+    "category": "risk_compliance",
+    "expected_answer": "No. The auditors' report and secretarial auditors' report for fiscal 2025 did not contain any qualification, reservation or adverse remark.",
+    "expected_facts": [
+      "Auditors' Report did not contain qualification, reservation or adverse remark",
+      "Secretarial Auditors' Report did not contain qualification, reservation or adverse remark"
+    ],
+    "expected_source_pages": [
+      9,
+      40
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "risk_compliance_005",
+    "question": "Were there any material changes affecting Infosys' financial position after fiscal year-end?",
+    "category": "risk_compliance",
+    "expected_answer": "Infosys reported no material changes and commitments affecting the Company's financial position between the end of the financial year and the date of the report.",
+    "expected_facts": [
+      "No material changes and commitments affecting financial position between fiscal year-end and date of report"
+    ],
+    "expected_source_pages": [
+      35
+    ],
+    "difficulty": "medium"
+  }
+]

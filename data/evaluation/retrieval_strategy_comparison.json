@@ -1,0 +1,91 @@
+[
+  {
+    "strategy_name": "similarity_only",
+    "total_questions": 30,
+    "retrieval_hit_rate": 0.8666666666666667,
+    "average_precision_at_k": 0.29333333333333333,
+    "average_recall_at_k": 0.6888888888888889,
+    "average_mrr": 0.5277777777777778,
+    "failed_question_ids": [
+      "financial_008",
+      "financial_009",
+      "financial_015",
+      "financial_019"
+    ]
+  },
+  {
+    "strategy_name": "similarity_rerank",
+    "total_questions": 30,
+    "retrieval_hit_rate": 1.0,
+    "average_precision_at_k": 0.34,
+    "average_recall_at_k": 0.8388888888888889,
+    "average_mrr": 0.8244444444444444,
+    "failed_question_ids": []
+  },
+  {
+    "strategy_name": "multiquery_only",
+    "total_questions": 30,
+    "retrieval_hit_rate": 0.8333333333333334,
+    "average_precision_at_k": 0.25333333333333335,
+    "average_recall_at_k": 0.611111111111111,
+    "average_mrr": 0.48000000000000004,
+    "failed_question_ids": [
+      "financial_009",
+      "financial_015",
+      "financial_017",
+      "financial_019",
+      "business_segments_001"
+    ]
+  },
+  {
+    "strategy_name": "multiquery_rerank",
+    "total_questions": 30,
+    "retrieval_hit_rate": 1.0,
+    "average_precision_at_k": 0.3466666666666667,
+    "average_recall_at_k": 0.85,
+    "average_mrr": 0.8244444444444444,
+    "failed_question_ids": []
+  },
+  {
+    "strategy_name": "mmr_only",
+    "total_questions": 30,
+    "retrieval_hit_rate": 0.4666666666666667,
+    "average_precision_at_k": 0.10666666666666667,
+    "average_recall_at_k": 0.29444444444444445,
+    "average_mrr": 0.3611111111111111,
+    "failed_question_ids": [
+      "financial_001",
+      "financial_003",
+      "financial_005",
+      "financial_006",
+      "financial_007",
+      "financial_009",
+      "financial_010",
+      "financial_015",
+      "financial_017",
+      "financial_018",
+      "business_segments_002",
+      "business_segments_003",
+      "business_segments_004",
+      "business_segments_006",
+      "business_segments_009",
+      "business_segments_010"
+    ]
+  },
+  {
+    "strategy_name": "mmr_rerank",
+    "total_questions": 30,
+    "retrieval_hit_rate": 0.8,
+    "average_precision_at_k": 0.24666666666666667,
+    "average_recall_at_k": 0.6055555555555556,
+    "average_mrr": 0.7,
+    "failed_question_ids": [
+      "financial_009",
+      "financial_010",
+      "financial_015",
+      "financial_017",
+      "financial_018",
+      "business_segments_009"
+    ]
+  }
+]

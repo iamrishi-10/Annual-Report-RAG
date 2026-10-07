@@ -1,0 +1,15 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+data/raw/*.pdf
+data/processed/*.json
+.pytest_cache/
+.ruff_cache/
+logs/
+.claude
+graphify-out
+.env
+PROJECT_PROGRESS.md
+context_preview.txt
+Interview_Explanation

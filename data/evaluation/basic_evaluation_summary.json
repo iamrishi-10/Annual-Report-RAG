@@ -1,0 +1,20 @@
+{
+  "total_questions": 30,
+  "answered_count": 29,
+  "failed_count": 1,
+  "source_page_hit_rate": 1.0,
+  "average_retrieved_chunk_count": 29.9,
+  "average_final_context_chunk_count": 5.0,
+  "category_breakdown": {
+    "financial": {
+      "total_questions": 20,
+      "answered_count": 19,
+      "source_page_hit_rate": 1.0
+    },
+    "business_segments": {
+      "total_questions": 10,
+      "answered_count": 10,
+      "source_page_hit_rate": 1.0
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "total_questions": 30,
+  "retrieval_hit_rate": 0.9666666666666667,
+  "average_precision_at_k": 0.34,
+  "average_recall_at_k": 0.8166666666666667,
+  "average_mrr": 0.8177777777777778,
+  "category_breakdown": {
+    "financial": {
+      "total_questions": 20,
+      "retrieval_hit_rate": 1.0,
+      "average_precision_at_k": 0.3,
+      "average_recall_at_k": 0.7916666666666667,
+      "average_mrr": 0.86
+    },
+    "business_segments": {
+      "total_questions": 10,
+      "retrieval_hit_rate": 0.9,
+      "average_precision_at_k": 0.42000000000000004,
+      "average_recall_at_k": 0.8666666666666666,
+      "average_mrr": 0.7333333333333333
+    }
+  }
+}

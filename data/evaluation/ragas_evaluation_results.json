@@ -1,0 +1,272 @@
+[
+  {
+    "id": "financial_001",
+    "question": "What was Infosys' total revenue in fiscal 2025?",
+    "faithfulness": 0.5,
+    "answer_relevancy": 0.9999995923794797,
+    "context_precision": 0.9999999999666667,
+    "context_recall": 1.0,
+    "answer_correctness": 0.7300696636566305
+  },
+  {
+    "id": "financial_002",
+    "question": "What was Infosys' revenue growth in fiscal 2025?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.9988537563345625,
+    "context_precision": 0.8666666666377778,
+    "context_recall": 1.0,
+    "answer_correctness": 0.7059907687074151
+  },
+  {
+    "id": "financial_003",
+    "question": "What was Infosys' constant currency revenue growth in fiscal 2025?",
+    "faithfulness": 0.5,
+    "answer_relevancy": 0.9638922231282698,
+    "context_precision": 0.5833333333041666,
+    "context_recall": 1.0,
+    "answer_correctness": 0.5180888430900717
+  },
+  {
+    "id": "financial_004",
+    "question": "What was Infosys' operating margin in fiscal 2025?",
+    "faithfulness": 0.5,
+    "answer_relevancy": 0.9999997035724361,
+    "context_precision": 0.94999999997625,
+    "context_recall": 1.0,
+    "answer_correctness": 0.7324836925933675
+  },
+  {
+    "id": "financial_005",
+    "question": "What was Infosys' highest ever free cash flow in fiscal 2025?",
+    "faithfulness": 0.5,
+    "answer_relevancy": 0.9999996039862126,
+    "context_precision": 0.9999999999,
+    "context_recall": 1.0,
+    "answer_correctness": 0.6063848567522081
+  },
+  {
+    "id": "financial_006",
+    "question": "What was Infosys' free cash flow growth in fiscal 2025?",
+    "faithfulness": 0.5,
+    "answer_relevancy": 0.9999996331155026,
+    "context_precision": 0.6388888888675925,
+    "context_recall": 1.0,
+    "answer_correctness": 0.7337987104211523
+  },
+  {
+    "id": "financial_007",
+    "question": "What was Infosys' FCF conversion as a percentage of net profit in fiscal 2025?",
+    "faithfulness": 0.5,
+    "answer_relevancy": 0.8371753966507046,
+    "context_precision": 0.9999999999,
+    "context_recall": 1.0,
+    "answer_correctness": 0.7131023996844057
+  },
+  {
+    "id": "financial_008",
+    "question": "What was Infosys' consolidated cash and investments in fiscal 2025?",
+    "faithfulness": 0.5,
+    "answer_relevancy": 0.9945271859387871,
+    "context_precision": 0.7499999999625,
+    "context_recall": 1.0,
+    "answer_correctness": 0.736810346535297
+  },
+  {
+    "id": "financial_009",
+    "question": "What was Infosys' basic earnings per share in fiscal 2025?",
+    "faithfulness": 0.5,
+    "answer_relevancy": 0.999999712833684,
+    "context_precision": 0.9999999999666667,
+    "context_recall": 1.0,
+    "answer_correctness": 0.7394722969550693
+  },
+  {
+    "id": "financial_010",
+    "question": "What was Infosys' basic EPS growth in fiscal 2025?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.9297891124391876,
+    "context_precision": 0.8041666666465626,
+    "context_recall": 1.0,
+    "answer_correctness": 0.7186878509669992
+  },
+  {
+    "id": "financial_011",
+    "question": "What was Infosys' market capitalization in fiscal 2025 according to the business highlights?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.0,
+    "context_precision": 0.3333333333,
+    "context_recall": 1.0,
+    "answer_correctness": 0.005897280065873084
+  },
+  {
+    "id": "financial_012",
+    "question": "What was Infosys' large deal total contract value in fiscal 2025?",
+    "faithfulness": 0.5,
+    "answer_relevancy": 0.9085479553351955,
+    "context_precision": 0.9999999999,
+    "context_recall": 1.0,
+    "answer_correctness": 0.717111735499415
+  },
+  {
+    "id": "financial_013",
+    "question": "What were Infosys' consolidated revenue from operations in 2025 and 2024?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.9138465252204653,
+    "context_precision": 0.99999999998,
+    "context_recall": 1.0,
+    "answer_correctness": 0.9781323472545274
+  },
+  {
+    "id": "financial_014",
+    "question": "What was Infosys' consolidated profit after tax in fiscal 2025?",
+    "faithfulness": 0.5,
+    "answer_relevancy": 0.9974343747889884,
+    "context_precision": 0.4777777777618519,
+    "context_recall": 1.0,
+    "answer_correctness": 0.7367711399672863
+  },
+  {
+    "id": "financial_015",
+    "question": "What was Infosys' profit attributable to owners of the Company in fiscal 2025?",
+    "faithfulness": 0.5,
+    "answer_relevancy": 0.7489938668351557,
+    "context_precision": 0.9999999999,
+    "context_recall": 1.0,
+    "answer_correctness": 0.7235362546556856
+  },
+  {
+    "id": "financial_016",
+    "question": "What was Infosys' consolidated total income in fiscal 2025?",
+    "faithfulness": 0.5,
+    "answer_relevancy": 0.9999996435064937,
+    "context_precision": 0.99999999995,
+    "context_recall": 1.0,
+    "answer_correctness": 0.7331463209074622
+  },
+  {
+    "id": "financial_017",
+    "question": "What was Infosys' consolidated net current assets as of March 31, 2025?",
+    "faithfulness": 0.5,
+    "answer_relevancy": 0.9935850280470987,
+    "context_precision": 0.9999999999,
+    "context_recall": 1.0,
+    "answer_correctness": 0.7402243378008836
+  },
+  {
+    "id": "financial_018",
+    "question": "What was Infosys' consolidated total assets as of March 31, 2025?",
+    "faithfulness": 0.5,
+    "answer_relevancy": 0.9959913892039635,
+    "context_precision": 0.7555555555303703,
+    "context_recall": 1.0,
+    "answer_correctness": 0.7384987014533335
+  },
+  {
+    "id": "financial_019",
+    "question": "What was Infosys' consolidated total equity as of March 31, 2025?",
+    "faithfulness": 0.75,
+    "answer_relevancy": 1.0,
+    "context_precision": 0.49999999995,
+    "context_recall": 1.0,
+    "answer_correctness": 0.5282635620722802
+  },
+  {
+    "id": "financial_020",
+    "question": "What does Infosys' capital allocation policy target from fiscal 2025?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.9465511104273001,
+    "context_precision": 0.9166666666361111,
+    "context_recall": 1.0,
+    "answer_correctness": 0.978213799441458
+  },
+  {
+    "id": "business_segments_001",
+    "question": "What are Infosys' primary business segments?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.9621206164425378,
+    "context_precision": 0.99999999998,
+    "context_recall": 1.0,
+    "answer_correctness": 0.8963687756186784
+  },
+  {
+    "id": "business_segments_002",
+    "question": "What does the Financial Services segment include?",
+    "faithfulness": 0.6666666666666666,
+    "answer_relevancy": 0.9999995771347535,
+    "context_precision": 0.8874999999778125,
+    "context_recall": 1.0,
+    "answer_correctness": 0.8150739424013067
+  },
+  {
+    "id": "business_segments_003",
+    "question": "What does the Retail segment include?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 1.0000000000000002,
+    "context_precision": 0.9999999999666667,
+    "context_recall": 1.0,
+    "answer_correctness": 0.9783403299362841
+  },
+  {
+    "id": "business_segments_004",
+    "question": "What does the Communication segment include?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.9999999999999999,
+    "context_precision": 0.94999999997625,
+    "context_recall": 1.0,
+    "answer_correctness": 0.9814022458558304
+  },
+  {
+    "id": "business_segments_005",
+    "question": "What does the EURS segment include?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.9279249231790511,
+    "context_precision": 0.699999999965,
+    "context_recall": 1.0,
+    "answer_correctness": 0.9845248507670491
+  },
+  {
+    "id": "business_segments_006",
+    "question": "What does the Life Sciences segment include?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.999999607424789,
+    "context_precision": 0.8874999999778125,
+    "context_recall": 1.0,
+    "answer_correctness": 0.9725806027072879
+  },
+  {
+    "id": "business_segments_007",
+    "question": "What does Infosys classify as 'all other segments'?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.8842912262356781,
+    "context_precision": 0.9999999999666667,
+    "context_recall": 1.0,
+    "answer_correctness": 0.9785451849241318
+  },
+  {
+    "id": "business_segments_008",
+    "question": "Which business segment had the highest revenue from operations in 2025?",
+    "faithfulness": 0.6666666666666666,
+    "answer_relevancy": 0.9999995829657132,
+    "context_precision": 0.99999999995,
+    "context_recall": 1.0,
+    "answer_correctness": 0.8025280030723312
+  },
+  {
+    "id": "business_segments_009",
+    "question": "What was Manufacturing revenue from operations in 2025?",
+    "faithfulness": 0.5,
+    "answer_relevancy": 0.9729197730275332,
+    "context_precision": 0.19999999998,
+    "context_recall": 1.0,
+    "answer_correctness": 0.7132055625185258
+  },
+  {
+    "id": "business_segments_010",
+    "question": "What was the total segmental revenue from operations in 2025?",
+    "faithfulness": 0.5,
+    "answer_relevancy": 1.0000000000000002,
+    "context_precision": 0.999999999975,
+    "context_recall": 1.0,
+    "answer_correctness": 0.7124547678184814
+  }
+]

@@ -1,0 +1,1645 @@
+[
+  {
+    "id": "financial_001",
+    "question": "What was Infosys' total revenue in fiscal 2025?",
+    "category": "financial",
+    "difficulty": "easy",
+    "expected_answer": "Infosys' total revenues in fiscal 2025 were ₹1,62,990 crore.",
+    "expected_source_pages": [
+      10,
+      15
+    ],
+    "actual_answer": "Infosys' total revenue in fiscal 2025 was ₹1,62,990 crore (Source: Page 10, infosys-ar-25_page_10_chunk_0).",
+    "actual_source_pages": [
+      10.0,
+      15.0,
+      276.0,
+      196.0,
+      257.0
+    ],
+    "actual_sources": [
+      {
+        "source_number": 1,
+        "page_number": 10.0,
+        "chunk_id": "infosys-ar-25_page_10_chunk_0"
+      },
+      {
+        "source_number": 2,
+        "page_number": 15.0,
+        "chunk_id": "infosys-ar-25_page_15_chunk_0"
+      },
+      {
+        "source_number": 3,
+        "page_number": 276.0,
+        "chunk_id": "infosys-ar-25_page_276_chunk_0"
+      },
+      {
+        "source_number": 4,
+        "page_number": 196.0,
+        "chunk_id": "infosys-ar-25_page_196_chunk_0"
+      },
+      {
+        "source_number": 5,
+        "page_number": 257.0,
+        "chunk_id": "infosys-ar-25_page_257_chunk_0"
+      }
+    ],
+    "retrieved_chunk_count": 26,
+    "final_context_chunk_count": 5,
+    "source_page_hit": true,
+    "answered": true,
+    "retrieval_hit": true,
+    "precision_at_k": 0.4,
+    "recall_at_k": 1.0,
+    "first_relevant_rank": 1,
+    "mrr": 1.0
+  },
+  {
+    "id": "financial_002",
+    "question": "What was Infosys' revenue growth in fiscal 2025?",
+    "category": "financial",
+    "difficulty": "easy",
+    "expected_answer": "Infosys reported 6.1% revenue growth in fiscal 2025.",
+    "expected_source_pages": [
+      15,
+      23
+    ],
+    "actual_answer": "Infosys' revenue growth in fiscal 2025 was 6.1% year-over-year (Y-o-Y) (Source: Page 15, infosys-ar-25_page_15_chunk_0).",
+    "actual_source_pages": [
+      15.0,
+      30.0,
+      17.0,
+      10.0,
+      75.0
+    ],
+    "actual_sources": [
+      {
+        "source_number": 1,
+        "page_number": 15.0,
+        "chunk_id": "infosys-ar-25_page_15_chunk_0"
+      },
+      {
+        "source_number": 2,
+        "page_number": 30.0,
+        "chunk_id": "infosys-ar-25_page_30_chunk_0"
+      },
+      {
+        "source_number": 3,
+        "page_number": 17.0,
+        "chunk_id": "infosys-ar-25_page_17_chunk_0"
+      },
+      {
+        "source_number": 4,
+        "page_number": 10.0,
+        "chunk_id": "infosys-ar-25_page_10_chunk_0"
+      },
+      {
+        "source_number": 5,
+        "page_number": 75.0,
+        "chunk_id": "infosys-ar-25_page_75_chunk_0"
+      }
+    ],
+    "retrieved_chunk_count": 33,
+    "final_context_chunk_count": 5,
+    "source_page_hit": true,
+    "answered": true,
+    "retrieval_hit": true,
+    "precision_at_k": 0.2,
+    "recall_at_k": 0.5,
+    "first_relevant_rank": 1,
+    "mrr": 1.0
+  },
+  {
+    "id": "financial_003",
+    "question": "What was Infosys' constant currency revenue growth in fiscal 2025?",
+    "category": "financial",
+    "difficulty": "easy",
+    "expected_answer": "Infosys reported 4.2% constant currency revenue growth year-on-year in fiscal 2025.",
+    "expected_source_pages": [
+      15
+    ],
+    "actual_answer": "Infosys' constant currency revenue growth in fiscal 2025 was 4.2% (Source: Page 73, infosys-ar-25_page_73_chunk_4).",
+    "actual_source_pages": [
+      73.0,
+      15.0,
+      73.0,
+      10.0,
+      30.0
+    ],
+    "actual_sources": [
+      {
+        "source_number": 1,
+        "page_number": 73.0,
+        "chunk_id": "infosys-ar-25_page_73_chunk_3"
+      },
+      {
+        "source_number": 2,
+        "page_number": 15.0,
+        "chunk_id": "infosys-ar-25_page_15_chunk_0"
+      },
+      {
+        "source_number": 3,
+        "page_number": 73.0,
+        "chunk_id": "infosys-ar-25_page_73_chunk_4"
+      },
+      {
+        "source_number": 4,
+        "page_number": 10.0,
+        "chunk_id": "infosys-ar-25_page_10_chunk_0"
+      },
+      {
+        "source_number": 5,
+        "page_number": 30.0,
+        "chunk_id": "infosys-ar-25_page_30_chunk_0"
+      }
+    ],
+    "retrieved_chunk_count": 26,
+    "final_context_chunk_count": 5,
+    "source_page_hit": true,
+    "answered": true,
+    "retrieval_hit": true,
+    "precision_at_k": 0.2,
+    "recall_at_k": 1.0,
+    "first_relevant_rank": 2,
+    "mrr": 0.5
+  },
+  {
+    "id": "financial_004",
+    "question": "What was Infosys' operating margin in fiscal 2025?",
+    "category": "financial",
+    "difficulty": "easy",
+    "expected_answer": "Infosys' operating margin in fiscal 2025 was 21.1%.",
+    "expected_source_pages": [
+      15,
+      17,
+      23
+    ],
+    "actual_answer": "Infosys' operating margin in fiscal 2025 was 21.1% (Source: Page 15.0, infosys-ar-25_page_15_chunk_0).",
+    "actual_source_pages": [
+      17.0,
+      15.0,
+      23.0,
+      30.0,
+      196.0
+    ],
+    "actual_sources": [
+      {
+        "source_number": 1,
+        "page_number": 17.0,
+        "chunk_id": "infosys-ar-25_page_17_chunk_0"
+      },
+      {
+        "source_number": 2,
+        "page_number": 15.0,
+        "chunk_id": "infosys-ar-25_page_15_chunk_0"
+      },
+      {
+        "source_number": 3,
+        "page_number": 23.0,
+        "chunk_id": "infosys-ar-25_page_23_chunk_0"
+      },
+      {
+        "source_number": 4,
+        "page_number": 30.0,
+        "chunk_id": "infosys-ar-25_page_30_chunk_0"
+      },
+      {
+        "source_number": 5,
+        "page_number": 196.0,
+        "chunk_id": "infosys-ar-25_page_196_chunk_0"
+      }
+    ],
+    "retrieved_chunk_count": 32,
+    "final_context_chunk_count": 5,
+    "source_page_hit": true,
+    "answered": true,
+    "retrieval_hit": true,
+    "precision_at_k": 0.6,
+    "recall_at_k": 1.0,
+    "first_relevant_rank": 1,
+    "mrr": 1.0
+  },
+  {
+    "id": "financial_005",
+    "question": "What was Infosys' highest ever free cash flow in fiscal 2025?",
+    "category": "financial",
+    "difficulty": "easy",
+    "expected_answer": "Infosys reported its highest ever free cash flow of ₹34,549 crore for fiscal 2025.",
+    "expected_source_pages": [
+      15
+    ],
+    "actual_answer": "Infosys' highest ever free cash flow in fiscal 2025 was ₹34,549 crore, representing a 44.8% year-on-year growth (Source: Page 15, infosys-ar-25_page_15_chunk_0).",
+    "actual_source_pages": [
+      15.0,
+      17.0,
+      33.0,
+      23.0,
+      203.0
+    ],
+    "actual_sources": [
+      {
+        "source_number": 1,
+        "page_number": 15.0,
+        "chunk_id": "infosys-ar-25_page_15_chunk_0"
+      },
+      {
+        "source_number": 2,
+        "page_number": 17.0,
+        "chunk_id": "infosys-ar-25_page_17_chunk_0"
+      },
+      {
+        "source_number": 3,
+        "page_number": 33.0,
+        "chunk_id": "infosys-ar-25_page_33_chunk_1"
+      },
+      {
+        "source_number": 4,
+        "page_number": 23.0,
+        "chunk_id": "infosys-ar-25_page_23_chunk_0"
+      },
+      {
+        "source_number": 5,
+        "page_number": 203.0,
+        "chunk_id": "infosys-ar-25_page_203_chunk_0"
+      }
+    ],
+    "retrieved_chunk_count": 28,
+    "final_context_chunk_count": 5,
+    "source_page_hit": true,
+    "answered": true,
+    "retrieval_hit": true,
+    "precision_at_k": 0.2,
+    "recall_at_k": 1.0,
+    "first_relevant_rank": 1,
+    "mrr": 1.0
+  },
+  {
+    "id": "financial_006",
+    "question": "What was Infosys' free cash flow growth in fiscal 2025?",
+    "category": "financial",
+    "difficulty": "easy",
+    "expected_answer": "Infosys' free cash flow growth in fiscal 2025 was 44.8% year-on-year.",
+    "expected_source_pages": [
+      15,
+      23
+    ],
+    "actual_answer": "Infosys' free cash flow growth in fiscal 2025 was 44.8% year-over-year (Y-o-Y) (Source: Page 15, infosys-ar-25_page_15_chunk_0).",
+    "actual_source_pages": [
+      17.0,
+      15.0,
+      23.0,
+      33.0,
+      33.0
+    ],
+    "actual_sources": [
+      {
+        "source_number": 1,
+        "page_number": 17.0,
+        "chunk_id": "infosys-ar-25_page_17_chunk_0"
+      },
+      {
+        "source_number": 2,
+        "page_number": 15.0,
+        "chunk_id": "infosys-ar-25_page_15_chunk_0"
+      },
+      {
+        "source_number": 3,
+        "page_number": 23.0,
+        "chunk_id": "infosys-ar-25_page_23_chunk_0"
+      },
+      {
+        "source_number": 4,
+        "page_number": 33.0,
+        "chunk_id": "infosys-ar-25_page_33_chunk_1"
+      },
+      {
+        "source_number": 5,
+        "page_number": 33.0,
+        "chunk_id": "infosys-ar-25_page_33_chunk_0"
+      }
+    ],
+    "retrieved_chunk_count": 26,
+    "final_context_chunk_count": 5,
+    "source_page_hit": true,
+    "answered": true,
+    "retrieval_hit": true,
+    "precision_at_k": 0.4,
+    "recall_at_k": 1.0,
+    "first_relevant_rank": 2,
+    "mrr": 0.5
+  },
+  {
+    "id": "financial_007",
+    "question": "What was Infosys' FCF conversion as a percentage of net profit in fiscal 2025?",
+    "category": "financial",
+    "difficulty": "medium",
+    "expected_answer": "Infosys reported FCF conversion at 129.2% of net profit in fiscal 2025.",
+    "expected_source_pages": [
+      15
+    ],
+    "actual_answer": "Infosys' free cash flow (FCF) conversion as a percentage of net profit in fiscal 2025 was 129.2% (Source: Page 15, infosys-ar-25_page_15_chunk_0).",
+    "actual_source_pages": [
+      15.0,
+      17.0,
+      33.0,
+      283.0,
+      203.0
+    ],
+    "actual_sources": [
+      {
+        "source_number": 1,
+        "page_number": 15.0,
+        "chunk_id": "infosys-ar-25_page_15_chunk_0"
+      },
+      {
+        "source_number": 2,
+        "page_number": 17.0,
+        "chunk_id": "infosys-ar-25_page_17_chunk_0"
+      },
+      {
+        "source_number": 3,
+        "page_number": 33.0,
+        "chunk_id": "infosys-ar-25_page_33_chunk_1"
+      },
+      {
+        "source_number": 4,
+        "page_number": 283.0,
+        "chunk_id": "infosys-ar-25_page_283_chunk_0"
+      },
+      {
+        "source_number": 5,
+        "page_number": 203.0,
+        "chunk_id": "infosys-ar-25_page_203_chunk_0"
+      }
+    ],
+    "retrieved_chunk_count": 31,
+    "final_context_chunk_count": 5,
+    "source_page_hit": true,
+    "answered": true,
+    "retrieval_hit": true,
+    "precision_at_k": 0.2,
+    "recall_at_k": 1.0,
+    "first_relevant_rank": 1,
+    "mrr": 1.0
+  },
+  {
+    "id": "financial_008",
+    "question": "What was Infosys' consolidated cash and investments in fiscal 2025?",
+    "category": "financial",
+    "difficulty": "easy",
+    "expected_answer": "Infosys' consolidated cash and investments were ₹47,549 crore in fiscal 2025.",
+    "expected_source_pages": [
+      15,
+      22,
+      33
+    ],
+    "actual_answer": "Infosys' consolidated cash and investments in fiscal 2025 amounted to ₹47,549 crore (Source: Page 15, infosys-ar-25_page_15_chunk_0).",
+    "actual_source_pages": [
+      15.0,
+      295.0,
+      204.0,
+      216.0,
+      72.0
+    ],
+    "actual_sources": [
+      {
+        "source_number": 1,
+        "page_number": 15.0,
+        "chunk_id": "infosys-ar-25_page_15_chunk_0"
+      },
+      {
+        "source_number": 2,
+        "page_number": 295.0,
+        "chunk_id": "infosys-ar-25_page_295_chunk_0"
+      },
+      {
+        "source_number": 3,
+        "page_number": 204.0,
+        "chunk_id": "infosys-ar-25_page_204_chunk_0"
+      },
+      {
+        "source_number": 4,
+        "page_number": 216.0,
+        "chunk_id": "infosys-ar-25_page_216_chunk_0"
+      },
+      {
+        "source_number": 5,
+        "page_number": 72.0,
+        "chunk_id": "infosys-ar-25_page_72_chunk_0"
+      }
+    ],
+    "retrieved_chunk_count": 30,
+    "final_context_chunk_count": 5,
+    "source_page_hit": true,
+    "answered": true,
+    "retrieval_hit": true,
+    "precision_at_k": 0.2,
+    "recall_at_k": 0.3333333333333333,
+    "first_relevant_rank": 1,
+    "mrr": 1.0
+  },
+  {
+    "id": "financial_009",
+    "question": "What was Infosys' basic earnings per share in fiscal 2025?",
+    "category": "financial",
+    "difficulty": "easy",
+    "expected_answer": "Infosys' basic earnings per share in fiscal 2025 was ₹64.50.",
+    "expected_source_pages": [
+      15
+    ],
+    "actual_answer": "Infosys' basic earnings per share in fiscal 2025 was ₹64.50 (Source: Page 332, infosys-ar-25_page_332_chunk_0).",
+    "actual_source_pages": [
+      15.0,
+      332.0,
+      277.0,
+      197.0,
+      197.0
+    ],
+    "actual_sources": [
+      {
+        "source_number": 1,
+        "page_number": 15.0,
+        "chunk_id": "infosys-ar-25_page_15_chunk_0"
+      },
+      {
+        "source_number": 2,
+        "page_number": 332.0,
+        "chunk_id": "infosys-ar-25_page_332_chunk_0"
+      },
+      {
+        "source_number": 3,
+        "page_number": 277.0,
+        "chunk_id": "infosys-ar-25_page_277_chunk_0"
+      },
+      {
+        "source_number": 4,
+        "page_number": 197.0,
+        "chunk_id": "infosys-ar-25_page_197_chunk_1"
+      },
+      {
+        "source_number": 5,
+        "page_number": 197.0,
+        "chunk_id": "infosys-ar-25_page_197_chunk_0"
+      }
+    ],
+    "retrieved_chunk_count": 30,
+    "final_context_chunk_count": 5,
+    "source_page_hit": true,
+    "answered": true,
+    "retrieval_hit": true,
+    "precision_at_k": 0.2,
+    "recall_at_k": 1.0,
+    "first_relevant_rank": 1,
+    "mrr": 1.0
+  },
+  {
+    "id": "financial_010",
+    "question": "What was Infosys' basic EPS growth in fiscal 2025?",
+    "category": "financial",
+    "difficulty": "medium",
+    "expected_answer": "Infosys' basic earnings per share grew 8.3% year-on-year in fiscal 2025.",
+    "expected_source_pages": [
+      15,
+      22
+    ],
+    "actual_answer": "Infosys' basic earnings per share (EPS) for fiscal 2025 was ₹64.50, representing an 8.3% growth year-over-year (Y-o-Y) (Source: Page 15, infosys-ar-25_page_15_chunk_0).",
+    "actual_source_pages": [
+      15.0,
+      30.0,
+      17.0,
+      332.0,
+      277.0
+    ],
+    "actual_sources": [
+      {
+        "source_number": 1,
+        "page_number": 15.0,
+        "chunk_id": "infosys-ar-25_page_15_chunk_0"
+      },
+      {
+        "source_number": 2,
+        "page_number": 30.0,
+        "chunk_id": "infosys-ar-25_page_30_chunk_2"
+      },
+      {
+        "source_number": 3,
+        "page_number": 17.0,
+        "chunk_id": "infosys-ar-25_page_17_chunk_0"
+      },
+      {
+        "source_number": 4,
+        "page_number": 332.0,
+        "chunk_id": "infosys-ar-25_page_332_chunk_0"
+      },
+      {
+        "source_number": 5,
+        "page_number": 277.0,
+        "chunk_id": "infosys-ar-25_page_277_chunk_0"
+      }
+    ],
+    "retrieved_chunk_count": 29,
+    "final_context_chunk_count": 5,
+    "source_page_hit": true,
+    "answered": true,
+    "retrieval_hit": true,
+    "precision_at_k": 0.2,
+    "recall_at_k": 0.5,
+    "first_relevant_rank": 1,
+    "mrr": 1.0
+  },
+  {
+    "id": "financial_011",
+    "question": "What was Infosys' market capitalization in fiscal 2025 according to the business highlights?",
+    "category": "financial",
+    "difficulty": "medium",
+    "expected_answer": "Infosys' market capitalization for FY 2025 was ₹6,52,332 crore.",
+    "expected_source_pages": [
+      15,
+      23
+    ],
+    "actual_answer": "The answer is not found in the provided context.",
+    "actual_source_pages": [
+      15.0,
+      10.0,
+      23.0,
+      8.0,
+      215.0
+    ],
+    "actual_sources": [
+      {
+        "source_number": 1,
+        "page_number": 15.0,
+        "chunk_id": "infosys-ar-25_page_15_chunk_0"
+      },
+      {
+        "source_number": 2,
+        "page_number": 10.0,
+        "chunk_id": "infosys-ar-25_page_10_chunk_0"
+      },
+      {
+        "source_number": 3,
+        "page_number": 23.0,
+        "chunk_id": "infosys-ar-25_page_23_chunk_6"
+      },
+      {
+        "source_number": 4,
+        "page_number": 8.0,
+        "chunk_id": "infosys-ar-25_page_8_chunk_0"
+      },
+      {
+        "source_number": 5,
+        "page_number": 215.0,
+        "chunk_id": "infosys-ar-25_page_215_chunk_0"
+      }
+    ],
+    "retrieved_chunk_count": 27,
+    "final_context_chunk_count": 5,
+    "source_page_hit": true,
+    "answered": false,
+    "retrieval_hit": true,
+    "precision_at_k": 0.4,
+    "recall_at_k": 1.0,
+    "first_relevant_rank": 1,
+    "mrr": 1.0
+  },
+  {
+    "id": "financial_012",
+    "question": "What was Infosys' large deal total contract value in fiscal 2025?",
+    "category": "financial",
+    "difficulty": "easy",
+    "expected_answer": "Infosys' large deal total contract value in fiscal 2025 was US$11.6 billion.",
+    "expected_source_pages": [
+      15,
+      21
+    ],
+    "actual_answer": "The large deal total contract value (TCV) in fiscal 2025 was US$11.6 billion (Source: Page 15, infosys-ar-25_page_15_chunk_0).",
+    "actual_source_pages": [
+      15.0,
+      23.0,
+      227.0,
+      259.0,
+      10.0
+    ],
+    "actual_sources": [
+      {
+        "source_number": 1,
+        "page_number": 15.0,
+        "chunk_id": "infosys-ar-25_page_15_chunk_0"
+      },
+      {
+        "source_number": 2,
+        "page_number": 23.0,
+        "chunk_id": "infosys-ar-25_page_23_chunk_6"
+      },
+      {
+        "source_number": 3,
+        "page_number": 227.0,
+        "chunk_id": "infosys-ar-25_page_227_chunk_0"
+      },
+      {
+        "source_number": 4,
+        "page_number": 259.0,
+        "chunk_id": "infosys-ar-25_page_259_chunk_0"
+      },
+      {
+        "source_number": 5,
+        "page_number": 10.0,
+        "chunk_id": "infosys-ar-25_page_10_chunk_0"
+      }
+    ],
+    "retrieved_chunk_count": 28,
+    "final_context_chunk_count": 5,
+    "source_page_hit": true,
+    "answered": true,
+    "retrieval_hit": true,
+    "precision_at_k": 0.2,
+    "recall_at_k": 0.5,
+    "first_relevant_rank": 1,
+    "mrr": 1.0
+  },
+  {
+    "id": "financial_013",
+    "question": "What were Infosys' consolidated revenue from operations in 2025 and 2024?",
+    "category": "financial",
+    "difficulty": "medium",
+    "expected_answer": "Infosys' consolidated revenue from operations was ₹1,62,990 crore in 2025 and ₹1,53,670 crore in 2024.",
+    "expected_source_pages": [
+      30,
+      276
+    ],
+    "actual_answer": "Infosys' consolidated revenue from operations for the year ended March 31, 2025, was ₹162,990 crore, and for the year ended March 31, 2024, it was ₹153,670 crore (Source: Page 276, infosys-ar-25_page_276_chunk_0).",
+    "actual_source_pages": [
+      30.0,
+      276.0,
+      346.0,
+      196.0,
+      263.0
+    ],
+    "actual_sources": [
+      {
+        "source_number": 1,
+        "page_number": 30.0,
+        "chunk_id": "infosys-ar-25_page_30_chunk_0"
+      },
+      {
+        "source_number": 2,
+        "page_number": 276.0,
+        "chunk_id": "infosys-ar-25_page_276_chunk_0"
+      },
+      {
+        "source_number": 3,
+        "page_number": 346.0,
+        "chunk_id": "infosys-ar-25_page_346_chunk_0"
+      },
+      {
+        "source_number": 4,
+        "page_number": 196.0,
+        "chunk_id": "infosys-ar-25_page_196_chunk_0"
+      },
+      {
+        "source_number": 5,
+        "page_number": 263.0,
+        "chunk_id": "infosys-ar-25_page_263_chunk_0"
+      }
+    ],
+    "retrieved_chunk_count": 26,
+    "final_context_chunk_count": 5,
+    "source_page_hit": true,
+    "answered": true,
+    "retrieval_hit": true,
+    "precision_at_k": 0.4,
+    "recall_at_k": 1.0,
+    "first_relevant_rank": 1,
+    "mrr": 1.0
+  },
+  {
+    "id": "financial_014",
+    "question": "What was Infosys' consolidated profit after tax in fiscal 2025?",
+    "category": "financial",
+    "difficulty": "medium",
+    "expected_answer": "Infosys' consolidated profit after tax for fiscal 2025 was ₹26,750 crore.",
+    "expected_source_pages": [
+      30,
+      276
+    ],
+    "actual_answer": "Infosys' consolidated profit after tax for the fiscal year 2025 was ₹ 26,750 crore (Source: Page 276, infosys-ar-25_page_276_chunk_0).",
+    "actual_source_pages": [
+      15.0,
+      30.0,
+      276.0,
+      346.0,
+      17.0
+    ],
+    "actual_sources": [
+      {
+        "source_number": 1,
+        "page_number": 15.0,
+        "chunk_id": "infosys-ar-25_page_15_chunk_0"
+      },
+      {
+        "source_number": 2,
+        "page_number": 30.0,
+        "chunk_id": "infosys-ar-25_page_30_chunk_0"
+      },
+      {
+        "source_number": 3,
+        "page_number": 276.0,
+        "chunk_id": "infosys-ar-25_page_276_chunk_0"
+      },
+      {
+        "source_number": 4,
+        "page_number": 346.0,
+        "chunk_id": "infosys-ar-25_page_346_chunk_0"
+      },
+      {
+        "source_number": 5,
+        "page_number": 17.0,
+        "chunk_id": "infosys-ar-25_page_17_chunk_0"
+      }
+    ],
+    "retrieved_chunk_count": 30,
+    "final_context_chunk_count": 5,
+    "source_page_hit": true,
+    "answered": true,
+    "retrieval_hit": true,
+    "precision_at_k": 0.4,
+    "recall_at_k": 1.0,
+    "first_relevant_rank": 2,
+    "mrr": 0.5
+  },
+  {
+    "id": "financial_015",
+    "question": "What was Infosys' profit attributable to owners of the Company in fiscal 2025?",
+    "category": "financial",
+    "difficulty": "medium",
+    "expected_answer": "Infosys' profit attributable to owners of the Company in fiscal 2025 was ₹26,713 crore.",
+    "expected_source_pages": [
+      15,
+      30
+    ],
+    "actual_answer": "The profit attributable to owners of the Company in fiscal 2025 was ₹26,713 crore (Source: Page 277, infosys-ar-25_page_277_chunk_0).",
+    "actual_source_pages": [
+      277.0,
+      276.0,
+      17.0,
+      196.0,
+      15.0
+    ],
+    "actual_sources": [
+      {
+        "source_number": 1,
+        "page_number": 277.0,
+        "chunk_id": "infosys-ar-25_page_277_chunk_0"
+      },
+      {
+        "source_number": 2,
+        "page_number": 276.0,
+        "chunk_id": "infosys-ar-25_page_276_chunk_0"
+      },
+      {
+        "source_number": 3,
+        "page_number": 17.0,
+        "chunk_id": "infosys-ar-25_page_17_chunk_0"
+      },
+      {
+        "source_number": 4,
+        "page_number": 196.0,
+        "chunk_id": "infosys-ar-25_page_196_chunk_0"
+      },
+      {
+        "source_number": 5,
+        "page_number": 15.0,
+        "chunk_id": "infosys-ar-25_page_15_chunk_0"
+      }
+    ],
+    "retrieved_chunk_count": 31,
+    "final_context_chunk_count": 5,
+    "source_page_hit": true,
+    "answered": true,
+    "retrieval_hit": true,
+    "precision_at_k": 0.2,
+    "recall_at_k": 0.5,
+    "first_relevant_rank": 5,
+    "mrr": 0.2
+  },
+  {
+    "id": "financial_016",
+    "question": "What was Infosys' consolidated total income in fiscal 2025?",
+    "category": "financial",
+    "difficulty": "medium",
+    "expected_answer": "Infosys' consolidated total income for fiscal 2025 was ₹1,66,590 crore.",
+    "expected_source_pages": [
+      30,
+      276
+    ],
+    "actual_answer": "Infosys' consolidated total income in fiscal 2025 was ₹ 166,590 crore (Source: Page 276, infosys-ar-25_page_276_chunk_0).",
+    "actual_source_pages": [
+      276.0,
+      15.0,
+      277.0,
+      263.0,
+      196.0
+    ],
+    "actual_sources": [
+      {
+        "source_number": 1,
+        "page_number": 276.0,
+        "chunk_id": "infosys-ar-25_page_276_chunk_0"
+      },
+      {
+        "source_number": 2,
+        "page_number": 15.0,
+        "chunk_id": "infosys-ar-25_page_15_chunk_0"
+      },
+      {
+        "source_number": 3,
+        "page_number": 277.0,
+        "chunk_id": "infosys-ar-25_page_277_chunk_0"
+      },
+      {
+        "source_number": 4,
+        "page_number": 263.0,
+        "chunk_id": "infosys-ar-25_page_263_chunk_1"
+      },
+      {
+        "source_number": 5,
+        "page_number": 196.0,
+        "chunk_id": "infosys-ar-25_page_196_chunk_0"
+      }
+    ],
+    "retrieved_chunk_count": 30,
+    "final_context_chunk_count": 5,
+    "source_page_hit": true,
+    "answered": true,
+    "retrieval_hit": true,
+    "precision_at_k": 0.2,
+    "recall_at_k": 0.5,
+    "first_relevant_rank": 1,
+    "mrr": 1.0
+  },
+  {
+    "id": "financial_017",
+    "question": "What was Infosys' consolidated net current assets as of March 31, 2025?",
+    "category": "financial",
+    "difficulty": "medium",
+    "expected_answer": "Infosys' consolidated net current assets as of March 31, 2025 were ₹54,249 crore.",
+    "expected_source_pages": [
+      31,
+      33
+    ],
+    "actual_answer": "As of March 31, 2025, Infosys' consolidated net current assets were ₹54,249 crore (Source: Page 31.0, infosys-ar-25_page_31_chunk_0).",
+    "actual_source_pages": [
+      31.0,
+      194.0,
+      274.0,
+      239.0,
+      299.0
+    ],
+    "actual_sources": [
+      {
+        "source_number": 1,
+        "page_number": 31.0,
+        "chunk_id": "infosys-ar-25_page_31_chunk_0"
+      },
+      {
+        "source_number": 2,
+        "page_number": 194.0,
+        "chunk_id": "infosys-ar-25_page_194_chunk_0"
+      },
+      {
+        "source_number": 3,
+        "page_number": 274.0,
+        "chunk_id": "infosys-ar-25_page_274_chunk_0"
+      },
+      {
+        "source_number": 4,
+        "page_number": 239.0,
+        "chunk_id": "infosys-ar-25_page_239_chunk_0"
+      },
+      {
+        "source_number": 5,
+        "page_number": 299.0,
+        "chunk_id": "infosys-ar-25_page_299_chunk_0"
+      }
+    ],
+    "retrieved_chunk_count": 26,
+    "final_context_chunk_count": 5,
+    "source_page_hit": true,
+    "answered": true,
+    "retrieval_hit": true,
+    "precision_at_k": 0.2,
+    "recall_at_k": 0.5,
+    "first_relevant_rank": 1,
+    "mrr": 1.0
+  },
+  {
+    "id": "financial_018",
+    "question": "What was Infosys' consolidated total assets as of March 31, 2025?",
+    "category": "financial",
+    "difficulty": "medium",
+    "expected_answer": "Infosys' consolidated total assets as of March 31, 2025 were ₹1,48,903 crore.",
+    "expected_source_pages": [
+      31
+    ],
+    "actual_answer": "Infosys' consolidated total assets as of March 31, 2025, were ₹1,48,903 crore (Source: Page 31.0, infosys-ar-25_page_31_chunk_0).",
+    "actual_source_pages": [
+      31.0,
+      194.0,
+      274.0,
+      299.0,
+      219.0
+    ],
+    "actual_sources": [
+      {
+        "source_number": 1,
+        "page_number": 31.0,
+        "chunk_id": "infosys-ar-25_page_31_chunk_0"
+      },
+      {
+        "source_number": 2,
+        "page_number": 194.0,
+        "chunk_id": "infosys-ar-25_page_194_chunk_0"
+      },
+      {
+        "source_number": 3,
+        "page_number": 274.0,
+        "chunk_id": "infosys-ar-25_page_274_chunk_0"
+      },
+      {
+        "source_number": 4,
+        "page_number": 299.0,
+        "chunk_id": "infosys-ar-25_page_299_chunk_0"
+      },
+      {
+        "source_number": 5,
+        "page_number": 219.0,
+        "chunk_id": "infosys-ar-25_page_219_chunk_0"
+      }
+    ],
+    "retrieved_chunk_count": 25,
+    "final_context_chunk_count": 5,
+    "source_page_hit": true,
+    "answered": true,
+    "retrieval_hit": true,
+    "precision_at_k": 0.2,
+    "recall_at_k": 1.0,
+    "first_relevant_rank": 1,
+    "mrr": 1.0
+  },
+  {
+    "id": "financial_019",
+    "question": "What was Infosys' consolidated total equity as of March 31, 2025?",
+    "category": "financial",
+    "difficulty": "medium",
+    "expected_answer": "Infosys' consolidated total equity as of March 31, 2025 was ₹96,203 crore.",
+    "expected_source_pages": [
+      31,
+      275
+    ],
+    "actual_answer": "As of March 31, 2025, Infosys' consolidated total equity was ₹96,203 crore (Source: Page 275, infosys-ar-25_page_275_chunk_0).",
+    "actual_source_pages": [
+      280.0,
+      275.0,
+      195.0,
+      202.0,
+      200.0
+    ],
+    "actual_sources": [
+      {
+        "source_number": 1,
+        "page_number": 280.0,
+        "chunk_id": "infosys-ar-25_page_280_chunk_0"
+      },
+      {
+        "source_number": 2,
+        "page_number": 275.0,
+        "chunk_id": "infosys-ar-25_page_275_chunk_0"
+      },
+      {
+        "source_number": 3,
+        "page_number": 195.0,
+        "chunk_id": "infosys-ar-25_page_195_chunk_0"
+      },
+      {
+        "source_number": 4,
+        "page_number": 202.0,
+        "chunk_id": "infosys-ar-25_page_202_chunk_0"
+      },
+      {
+        "source_number": 5,
+        "page_number": 200.0,
+        "chunk_id": "infosys-ar-25_page_200_chunk_0"
+      }
+    ],
+    "retrieved_chunk_count": 24,
+    "final_context_chunk_count": 5,
+    "source_page_hit": true,
+    "answered": true,
+    "retrieval_hit": true,
+    "precision_at_k": 0.2,
+    "recall_at_k": 0.5,
+    "first_relevant_rank": 2,
+    "mrr": 0.5
+  },
+  {
+    "id": "financial_020",
+    "question": "What does Infosys' capital allocation policy target from fiscal 2025?",
+    "category": "financial",
+    "difficulty": "hard",
+    "expected_answer": "From fiscal 2025, Infosys expects to return approximately 85% of free cash flow cumulatively over five years through semi-annual dividends and/or share buyback/special dividends, subject to applicable laws and approvals.",
+    "expected_source_pages": [
+      23,
+      33
+    ],
+    "actual_answer": "Infosys' capital allocation policy targets returning approximately 85% of the free cash flow cumulatively over a five-year period, starting from fiscal 2025. This return will be achieved through a combination of semi-annual dividends, share buybacks, and/or special dividends, subject to applicable laws and requisite approvals. The company also expects to progressively increase its annual dividend per share (excluding any special dividend) (Source: Page 33, infosys-ar-25_page_33_chunk_0).",
+    "actual_source_pages": [
+      33.0,
+      23.0,
+      33.0,
+      69.0,
+      23.0
+    ],
+    "actual_sources": [
+      {
+        "source_number": 1,
+        "page_number": 33.0,
+        "chunk_id": "infosys-ar-25_page_33_chunk_0"
+      },
+      {
+        "source_number": 2,
+        "page_number": 23.0,
+        "chunk_id": "infosys-ar-25_page_23_chunk_5"
+      },
+      {
+        "source_number": 3,
+        "page_number": 33.0,
+        "chunk_id": "infosys-ar-25_page_33_chunk_1"
+      },
+      {
+        "source_number": 4,
+        "page_number": 69.0,
+        "chunk_id": "infosys-ar-25_page_69_chunk_1"
+      },
+      {
+        "source_number": 5,
+        "page_number": 23.0,
+        "chunk_id": "infosys-ar-25_page_23_chunk_6"
+      }
+    ],
+    "retrieved_chunk_count": 30,
+    "final_context_chunk_count": 5,
+    "source_page_hit": true,
+    "answered": true,
+    "retrieval_hit": true,
+    "precision_at_k": 0.8,
+    "recall_at_k": 1.0,
+    "first_relevant_rank": 1,
+    "mrr": 1.0
+  },
+  {
+    "id": "business_segments_001",
+    "question": "What are Infosys' primary business segments?",
+    "category": "business_segments",
+    "difficulty": "medium",
+    "expected_answer": "Infosys' primary business segments are Financial Services and Insurance, Manufacturing, Retail, Consumer Packaged Goods and Logistics, Energy, Utilities, Resources and Services, Communication, Telecom OEM and Media, Hi-Tech, Life Sciences and Healthcare, and all other segments.",
+    "expected_source_pages": [
+      344
+    ],
+    "actual_answer": "Infosys' primary business segments include:\n\n1. Financial Services and Insurance\n2. Manufacturing\n3. Retail, Consumer Packaged Goods and Logistics\n4. Energy, Utilities, Resources and Services\n5. Communication, Telecom OEM and Media\n6. Hi-Tech\n7. Life Sciences and Healthcare\n8. All other segments (which represent operating segments of businesses in India, Japan, China, Infosys Public Services, and other enterprises in Public Services) (Source: Page 344, infosys-ar-25_page_344_chunk_1).",
+    "actual_source_pages": [
+      344.0,
+      345.0,
+      75.0,
+      32.0,
+      74.0
+    ],
+    "actual_sources": [
+      {
+        "source_number": 1,
+        "page_number": 344.0,
+        "chunk_id": "infosys-ar-25_page_344_chunk_1"
+      },
+      {
+        "source_number": 2,
+        "page_number": 345.0,
+        "chunk_id": "infosys-ar-25_page_345_chunk_0"
+      },
+      {
+        "source_number": 3,
+        "page_number": 75.0,
+        "chunk_id": "infosys-ar-25_page_75_chunk_0"
+      },
+      {
+        "source_number": 4,
+        "page_number": 32.0,
+        "chunk_id": "infosys-ar-25_page_32_chunk_0"
+      },
+      {
+        "source_number": 5,
+        "page_number": 74.0,
+        "chunk_id": "infosys-ar-25_page_74_chunk_6"
+      }
+    ],
+    "retrieved_chunk_count": 37,
+    "final_context_chunk_count": 5,
+    "source_page_hit": true,
+    "answered": true,
+    "retrieval_hit": true,
+    "precision_at_k": 0.2,
+    "recall_at_k": 1.0,
+    "first_relevant_rank": 1,
+    "mrr": 1.0
+  },
+  {
+    "id": "business_segments_002",
+    "question": "What does the Financial Services segment include?",
+    "category": "business_segments",
+    "difficulty": "easy",
+    "expected_answer": "The Financial Services segment includes enterprises in Financial Services and Insurance.",
+    "expected_source_pages": [
+      32,
+      345
+    ],
+    "actual_answer": "The Financial Services segment includes enterprises in Financial Services and Insurance (Source: Page 344, infosys-ar-25_page_344_chunk_1).",
+    "actual_source_pages": [
+      344.0,
+      345.0,
+      345.0,
+      74.0,
+      32.0
+    ],
+    "actual_sources": [
+      {
+        "source_number": 1,
+        "page_number": 344.0,
+        "chunk_id": "infosys-ar-25_page_344_chunk_1"
+      },
+      {
+        "source_number": 2,
+        "page_number": 345.0,
+        "chunk_id": "infosys-ar-25_page_345_chunk_1"
+      },
+      {
+        "source_number": 3,
+        "page_number": 345.0,
+        "chunk_id": "infosys-ar-25_page_345_chunk_0"
+      },
+      {
+        "source_number": 4,
+        "page_number": 74.0,
+        "chunk_id": "infosys-ar-25_page_74_chunk_5"
+      },
+      {
+        "source_number": 5,
+        "page_number": 32.0,
+        "chunk_id": "infosys-ar-25_page_32_chunk_0"
+      }
+    ],
+    "retrieved_chunk_count": 41,
+    "final_context_chunk_count": 5,
+    "source_page_hit": true,
+    "answered": true,
+    "retrieval_hit": true,
+    "precision_at_k": 0.6,
+    "recall_at_k": 1.0,
+    "first_relevant_rank": 2,
+    "mrr": 0.5
+  },
+  {
+    "id": "business_segments_003",
+    "question": "What does the Retail segment include?",
+    "category": "business_segments",
+    "difficulty": "easy",
+    "expected_answer": "The Retail segment includes enterprises in Retail, Consumer Packaged Goods and Logistics.",
+    "expected_source_pages": [
+      32,
+      345
+    ],
+    "actual_answer": "The Retail segment includes enterprises in Retail, Consumer Packaged Goods, and Logistics (Source: Page 344, infosys-ar-25_page_344_chunk_1).",
+    "actual_source_pages": [
+      345.0,
+      344.0,
+      32.0,
+      345.0,
+      75.0
+    ],
+    "actual_sources": [
+      {
+        "source_number": 1,
+        "page_number": 345.0,
+        "chunk_id": "infosys-ar-25_page_345_chunk_1"
+      },
+      {
+        "source_number": 2,
+        "page_number": 344.0,
+        "chunk_id": "infosys-ar-25_page_344_chunk_1"
+      },
+      {
+        "source_number": 3,
+        "page_number": 32.0,
+        "chunk_id": "infosys-ar-25_page_32_chunk_0"
+      },
+      {
+        "source_number": 4,
+        "page_number": 345.0,
+        "chunk_id": "infosys-ar-25_page_345_chunk_0"
+      },
+      {
+        "source_number": 5,
+        "page_number": 75.0,
+        "chunk_id": "infosys-ar-25_page_75_chunk_0"
+      }
+    ],
+    "retrieved_chunk_count": 30,
+    "final_context_chunk_count": 5,
+    "source_page_hit": true,
+    "answered": true,
+    "retrieval_hit": true,
+    "precision_at_k": 0.6,
+    "recall_at_k": 1.0,
+    "first_relevant_rank": 1,
+    "mrr": 1.0
+  },
+  {
+    "id": "business_segments_004",
+    "question": "What does the Communication segment include?",
+    "category": "business_segments",
+    "difficulty": "easy",
+    "expected_answer": "The Communication segment includes enterprises in Communication, Telecom OEM and Media.",
+    "expected_source_pages": [
+      32,
+      345
+    ],
+    "actual_answer": "The Communication segment includes enterprises in Communication, Telecom OEM, and Media (Source: Page 345, infosys-ar-25_page_345_chunk_2).",
+    "actual_source_pages": [
+      345.0,
+      345.0,
+      344.0,
+      345.0,
+      32.0
+    ],
+    "actual_sources": [
+      {
+        "source_number": 1,
+        "page_number": 345.0,
+        "chunk_id": "infosys-ar-25_page_345_chunk_2"
+      },
+      {
+        "source_number": 2,
+        "page_number": 345.0,
+        "chunk_id": "infosys-ar-25_page_345_chunk_1"
+      },
+      {
+        "source_number": 3,
+        "page_number": 344.0,
+        "chunk_id": "infosys-ar-25_page_344_chunk_1"
+      },
+      {
+        "source_number": 4,
+        "page_number": 345.0,
+        "chunk_id": "infosys-ar-25_page_345_chunk_0"
+      },
+      {
+        "source_number": 5,
+        "page_number": 32.0,
+        "chunk_id": "infosys-ar-25_page_32_chunk_0"
+      }
+    ],
+    "retrieved_chunk_count": 30,
+    "final_context_chunk_count": 5,
+    "source_page_hit": true,
+    "answered": true,
+    "retrieval_hit": true,
+    "precision_at_k": 0.8,
+    "recall_at_k": 1.0,
+    "first_relevant_rank": 1,
+    "mrr": 1.0
+  },
+  {
+    "id": "business_segments_005",
+    "question": "What does the EURS segment include?",
+    "category": "business_segments",
+    "difficulty": "easy",
+    "expected_answer": "The EURS segment includes enterprises in Energy, Utilities, Resources and Services.",
+    "expected_source_pages": [
+      32
+    ],
+    "actual_answer": "The EURS segment includes enterprises in Energy, Utilities, Resources, and Services (Source: Page 32, infosys-ar-25_page_32_chunk_0).",
+    "actual_source_pages": [
+      32.0,
+      345.0,
+      345.0,
+      46.0,
+      344.0
+    ],
+    "actual_sources": [
+      {
+        "source_number": 1,
+        "page_number": 32.0,
+        "chunk_id": "infosys-ar-25_page_32_chunk_0"
+      },
+      {
+        "source_number": 2,
+        "page_number": 345.0,
+        "chunk_id": "infosys-ar-25_page_345_chunk_2"
+      },
+      {
+        "source_number": 3,
+        "page_number": 345.0,
+        "chunk_id": "infosys-ar-25_page_345_chunk_1"
+      },
+      {
+        "source_number": 4,
+        "page_number": 46.0,
+        "chunk_id": "infosys-ar-25_page_46_chunk_1"
+      },
+      {
+        "source_number": 5,
+        "page_number": 344.0,
+        "chunk_id": "infosys-ar-25_page_344_chunk_1"
+      }
+    ],
+    "retrieved_chunk_count": 34,
+    "final_context_chunk_count": 5,
+    "source_page_hit": true,
+    "answered": true,
+    "retrieval_hit": true,
+    "precision_at_k": 0.2,
+    "recall_at_k": 1.0,
+    "first_relevant_rank": 1,
+    "mrr": 1.0
+  },
+  {
+    "id": "business_segments_006",
+    "question": "What does the Life Sciences segment include?",
+    "category": "business_segments",
+    "difficulty": "easy",
+    "expected_answer": "The Life Sciences segment includes enterprises in Life Sciences and Healthcare.",
+    "expected_source_pages": [
+      32,
+      345
+    ],
+    "actual_answer": "The Life Sciences segment includes enterprises in Life Sciences and Healthcare (Source: Page 345, infosys-ar-25_page_345_chunk_2).",
+    "actual_source_pages": [
+      345.0,
+      344.0,
+      345.0,
+      32.0,
+      74.0
+    ],
+    "actual_sources": [
+      {
+        "source_number": 1,
+        "page_number": 345.0,
+        "chunk_id": "infosys-ar-25_page_345_chunk_2"
+      },
+      {
+        "source_number": 2,
+        "page_number": 344.0,
+        "chunk_id": "infosys-ar-25_page_344_chunk_1"
+      },
+      {
+        "source_number": 3,
+        "page_number": 345.0,
+        "chunk_id": "infosys-ar-25_page_345_chunk_0"
+      },
+      {
+        "source_number": 4,
+        "page_number": 32.0,
+        "chunk_id": "infosys-ar-25_page_32_chunk_0"
+      },
+      {
+        "source_number": 5,
+        "page_number": 74.0,
+        "chunk_id": "infosys-ar-25_page_74_chunk_5"
+      }
+    ],
+    "retrieved_chunk_count": 31,
+    "final_context_chunk_count": 5,
+    "source_page_hit": true,
+    "answered": true,
+    "retrieval_hit": true,
+    "precision_at_k": 0.6,
+    "recall_at_k": 1.0,
+    "first_relevant_rank": 1,
+    "mrr": 1.0
+  },
+  {
+    "id": "business_segments_007",
+    "question": "What does Infosys classify as 'all other segments'?",
+    "category": "business_segments",
+    "difficulty": "medium",
+    "expected_answer": "All other segments include segments of businesses in India, Japan, China, Infosys Public Services and other enterprises in public services.",
+    "expected_source_pages": [
+      32,
+      344,
+      345
+    ],
+    "actual_answer": "Infosys classifies 'all other segments' as the operating segments of businesses in India, Japan, China, Infosys Public Services, and other enterprises in public services (Source: Page 74, infosys-ar-25_page_74_chunk_6).",
+    "actual_source_pages": [
+      344.0,
+      74.0,
+      344.0,
+      345.0,
+      75.0
+    ],
+    "actual_sources": [
+      {
+        "source_number": 1,
+        "page_number": 344.0,
+        "chunk_id": "infosys-ar-25_page_344_chunk_2"
+      },
+      {
+        "source_number": 2,
+        "page_number": 74.0,
+        "chunk_id": "infosys-ar-25_page_74_chunk_6"
+      },
+      {
+        "source_number": 3,
+        "page_number": 344.0,
+        "chunk_id": "infosys-ar-25_page_344_chunk_1"
+      },
+      {
+        "source_number": 4,
+        "page_number": 345.0,
+        "chunk_id": "infosys-ar-25_page_345_chunk_0"
+      },
+      {
+        "source_number": 5,
+        "page_number": 75.0,
+        "chunk_id": "infosys-ar-25_page_75_chunk_0"
+      }
+    ],
+    "retrieved_chunk_count": 31,
+    "final_context_chunk_count": 5,
+    "source_page_hit": true,
+    "answered": true,
+    "retrieval_hit": true,
+    "precision_at_k": 0.6,
+    "recall_at_k": 0.6666666666666666,
+    "first_relevant_rank": 1,
+    "mrr": 1.0
+  },
+  {
+    "id": "business_segments_008",
+    "question": "Which business segment had the highest revenue from operations in 2025?",
+    "category": "business_segments",
+    "difficulty": "medium",
+    "expected_answer": "Financial Services had the highest segment revenue from operations in 2025 at ₹45,175 crore.",
+    "expected_source_pages": [
+      345
+    ],
+    "actual_answer": "The business segment with the highest revenue from operations in 2025 was Financial Services, with revenues of ₹45,175 crore (Source: Page 345, infosys-ar-25_page_345_chunk_0).",
+    "actual_source_pages": [
+      75.0,
+      345.0,
+      321.0,
+      345.0,
+      242.0
+    ],
+    "actual_sources": [
+      {
+        "source_number": 1,
+        "page_number": 75.0,
+        "chunk_id": "infosys-ar-25_page_75_chunk_0"
+      },
+      {
+        "source_number": 2,
+        "page_number": 345.0,
+        "chunk_id": "infosys-ar-25_page_345_chunk_0"
+      },
+      {
+        "source_number": 3,
+        "page_number": 321.0,
+        "chunk_id": "infosys-ar-25_page_321_chunk_6"
+      },
+      {
+        "source_number": 4,
+        "page_number": 345.0,
+        "chunk_id": "infosys-ar-25_page_345_chunk_2"
+      },
+      {
+        "source_number": 5,
+        "page_number": 242.0,
+        "chunk_id": "infosys-ar-25_page_242_chunk_1"
+      }
+    ],
+    "retrieved_chunk_count": 30,
+    "final_context_chunk_count": 5,
+    "source_page_hit": true,
+    "answered": true,
+    "retrieval_hit": true,
+    "precision_at_k": 0.4,
+    "recall_at_k": 1.0,
+    "first_relevant_rank": 2,
+    "mrr": 0.5
+  },
+  {
+    "id": "business_segments_009",
+    "question": "What was Manufacturing revenue from operations in 2025?",
+    "category": "business_segments",
+    "difficulty": "medium",
+    "expected_answer": "Manufacturing revenue from operations in 2025 was ₹25,207 crore.",
+    "expected_source_pages": [
+      345
+    ],
+    "actual_answer": "The answer is not found in the provided context.",
+    "actual_source_pages": [
+      73.0,
+      30.0,
+      242.0,
+      73.0,
+      321.0
+    ],
+    "actual_sources": [
+      {
+        "source_number": 1,
+        "page_number": 73.0,
+        "chunk_id": "infosys-ar-25_page_73_chunk_3"
+      },
+      {
+        "source_number": 2,
+        "page_number": 30.0,
+        "chunk_id": "infosys-ar-25_page_30_chunk_0"
+      },
+      {
+        "source_number": 3,
+        "page_number": 242.0,
+        "chunk_id": "infosys-ar-25_page_242_chunk_1"
+      },
+      {
+        "source_number": 4,
+        "page_number": 73.0,
+        "chunk_id": "infosys-ar-25_page_73_chunk_2"
+      },
+      {
+        "source_number": 5,
+        "page_number": 321.0,
+        "chunk_id": "infosys-ar-25_page_321_chunk_6"
+      }
+    ],
+    "retrieved_chunk_count": 32,
+    "final_context_chunk_count": 5,
+    "source_page_hit": false,
+    "answered": false,
+    "retrieval_hit": false,
+    "precision_at_k": 0.0,
+    "recall_at_k": 0.0,
+    "first_relevant_rank": null,
+    "mrr": 0.0
+  },
+  {
+    "id": "business_segments_010",
+    "question": "What was the total segmental revenue from operations in 2025?",
+    "category": "business_segments",
+    "difficulty": "easy",
+    "expected_answer": "Total segmental revenue from operations in 2025 was ₹1,62,990 crore.",
+    "expected_source_pages": [
+      345
+    ],
+    "actual_answer": "The total segmental revenue from operations in 2025 was ₹1,62,990 crore (Source: Page 75, infosys-ar-25_page_75_chunk_0).",
+    "actual_source_pages": [
+      75.0,
+      321.0,
+      345.0,
+      73.0,
+      242.0
+    ],
+    "actual_sources": [
+      {
+        "source_number": 1,
+        "page_number": 75.0,
+        "chunk_id": "infosys-ar-25_page_75_chunk_0"
+      },
+      {
+        "source_number": 2,
+        "page_number": 321.0,
+        "chunk_id": "infosys-ar-25_page_321_chunk_6"
+      },
+      {
+        "source_number": 3,
+        "page_number": 345.0,
+        "chunk_id": "infosys-ar-25_page_345_chunk_0"
+      },
+      {
+        "source_number": 4,
+        "page_number": 73.0,
+        "chunk_id": "infosys-ar-25_page_73_chunk_4"
+      },
+      {
+        "source_number": 5,
+        "page_number": 242.0,
+        "chunk_id": "infosys-ar-25_page_242_chunk_1"
+      }
+    ],
+    "retrieved_chunk_count": 45,
+    "final_context_chunk_count": 5,
+    "source_page_hit": true,
+    "answered": true,
+    "retrieval_hit": true,
+    "precision_at_k": 0.2,
+    "recall_at_k": 1.0,
+    "first_relevant_rank": 3,
+    "mrr": 0.3333333333333333
+  }
+]

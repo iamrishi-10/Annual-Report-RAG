@@ -1,0 +1,1705 @@
+[
+  {
+    "id": "financial_001",
+    "question": "What was Infosys' total revenue in fiscal 2025?",
+    "category": "financial",
+    "difficulty": "easy",
+    "expected_answer": "Infosys' total revenues in fiscal 2025 were ₹1,62,990 crore.",
+    "expected_source_pages": [
+      10,
+      15
+    ],
+    "actual_answer": "Infosys' total revenue in fiscal 2025 was ₹1,62,990 crore (Source: Page 15, infosys-ar-25_page_15_chunk_0).",
+    "actual_source_pages": [
+      10.0,
+      15.0,
+      276.0,
+      196.0,
+      257.0
+    ],
+    "actual_sources": [
+      {
+        "source_number": 1,
+        "page_number": 10.0,
+        "chunk_id": "infosys-ar-25_page_10_chunk_0"
+      },
+      {
+        "source_number": 2,
+        "page_number": 15.0,
+        "chunk_id": "infosys-ar-25_page_15_chunk_0"
+      },
+      {
+        "source_number": 3,
+        "page_number": 276.0,
+        "chunk_id": "infosys-ar-25_page_276_chunk_0"
+      },
+      {
+        "source_number": 4,
+        "page_number": 196.0,
+        "chunk_id": "infosys-ar-25_page_196_chunk_0"
+      },
+      {
+        "source_number": 5,
+        "page_number": 257.0,
+        "chunk_id": "infosys-ar-25_page_257_chunk_0"
+      }
+    ],
+    "contexts": [
+      "Infosys Integrated Annual Report 2024-25\nInfosys Integrated Annual Report 2024-25\n18\n19\nAbout Infosys\nCorporate overview\n3,23,578\nEmployees\n1,869\nActive clients \n`1,62,990 cr \nTotal revenues in fiscal 2025\nIn 2025, we undertook a refresh of \nour ESG Vision 2030 and confirmed \nour continued commitment to \nresponsible business to shape \nand share solutions that serve the \ndevelopment of businesses and \ncommunities. We reaffirmed our \nlong-standing focus across core areas \nincluding climate change, nurturing \nworkplace inclusivity, employee \nwellness and experience, amplifying \ncommunities, corporate governance, \ndata privacy and information \nmanagement.\nOur Values \nOur Company’s Code of Conduct \nstands on the strong foundation \nset by our values, encapsulated in \nthe acronym C-LIFE. \nClient value\nTo surpass client expectations \nconsistently\nLeadership by example\nTo set standards in our business \nand transactions and be an \nexemplar for the industry and \nourselves",
+      "Infosys Integrated Annual Report 2024-25\nInfosys Integrated Annual Report 2024-25\n28\n29\nBusiness highlights\nPerformance overview\nDividend per share (in ₹)\n43.0\n13.2% growth Y-o-Y (2)\nRevenues\n₹ 1,62,990 cr\n6.1% growth Y-o-Y\n4.2% CC growth Y-o-Y \nOperating margin\n21.1%\nRobust operating margin\nHighest ever free cash flow of `34,549 cr for fiscal 2025\nFree cash flow growth(3)\n44.8% Y-o-Y\n FCF conversion at 129.2% of net profit\nConsolidated cash and \ninvestments(1)\n₹ 47,549 cr\nContinue to main strong \nliquidity position\nBasic earnings per share\n(par value of ₹ 5 each)\n64.50\n8.3% growth Y-o-Y(4)\nNumber of US$50 million + clients\n85\nStrong client metrics with increase  \nof 2 clients Y-o-Y\nLarge deal TCV\n(Total contract value in US$ billion)\n11.6\nSustained momentum in large \ndeal wins continues\nCarbon offset programs\n2,72,000+\nRural families continue to benefit\n11\nLake rejuvenation projects over \nthe last two years, achieving an \nincrease of 4.3 bn liters in water \nholding capacity.\n60 MW",
+      "Infosys Integrated Annual Report 2024-25\n304\nConsolidated Statement of Profit and Loss\n(In ₹ crore, except equity share and per equity share data)\nParticulars\nNote\nYear ended March 31,\n2025\n2024\nRevenue from operations\n2.18\n 162,990 \n 153,670 \nOther income, net\n2.19\n 3,600 \n 4,711 \nTotal income\n \n 166,590 \n 158,381 \nExpenses\n \n \n \nEmployee benefit expenses\n2.22\n 85,950 \n 82,620 \nCost of technical sub-contractors\n \n 12,937 \n 12,232 \nTravel expenses\n \n 1,894 \n 1,759 \nCost of software packages and others\n2.20\n 15,911 \n 13,515 \nCommunication expenses\n \n 620 \n 677 \nConsultancy and professional charges\n \n 1,655 \n 1,726 \nDepreciation and amortization expenses\n2.2, 2.4.2 and 2.21\n 4,812 \n 4,678 \nFinance cost\n \n 416 \n 470 \nOther expenses\n2.20\n 4,787 \n 4,716 \nTotal expenses\n \n 128,982 \n 122,393 \nProfit before tax\n \n 37,608 \n 35,988 \nTax expense:\n \n \n \nCurrent tax\n2.17\n 12,130 \n 8,390 \nDeferred tax\n2.17\n (1,272)\n 1,350 \nProfit for the year\n \n 26,750 \n 26,248 \nOther comprehensive income",
+      "Infosys Integrated Annual Report 2024-25\n224\nStatement of Profit and Loss\n(In ₹ crore, except equity share and per equity share data)\nParticulars\nNote\nYear ended March 31,\n2025\n2024\nRevenue from operations\n2.18\n 1,36,592 \n 1,28,933 \nOther income, net\n2.19\n 4,782 \n 7,417 \nTotal income\n \n 1,41,374 \n 1,36,350 \nExpenses\n \n \n \nEmployee benefit expenses\n2.20\n 67,466 \n 65,139 \nCost of technical sub-contractors\n \n 19,353 \n 18,638 \nTravel expenses\n \n 1,467 \n 1,372 \nCost of software packages and others\n2.20\n 9,617 \n 6,891 \nCommunication expenses\n \n 448 \n 489 \nConsultancy and professional charges\n \n 1,245 \n 1,059 \nDepreciation and amortization expenses\n2.1, 2.2.2, and 2.3\n 2,619 \n 2,944 \nFinance cost\n \n 221 \n 277 \nOther expenses\n2.20\n 3,497 \n 3,588 \nTotal expenses \n \n 1,05,933 \n 1,00,397 \nProfit before tax \n \n 35,441 \n 35,953 \nTax expense:\n \n \n \nCurrent tax\n2.17\n 10,836 \n 7,306 \nDeferred tax\n2.17\n (963)\n 1,413 \nProfit for the year\n \n 25,568 \n 27,234",
+      "Infosys Integrated Annual Report 2024-25\n285\nParticulars\nAs at March 31, \n2025\n2024\nInfosys South Africa (Pty) Ltd\n 1 \n –\n \n 2,863 \n 2,052 \nUnbilled revenues\n \n \nEdgeVerve Systems Limited\n 113 \n 101 \nInfosys Consulting S.R.L.(Romania)\n 1 \n 1 \nInfosys McCamish Systems LLC\n 45 \n 45 \nInfosys Poland sp. z o o\n 1 \n 1 \nStater Nederland B.V. \n 5 \n 5 \n \n 165 \n 153 \nTrade payables\n \n \nInfosys China\n 19 \n 17 \nInfosys BPM Limited\n 136 \n 135 \nInfosys (Czech Republic) Limited s.r.o.\n 15 \n 33 \nInfosys Mexico\n 25 \n 54 \nInfosys Sweden\n 53 \n 98 \nInfosys Shanghai\n 13 \n 14 \nInfosys Management Consulting Pty Ltd \n 20 \n 29 \nInfosys Singapore Pte. Ltd\n 16 \n 15 \nInfy Consulting Company Limited\n 370 \n 165 \nInfosys (Malaysia) SDN. BHD. (formerly \nGlobal Enterprise International (Malaysia) \nSdn. Bhd.)\n 12 \n 13 \nPanaya Ltd\n 5 \n 5 \nInfosys Public Services\n 1 \n 1 \nPortland Group Pty Ltd\n 2 \n 3 \nInfosys Chile SpA\n 2 \n 3 \nInfosys Compaz Pte Ltd\n 4 \n 2 \nInfosys Middle East FZ LLC\n 3 \n 3 \nInfosys Poland Sp. Z.o.o"
+    ],
+    "retrieved_chunk_count": 27,
+    "final_context_chunk_count": 5,
+    "source_page_hit": true,
+    "answered": true
+  },
+  {
+    "id": "financial_002",
+    "question": "What was Infosys' revenue growth in fiscal 2025?",
+    "category": "financial",
+    "difficulty": "easy",
+    "expected_answer": "Infosys reported 6.1% revenue growth in fiscal 2025.",
+    "expected_source_pages": [
+      15,
+      23
+    ],
+    "actual_answer": "Infosys experienced a revenue growth of 6.1% year-over-year in fiscal 2025, with total revenues amounting to ₹1,62,990 crore (Source: Page 30, infosys-ar-25_page_30_chunk_0).",
+    "actual_source_pages": [
+      15.0,
+      30.0,
+      17.0,
+      10.0,
+      75.0
+    ],
+    "actual_sources": [
+      {
+        "source_number": 1,
+        "page_number": 15.0,
+        "chunk_id": "infosys-ar-25_page_15_chunk_0"
+      },
+      {
+        "source_number": 2,
+        "page_number": 30.0,
+        "chunk_id": "infosys-ar-25_page_30_chunk_0"
+      },
+      {
+        "source_number": 3,
+        "page_number": 17.0,
+        "chunk_id": "infosys-ar-25_page_17_chunk_0"
+      },
+      {
+        "source_number": 4,
+        "page_number": 10.0,
+        "chunk_id": "infosys-ar-25_page_10_chunk_0"
+      },
+      {
+        "source_number": 5,
+        "page_number": 75.0,
+        "chunk_id": "infosys-ar-25_page_75_chunk_0"
+      }
+    ],
+    "contexts": [
+      "Infosys Integrated Annual Report 2024-25\nInfosys Integrated Annual Report 2024-25\n28\n29\nBusiness highlights\nPerformance overview\nDividend per share (in ₹)\n43.0\n13.2% growth Y-o-Y (2)\nRevenues\n₹ 1,62,990 cr\n6.1% growth Y-o-Y\n4.2% CC growth Y-o-Y \nOperating margin\n21.1%\nRobust operating margin\nHighest ever free cash flow of `34,549 cr for fiscal 2025\nFree cash flow growth(3)\n44.8% Y-o-Y\n FCF conversion at 129.2% of net profit\nConsolidated cash and \ninvestments(1)\n₹ 47,549 cr\nContinue to main strong \nliquidity position\nBasic earnings per share\n(par value of ₹ 5 each)\n64.50\n8.3% growth Y-o-Y(4)\nNumber of US$50 million + clients\n85\nStrong client metrics with increase  \nof 2 clients Y-o-Y\nLarge deal TCV\n(Total contract value in US$ billion)\n11.6\nSustained momentum in large \ndeal wins continues\nCarbon offset programs\n2,72,000+\nRural families continue to benefit\n11\nLake rejuvenation projects over \nthe last two years, achieving an \nincrease of 4.3 bn liters in water \nholding capacity.\n60 MW",
+      "Infosys Integrated Annual Report 2024-25\n58\nDear Members,\nThe Board of Directors hereby submits the report of the business and operations of your Company (“the Company” or “Infosys”), along \nwith the audited financial statements, for the financial year ended March 31, 2025. The consolidated performance of the Company and its \nsubsidiaries has been referred to wherever required.\n1.\tResults of our operations and state of affairs\n(in ` crore, except per equity share data)\nParticulars\nStandalone \nConsolidated\nFor the year ended \nMarch 31,\nYoY \ngrowth \n(%)\nFor the year ended \nMarch 31,\nYoY \ngrowth \n(%)\n2025\n2024\n2025\n2024\nRevenue from operations\n1,36,592\n1,28,933\n5.9\n1,62,990\n1,53,670\n6.1\nOther income, net*\n4,782\n7,417\n(35.5)\n3,600\n4,711\n(23.6)\nTotal income\n1,41,374\n1,36,350\n3.7\n1,66,590\n1,58,381\n5.2\nExpenses\n \n \n \n \n \nCost of sales\n94,111\n89,032\n5.7\n1,13,347\n1,07,413\n5.5\nSelling and marketing expenses\n6,282\n5,668\n10.8\n7,588\n6,973\n8.8\nGeneral and administration expenses\n5,319\n5,420\n(1.9)",
+      "Infosys Integrated Annual Report 2024-25\nInfosys Integrated Annual Report 2024-25\n32\n33\nLetter to the Shareholder\nPerformance overview\nDear shareholder,\nFinancial year 2025 was another year of strong execution \nfor Infosys. We had growth of 4.2%, operating margin of \n21.1%, and free cash flow of US$4.1 billion. We announced \na total dividend of `43 per share (including an interim \ndividend of `21 per share).\nInfosys is the leader in AI, cloud, data, and digital for our \nclients.\nInfosys Topaz brings the power of AI, with a strong \nfoundation of cloud and data, to help our clients leverage \nthe next generation of opportunities. To help our clients \nwith AI, we have built a repository of AI agents. These \nagents improve productivity in areas such as code \ngeneration, IT operations, bill-to-cash, and quote-to-order. \nWe have developed domain-specific language models \nfor some industries, IT operations, and cybersecurity. As a \nresult of our expertise and strong partnership with industry",
+      "Infosys Integrated Annual Report 2024-25\nInfosys Integrated Annual Report 2024-25\n18\n19\nAbout Infosys\nCorporate overview\n3,23,578\nEmployees\n1,869\nActive clients \n`1,62,990 cr \nTotal revenues in fiscal 2025\nIn 2025, we undertook a refresh of \nour ESG Vision 2030 and confirmed \nour continued commitment to \nresponsible business to shape \nand share solutions that serve the \ndevelopment of businesses and \ncommunities. We reaffirmed our \nlong-standing focus across core areas \nincluding climate change, nurturing \nworkplace inclusivity, employee \nwellness and experience, amplifying \ncommunities, corporate governance, \ndata privacy and information \nmanagement.\nOur Values \nOur Company’s Code of Conduct \nstands on the strong foundation \nset by our values, encapsulated in \nthe acronym C-LIFE. \nClient value\nTo surpass client expectations \nconsistently\nLeadership by example\nTo set standards in our business \nand transactions and be an \nexemplar for the industry and \nourselves",
+      "Infosys Integrated Annual Report 2024-25\n103\nBusiness segments – Consolidated\n(In ₹ crore)\nParticulars\nFinancial \nServices\nRetail Communication\nEnergy, Utilities, \nResources and \nServices\nManufacturing\nHi-Tech\nLife \nSciences\nAll other \nsegments\nTotal\nSegmental revenues\n2025\n45,175\n22,059\n19,108\n21,710\n25,207\n13,090\n11,831\n4,810\n1,62,990\n2024\n42,158\n22,504\n17,991\n20,035\n22,298\n12,411\n11,515\n4,758\n1,53,670\nGrowth (%)\n7.2\n(2.0)\n6.2\n8.4\n13.0\n5.5\n2.7\n1.1\n6.1\nSegmental operating income\n2025\n11,099\n7,133\n3,341\n6,097\n4,856\n3,220\n2,663\n827\n39,236\n2024\n9,324\n6,882\n3,688\n5,523\n4,197\n3,153\n2,898\n760\n36,425\nGrowth (%)\n19.0\n3.6\n(9.4)\n10.4\n15.7\n2.1\n(8.1)\n8.8\n7.7\nSegmental operating margin (%) \n2025\n24.6\n32.3\n17.5\n28.1\n19.3\n24.6\n22.5\n17.2\n24.1\n2024\n22.1\n30.6\n20.5\n27.6\n18.8\n25.4\n25.2\n16.0\n23.7\nThe following graph sets forth our revenue by geography:\n(In ₹ crore)\n(60.1%)\n(9.8%)\n(27.6%)\n(2.5%)\n % growth - 2025\n North America – 2.1%\n Europe – 15.0%\n India – 29.2%\n Rest of the World – (0.8%)"
+    ],
+    "retrieved_chunk_count": 35,
+    "final_context_chunk_count": 5,
+    "source_page_hit": true,
+    "answered": true
+  },
+  {
+    "id": "financial_003",
+    "question": "What was Infosys' constant currency revenue growth in fiscal 2025?",
+    "category": "financial",
+    "difficulty": "easy",
+    "expected_answer": "Infosys reported 4.2% constant currency revenue growth year-on-year in fiscal 2025.",
+    "expected_source_pages": [
+      15
+    ],
+    "actual_answer": "Infosys' revenue in constant currency terms for fiscal 2025 grew by 4.2% (Source: Page 73, infosys-ar-25_page_73_chunk_4).",
+    "actual_source_pages": [
+      73.0,
+      15.0,
+      73.0,
+      10.0,
+      75.0
+    ],
+    "actual_sources": [
+      {
+        "source_number": 1,
+        "page_number": 73.0,
+        "chunk_id": "infosys-ar-25_page_73_chunk_3"
+      },
+      {
+        "source_number": 2,
+        "page_number": 15.0,
+        "chunk_id": "infosys-ar-25_page_15_chunk_0"
+      },
+      {
+        "source_number": 3,
+        "page_number": 73.0,
+        "chunk_id": "infosys-ar-25_page_73_chunk_4"
+      },
+      {
+        "source_number": 4,
+        "page_number": 10.0,
+        "chunk_id": "infosys-ar-25_page_10_chunk_0"
+      },
+      {
+        "source_number": 5,
+        "page_number": 75.0,
+        "chunk_id": "infosys-ar-25_page_75_chunk_0"
+      }
+    ],
+    "contexts": [
+      "(In ₹ crore)\nParticulars\nStandalone\nConsolidated\n2025\n2024\n% change\n2025\n2024\n% change\nRevenue\n1,36,592\n1,28,933\n5.9\n1,62,990\n1,53,670\n6.1 \nThe increase in revenue was primarily attributable to an increase \nin realization on account of Value-Based Selling, productivity \nbenefit from Lean and Automation, currency, acquisition and \nrevenue mix partially offset by decline in volume.\nRevenue growth in reported terms includes the impact of \ncurrency fluctuations. We, therefore, additionally report the \nrevenue growth in constant currency terms, which represents \nthe real growth in revenue, excluding the impact of currency \nfluctuations. We calculate constant currency growth by \ncomparing current-period revenues in respective local currencies \nconverted to USD using prior-period exchange rates and \ncomparing the same to our prior-period reported revenues. Our \nrevenues in reported currency terms for fiscal 2025 is ₹1,62,990 \ncrore, a growth of 6.1%. Our revenues for fiscal 2025 in constant",
+      "Infosys Integrated Annual Report 2024-25\nInfosys Integrated Annual Report 2024-25\n28\n29\nBusiness highlights\nPerformance overview\nDividend per share (in ₹)\n43.0\n13.2% growth Y-o-Y (2)\nRevenues\n₹ 1,62,990 cr\n6.1% growth Y-o-Y\n4.2% CC growth Y-o-Y \nOperating margin\n21.1%\nRobust operating margin\nHighest ever free cash flow of `34,549 cr for fiscal 2025\nFree cash flow growth(3)\n44.8% Y-o-Y\n FCF conversion at 129.2% of net profit\nConsolidated cash and \ninvestments(1)\n₹ 47,549 cr\nContinue to main strong \nliquidity position\nBasic earnings per share\n(par value of ₹ 5 each)\n64.50\n8.3% growth Y-o-Y(4)\nNumber of US$50 million + clients\n85\nStrong client metrics with increase  \nof 2 clients Y-o-Y\nLarge deal TCV\n(Total contract value in US$ billion)\n11.6\nSustained momentum in large \ndeal wins continues\nCarbon offset programs\n2,72,000+\nRural families continue to benefit\n11\nLake rejuvenation projects over \nthe last two years, achieving an \nincrease of 4.3 bn liters in water \nholding capacity.\n60 MW",
+      "revenues in reported currency terms for fiscal 2025 is ₹1,62,990 \ncrore, a growth of 6.1%. Our revenues for fiscal 2025 in constant \ncurrency grew by 4.2%.\nWe added 365 new customers (gross) during fiscal 2025 as \ncompared to 385 new customers (gross) during fiscal 2024.\nOn a consolidated basis, for the year ended March 31, 2025, \napproximately 96.9% were export revenues whereas 3.1% were \ndomestic revenues, while for the year ended March 31, 2024, \n97.5% were export revenues whereas 2.5% were domestic \nrevenues. Refer to the ‘Segmental profitability’ section in this \nreport for more details on the analysis of segment revenues.\n2. Expenditure\nCost of sales \nThe cost of sales have decreased as a percentage of revenue by \n0.2% on standalone basis and by 0.4% on consolidated basis \nin fiscal 2025 over fiscal 2024. The cost of efforts, comprising \nemployee cost and cost of technical sub-contractors, has \ndecreased as a percentage of revenue from 60.2% in fiscal 2024",
+      "Infosys Integrated Annual Report 2024-25\nInfosys Integrated Annual Report 2024-25\n18\n19\nAbout Infosys\nCorporate overview\n3,23,578\nEmployees\n1,869\nActive clients \n`1,62,990 cr \nTotal revenues in fiscal 2025\nIn 2025, we undertook a refresh of \nour ESG Vision 2030 and confirmed \nour continued commitment to \nresponsible business to shape \nand share solutions that serve the \ndevelopment of businesses and \ncommunities. We reaffirmed our \nlong-standing focus across core areas \nincluding climate change, nurturing \nworkplace inclusivity, employee \nwellness and experience, amplifying \ncommunities, corporate governance, \ndata privacy and information \nmanagement.\nOur Values \nOur Company’s Code of Conduct \nstands on the strong foundation \nset by our values, encapsulated in \nthe acronym C-LIFE. \nClient value\nTo surpass client expectations \nconsistently\nLeadership by example\nTo set standards in our business \nand transactions and be an \nexemplar for the industry and \nourselves",
+      "Infosys Integrated Annual Report 2024-25\n103\nBusiness segments – Consolidated\n(In ₹ crore)\nParticulars\nFinancial \nServices\nRetail Communication\nEnergy, Utilities, \nResources and \nServices\nManufacturing\nHi-Tech\nLife \nSciences\nAll other \nsegments\nTotal\nSegmental revenues\n2025\n45,175\n22,059\n19,108\n21,710\n25,207\n13,090\n11,831\n4,810\n1,62,990\n2024\n42,158\n22,504\n17,991\n20,035\n22,298\n12,411\n11,515\n4,758\n1,53,670\nGrowth (%)\n7.2\n(2.0)\n6.2\n8.4\n13.0\n5.5\n2.7\n1.1\n6.1\nSegmental operating income\n2025\n11,099\n7,133\n3,341\n6,097\n4,856\n3,220\n2,663\n827\n39,236\n2024\n9,324\n6,882\n3,688\n5,523\n4,197\n3,153\n2,898\n760\n36,425\nGrowth (%)\n19.0\n3.6\n(9.4)\n10.4\n15.7\n2.1\n(8.1)\n8.8\n7.7\nSegmental operating margin (%) \n2025\n24.6\n32.3\n17.5\n28.1\n19.3\n24.6\n22.5\n17.2\n24.1\n2024\n22.1\n30.6\n20.5\n27.6\n18.8\n25.4\n25.2\n16.0\n23.7\nThe following graph sets forth our revenue by geography:\n(In ₹ crore)\n(60.1%)\n(9.8%)\n(27.6%)\n(2.5%)\n % growth - 2025\n North America – 2.1%\n Europe – 15.0%\n India – 29.2%\n Rest of the World – (0.8%)"
+    ],
+    "retrieved_chunk_count": 27,
+    "final_context_chunk_count": 5,
+    "source_page_hit": true,
+    "answered": true
+  },
+  {
+    "id": "financial_004",
+    "question": "What was Infosys' operating margin in fiscal 2025?",
+    "category": "financial",
+    "difficulty": "easy",
+    "expected_answer": "Infosys' operating margin in fiscal 2025 was 21.1%.",
+    "expected_source_pages": [
+      15,
+      17,
+      23
+    ],
+    "actual_answer": "Infosys' operating margin in fiscal 2025 was 21.1% (Source: Page 15.0, infosys-ar-25_page_15_chunk_0).",
+    "actual_source_pages": [
+      17.0,
+      15.0,
+      23.0,
+      30.0,
+      196.0
+    ],
+    "actual_sources": [
+      {
+        "source_number": 1,
+        "page_number": 17.0,
+        "chunk_id": "infosys-ar-25_page_17_chunk_0"
+      },
+      {
+        "source_number": 2,
+        "page_number": 15.0,
+        "chunk_id": "infosys-ar-25_page_15_chunk_0"
+      },
+      {
+        "source_number": 3,
+        "page_number": 23.0,
+        "chunk_id": "infosys-ar-25_page_23_chunk_0"
+      },
+      {
+        "source_number": 4,
+        "page_number": 30.0,
+        "chunk_id": "infosys-ar-25_page_30_chunk_0"
+      },
+      {
+        "source_number": 5,
+        "page_number": 196.0,
+        "chunk_id": "infosys-ar-25_page_196_chunk_0"
+      }
+    ],
+    "contexts": [
+      "Infosys Integrated Annual Report 2024-25\nInfosys Integrated Annual Report 2024-25\n32\n33\nLetter to the Shareholder\nPerformance overview\nDear shareholder,\nFinancial year 2025 was another year of strong execution \nfor Infosys. We had growth of 4.2%, operating margin of \n21.1%, and free cash flow of US$4.1 billion. We announced \na total dividend of `43 per share (including an interim \ndividend of `21 per share).\nInfosys is the leader in AI, cloud, data, and digital for our \nclients.\nInfosys Topaz brings the power of AI, with a strong \nfoundation of cloud and data, to help our clients leverage \nthe next generation of opportunities. To help our clients \nwith AI, we have built a repository of AI agents. These \nagents improve productivity in areas such as code \ngeneration, IT operations, bill-to-cash, and quote-to-order. \nWe have developed domain-specific language models \nfor some industries, IT operations, and cybersecurity. As a \nresult of our expertise and strong partnership with industry",
+      "Infosys Integrated Annual Report 2024-25\nInfosys Integrated Annual Report 2024-25\n28\n29\nBusiness highlights\nPerformance overview\nDividend per share (in ₹)\n43.0\n13.2% growth Y-o-Y (2)\nRevenues\n₹ 1,62,990 cr\n6.1% growth Y-o-Y\n4.2% CC growth Y-o-Y \nOperating margin\n21.1%\nRobust operating margin\nHighest ever free cash flow of `34,549 cr for fiscal 2025\nFree cash flow growth(3)\n44.8% Y-o-Y\n FCF conversion at 129.2% of net profit\nConsolidated cash and \ninvestments(1)\n₹ 47,549 cr\nContinue to main strong \nliquidity position\nBasic earnings per share\n(par value of ₹ 5 each)\n64.50\n8.3% growth Y-o-Y(4)\nNumber of US$50 million + clients\n85\nStrong client metrics with increase  \nof 2 clients Y-o-Y\nLarge deal TCV\n(Total contract value in US$ billion)\n11.6\nSustained momentum in large \ndeal wins continues\nCarbon offset programs\n2,72,000+\nRural families continue to benefit\n11\nLake rejuvenation projects over \nthe last two years, achieving an \nincrease of 4.3 bn liters in water \nholding capacity.\n60 MW",
+      "Infosys Integrated Annual Report 2024-25\nInfosys Integrated Annual Report 2024-25\n44\n45\nFinancial Capital\nDelivering value\nPerformance highlights\n6.1%\nRevenue growth\n21.1%\nOperating margin\n29.0%\nReturn on equity\nAAA\nCRISIL Rating\n13.2%\nDividend per share growth (1)\n44.8%\nFree cash flow growth (2)\n`54,249 cr\nRobust working capital\nWe obtain our Financial Capital through the funds generated from our \nbusiness operations and financing activities. Our strong performance \non the back of meticulous execution over the years, as reflected in the \ncombination of high growth, strong cash generation and profitability, \nhas led to building a strong, debt-free, and liquid Balance Sheet. Our \nfocus is on ensuring a sustainable and profitable financial position. Our \nstakeholders expect us to deliver long-term growth riding on a solid \nstrategy and prudent business decisions. Our shareholders are looking \nfor good returns on their investment and steady capital returns.",
+      "Infosys Integrated Annual Report 2024-25\n58\nDear Members,\nThe Board of Directors hereby submits the report of the business and operations of your Company (“the Company” or “Infosys”), along \nwith the audited financial statements, for the financial year ended March 31, 2025. The consolidated performance of the Company and its \nsubsidiaries has been referred to wherever required.\n1.\tResults of our operations and state of affairs\n(in ` crore, except per equity share data)\nParticulars\nStandalone \nConsolidated\nFor the year ended \nMarch 31,\nYoY \ngrowth \n(%)\nFor the year ended \nMarch 31,\nYoY \ngrowth \n(%)\n2025\n2024\n2025\n2024\nRevenue from operations\n1,36,592\n1,28,933\n5.9\n1,62,990\n1,53,670\n6.1\nOther income, net*\n4,782\n7,417\n(35.5)\n3,600\n4,711\n(23.6)\nTotal income\n1,41,374\n1,36,350\n3.7\n1,66,590\n1,58,381\n5.2\nExpenses\n \n \n \n \n \nCost of sales\n94,111\n89,032\n5.7\n1,13,347\n1,07,413\n5.5\nSelling and marketing expenses\n6,282\n5,668\n10.8\n7,588\n6,973\n8.8\nGeneral and administration expenses\n5,319\n5,420\n(1.9)",
+      "Infosys Integrated Annual Report 2024-25\n224\nStatement of Profit and Loss\n(In ₹ crore, except equity share and per equity share data)\nParticulars\nNote\nYear ended March 31,\n2025\n2024\nRevenue from operations\n2.18\n 1,36,592 \n 1,28,933 \nOther income, net\n2.19\n 4,782 \n 7,417 \nTotal income\n \n 1,41,374 \n 1,36,350 \nExpenses\n \n \n \nEmployee benefit expenses\n2.20\n 67,466 \n 65,139 \nCost of technical sub-contractors\n \n 19,353 \n 18,638 \nTravel expenses\n \n 1,467 \n 1,372 \nCost of software packages and others\n2.20\n 9,617 \n 6,891 \nCommunication expenses\n \n 448 \n 489 \nConsultancy and professional charges\n \n 1,245 \n 1,059 \nDepreciation and amortization expenses\n2.1, 2.2.2, and 2.3\n 2,619 \n 2,944 \nFinance cost\n \n 221 \n 277 \nOther expenses\n2.20\n 3,497 \n 3,588 \nTotal expenses \n \n 1,05,933 \n 1,00,397 \nProfit before tax \n \n 35,441 \n 35,953 \nTax expense:\n \n \n \nCurrent tax\n2.17\n 10,836 \n 7,306 \nDeferred tax\n2.17\n (963)\n 1,413 \nProfit for the year\n \n 25,568 \n 27,234"
+    ],
+    "retrieved_chunk_count": 31,
+    "final_context_chunk_count": 5,
+    "source_page_hit": true,
+    "answered": true
+  },
+  {
+    "id": "financial_005",
+    "question": "What was Infosys' highest ever free cash flow in fiscal 2025?",
+    "category": "financial",
+    "difficulty": "easy",
+    "expected_answer": "Infosys reported its highest ever free cash flow of ₹34,549 crore for fiscal 2025.",
+    "expected_source_pages": [
+      15
+    ],
+    "actual_answer": "Infosys' highest ever free cash flow in fiscal 2025 was ₹34,549 crore (Source: Page 15, infosys-ar-25_page_15_chunk_0).",
+    "actual_source_pages": [
+      15.0,
+      17.0,
+      33.0,
+      23.0,
+      203.0
+    ],
+    "actual_sources": [
+      {
+        "source_number": 1,
+        "page_number": 15.0,
+        "chunk_id": "infosys-ar-25_page_15_chunk_0"
+      },
+      {
+        "source_number": 2,
+        "page_number": 17.0,
+        "chunk_id": "infosys-ar-25_page_17_chunk_0"
+      },
+      {
+        "source_number": 3,
+        "page_number": 33.0,
+        "chunk_id": "infosys-ar-25_page_33_chunk_1"
+      },
+      {
+        "source_number": 4,
+        "page_number": 23.0,
+        "chunk_id": "infosys-ar-25_page_23_chunk_0"
+      },
+      {
+        "source_number": 5,
+        "page_number": 203.0,
+        "chunk_id": "infosys-ar-25_page_203_chunk_0"
+      }
+    ],
+    "contexts": [
+      "Infosys Integrated Annual Report 2024-25\nInfosys Integrated Annual Report 2024-25\n28\n29\nBusiness highlights\nPerformance overview\nDividend per share (in ₹)\n43.0\n13.2% growth Y-o-Y (2)\nRevenues\n₹ 1,62,990 cr\n6.1% growth Y-o-Y\n4.2% CC growth Y-o-Y \nOperating margin\n21.1%\nRobust operating margin\nHighest ever free cash flow of `34,549 cr for fiscal 2025\nFree cash flow growth(3)\n44.8% Y-o-Y\n FCF conversion at 129.2% of net profit\nConsolidated cash and \ninvestments(1)\n₹ 47,549 cr\nContinue to main strong \nliquidity position\nBasic earnings per share\n(par value of ₹ 5 each)\n64.50\n8.3% growth Y-o-Y(4)\nNumber of US$50 million + clients\n85\nStrong client metrics with increase  \nof 2 clients Y-o-Y\nLarge deal TCV\n(Total contract value in US$ billion)\n11.6\nSustained momentum in large \ndeal wins continues\nCarbon offset programs\n2,72,000+\nRural families continue to benefit\n11\nLake rejuvenation projects over \nthe last two years, achieving an \nincrease of 4.3 bn liters in water \nholding capacity.\n60 MW",
+      "Infosys Integrated Annual Report 2024-25\nInfosys Integrated Annual Report 2024-25\n32\n33\nLetter to the Shareholder\nPerformance overview\nDear shareholder,\nFinancial year 2025 was another year of strong execution \nfor Infosys. We had growth of 4.2%, operating margin of \n21.1%, and free cash flow of US$4.1 billion. We announced \na total dividend of `43 per share (including an interim \ndividend of `21 per share).\nInfosys is the leader in AI, cloud, data, and digital for our \nclients.\nInfosys Topaz brings the power of AI, with a strong \nfoundation of cloud and data, to help our clients leverage \nthe next generation of opportunities. To help our clients \nwith AI, we have built a repository of AI agents. These \nagents improve productivity in areas such as code \ngeneration, IT operations, bill-to-cash, and quote-to-order. \nWe have developed domain-specific language models \nfor some industries, IT operations, and cybersecurity. As a \nresult of our expertise and strong partnership with industry",
+      "a final dividend of ₹22 per share, subject to shareholders’ \napproval in the ensuing Annual General Meeting (AGM). \nIncluding the final dividend declared above, the Company has \nreturned approximately `17,814 crore, which is 51.6% of the \nfree cash flow for fiscal 2025 through dividends, in line with the \nCapital Allocation Policy.\nThe Capital Allocation Policy is available on our website, at \nhttps://www.infosys.com/investors/corporate-governance/ \ndocuments/capital-allocation-policy.pdf.\nLiquidity\nOur principal sources of liquidity are cash and cash equivalents, \ninvestments and the cash flow that we generate from our \noperations. We continue to be debt-free and maintain sufficient \ncash to meet our strategic and operational requirements. We \nunderstand that liquidity in the Balance Sheet has to balance \nbetween earning adequate returns and the need to cover \nfinancial and business requirements. Liquidity enables us to be",
+      "Infosys Integrated Annual Report 2024-25\nInfosys Integrated Annual Report 2024-25\n44\n45\nFinancial Capital\nDelivering value\nPerformance highlights\n6.1%\nRevenue growth\n21.1%\nOperating margin\n29.0%\nReturn on equity\nAAA\nCRISIL Rating\n13.2%\nDividend per share growth (1)\n44.8%\nFree cash flow growth (2)\n`54,249 cr\nRobust working capital\nWe obtain our Financial Capital through the funds generated from our \nbusiness operations and financing activities. Our strong performance \non the back of meticulous execution over the years, as reflected in the \ncombination of high growth, strong cash generation and profitability, \nhas led to building a strong, debt-free, and liquid Balance Sheet. Our \nfocus is on ensuring a sustainable and profitable financial position. Our \nstakeholders expect us to deliver long-term growth riding on a solid \nstrategy and prudent business decisions. Our shareholders are looking \nfor good returns on their investment and steady capital returns.",
+      "Infosys Integrated Annual Report 2024-25\n231\nStatement of Cash Flows\nAccounting Policy\nCash flows are reported using the indirect method, whereby profit for the year is adjusted for the effects of transactions of a non-cash \nnature, any deferrals or accruals of past or future operating cash receipts or payments and item of income or expenses associated with \ninvesting or financing cash flows. The cash flows from operating, investing and financing activities of the Company are segregated. The \nCompany considers all highly liquid investments that are readily convertible to known amounts of cash to be cash equivalents.\n(In ₹ crore)\nParticulars\nNote\nYear ended March 31,\n2025\n2024\nCash flow from operating activities:\n \n \n \nProfit for the year\n \n 25,568 \n 27,234 \nAdjustments to reconcile net profit to net cash provided by operating activities:\n \n \n \nDepreciation and Amortization\n2.1, 2.2.2, 2.3\n 2,619 \n 2,944 \nIncome tax expense\n2.17\n 9,873 \n 8,719"
+    ],
+    "retrieved_chunk_count": 25,
+    "final_context_chunk_count": 5,
+    "source_page_hit": true,
+    "answered": true
+  },
+  {
+    "id": "financial_006",
+    "question": "What was Infosys' free cash flow growth in fiscal 2025?",
+    "category": "financial",
+    "difficulty": "easy",
+    "expected_answer": "Infosys' free cash flow growth in fiscal 2025 was 44.8% year-on-year.",
+    "expected_source_pages": [
+      15,
+      23
+    ],
+    "actual_answer": "Infosys' free cash flow growth in fiscal 2025 was 44.8% Y-o-Y (Year-over-Year) (Source: Page 15.0, infosys-ar-25_page_15_chunk_0).",
+    "actual_source_pages": [
+      17.0,
+      15.0,
+      23.0,
+      33.0,
+      33.0
+    ],
+    "actual_sources": [
+      {
+        "source_number": 1,
+        "page_number": 17.0,
+        "chunk_id": "infosys-ar-25_page_17_chunk_0"
+      },
+      {
+        "source_number": 2,
+        "page_number": 15.0,
+        "chunk_id": "infosys-ar-25_page_15_chunk_0"
+      },
+      {
+        "source_number": 3,
+        "page_number": 23.0,
+        "chunk_id": "infosys-ar-25_page_23_chunk_0"
+      },
+      {
+        "source_number": 4,
+        "page_number": 33.0,
+        "chunk_id": "infosys-ar-25_page_33_chunk_1"
+      },
+      {
+        "source_number": 5,
+        "page_number": 33.0,
+        "chunk_id": "infosys-ar-25_page_33_chunk_0"
+      }
+    ],
+    "contexts": [
+      "Infosys Integrated Annual Report 2024-25\nInfosys Integrated Annual Report 2024-25\n32\n33\nLetter to the Shareholder\nPerformance overview\nDear shareholder,\nFinancial year 2025 was another year of strong execution \nfor Infosys. We had growth of 4.2%, operating margin of \n21.1%, and free cash flow of US$4.1 billion. We announced \na total dividend of `43 per share (including an interim \ndividend of `21 per share).\nInfosys is the leader in AI, cloud, data, and digital for our \nclients.\nInfosys Topaz brings the power of AI, with a strong \nfoundation of cloud and data, to help our clients leverage \nthe next generation of opportunities. To help our clients \nwith AI, we have built a repository of AI agents. These \nagents improve productivity in areas such as code \ngeneration, IT operations, bill-to-cash, and quote-to-order. \nWe have developed domain-specific language models \nfor some industries, IT operations, and cybersecurity. As a \nresult of our expertise and strong partnership with industry",
+      "Infosys Integrated Annual Report 2024-25\nInfosys Integrated Annual Report 2024-25\n28\n29\nBusiness highlights\nPerformance overview\nDividend per share (in ₹)\n43.0\n13.2% growth Y-o-Y (2)\nRevenues\n₹ 1,62,990 cr\n6.1% growth Y-o-Y\n4.2% CC growth Y-o-Y \nOperating margin\n21.1%\nRobust operating margin\nHighest ever free cash flow of `34,549 cr for fiscal 2025\nFree cash flow growth(3)\n44.8% Y-o-Y\n FCF conversion at 129.2% of net profit\nConsolidated cash and \ninvestments(1)\n₹ 47,549 cr\nContinue to main strong \nliquidity position\nBasic earnings per share\n(par value of ₹ 5 each)\n64.50\n8.3% growth Y-o-Y(4)\nNumber of US$50 million + clients\n85\nStrong client metrics with increase  \nof 2 clients Y-o-Y\nLarge deal TCV\n(Total contract value in US$ billion)\n11.6\nSustained momentum in large \ndeal wins continues\nCarbon offset programs\n2,72,000+\nRural families continue to benefit\n11\nLake rejuvenation projects over \nthe last two years, achieving an \nincrease of 4.3 bn liters in water \nholding capacity.\n60 MW",
+      "Infosys Integrated Annual Report 2024-25\nInfosys Integrated Annual Report 2024-25\n44\n45\nFinancial Capital\nDelivering value\nPerformance highlights\n6.1%\nRevenue growth\n21.1%\nOperating margin\n29.0%\nReturn on equity\nAAA\nCRISIL Rating\n13.2%\nDividend per share growth (1)\n44.8%\nFree cash flow growth (2)\n`54,249 cr\nRobust working capital\nWe obtain our Financial Capital through the funds generated from our \nbusiness operations and financing activities. Our strong performance \non the back of meticulous execution over the years, as reflected in the \ncombination of high growth, strong cash generation and profitability, \nhas led to building a strong, debt-free, and liquid Balance Sheet. Our \nfocus is on ensuring a sustainable and profitable financial position. Our \nstakeholders expect us to deliver long-term growth riding on a solid \nstrategy and prudent business decisions. Our shareholders are looking \nfor good returns on their investment and steady capital returns.",
+      "a final dividend of ₹22 per share, subject to shareholders’ \napproval in the ensuing Annual General Meeting (AGM). \nIncluding the final dividend declared above, the Company has \nreturned approximately `17,814 crore, which is 51.6% of the \nfree cash flow for fiscal 2025 through dividends, in line with the \nCapital Allocation Policy.\nThe Capital Allocation Policy is available on our website, at \nhttps://www.infosys.com/investors/corporate-governance/ \ndocuments/capital-allocation-policy.pdf.\nLiquidity\nOur principal sources of liquidity are cash and cash equivalents, \ninvestments and the cash flow that we generate from our \noperations. We continue to be debt-free and maintain sufficient \ncash to meet our strategic and operational requirements. We \nunderstand that liquidity in the Balance Sheet has to balance \nbetween earning adequate returns and the need to cover \nfinancial and business requirements. Liquidity enables us to be",
+      "Infosys Integrated Annual Report 2024-25\n61\nCapital Allocation Policy \n\"Effective from financial year 2025, the Company expects to \ncontinue its policy of returning approximately 85% of the \nfree cash flow cumulatively over a five-year period through a \ncombination of semi-annual dividends and / or share buyback \n/ special dividends, subject to applicable laws and requisite \napprovals, if any.\" Under this policy, the Company expects to \nprogressively increase its annual dividend per share (excluding \nspecial dividend, if any). Free cash flow is defined as net cash \nprovided by operating activities less capital expenditure as per \nthe Consolidated Statement of Cash Flows prepared under IFRS. \nDividend and buyback include applicable taxes.\nDuring the year ended March 31, 2025, the Company paid \nan interim dividend of ₹21 per equity share and announced \na final dividend of ₹22 per share, subject to shareholders’ \napproval in the ensuing Annual General Meeting (AGM)."
+    ],
+    "retrieved_chunk_count": 27,
+    "final_context_chunk_count": 5,
+    "source_page_hit": true,
+    "answered": true
+  },
+  {
+    "id": "financial_007",
+    "question": "What was Infosys' FCF conversion as a percentage of net profit in fiscal 2025?",
+    "category": "financial",
+    "difficulty": "medium",
+    "expected_answer": "Infosys reported FCF conversion at 129.2% of net profit in fiscal 2025.",
+    "expected_source_pages": [
+      15
+    ],
+    "actual_answer": "Infosys' free cash flow (FCF) conversion in fiscal 2025 was 129.2% of net profit (Source: Page 15, infosys-ar-25_page_15_chunk_0).",
+    "actual_source_pages": [
+      15.0,
+      17.0,
+      33.0,
+      283.0,
+      203.0
+    ],
+    "actual_sources": [
+      {
+        "source_number": 1,
+        "page_number": 15.0,
+        "chunk_id": "infosys-ar-25_page_15_chunk_0"
+      },
+      {
+        "source_number": 2,
+        "page_number": 17.0,
+        "chunk_id": "infosys-ar-25_page_17_chunk_0"
+      },
+      {
+        "source_number": 3,
+        "page_number": 33.0,
+        "chunk_id": "infosys-ar-25_page_33_chunk_1"
+      },
+      {
+        "source_number": 4,
+        "page_number": 283.0,
+        "chunk_id": "infosys-ar-25_page_283_chunk_0"
+      },
+      {
+        "source_number": 5,
+        "page_number": 203.0,
+        "chunk_id": "infosys-ar-25_page_203_chunk_0"
+      }
+    ],
+    "contexts": [
+      "Infosys Integrated Annual Report 2024-25\nInfosys Integrated Annual Report 2024-25\n28\n29\nBusiness highlights\nPerformance overview\nDividend per share (in ₹)\n43.0\n13.2% growth Y-o-Y (2)\nRevenues\n₹ 1,62,990 cr\n6.1% growth Y-o-Y\n4.2% CC growth Y-o-Y \nOperating margin\n21.1%\nRobust operating margin\nHighest ever free cash flow of `34,549 cr for fiscal 2025\nFree cash flow growth(3)\n44.8% Y-o-Y\n FCF conversion at 129.2% of net profit\nConsolidated cash and \ninvestments(1)\n₹ 47,549 cr\nContinue to main strong \nliquidity position\nBasic earnings per share\n(par value of ₹ 5 each)\n64.50\n8.3% growth Y-o-Y(4)\nNumber of US$50 million + clients\n85\nStrong client metrics with increase  \nof 2 clients Y-o-Y\nLarge deal TCV\n(Total contract value in US$ billion)\n11.6\nSustained momentum in large \ndeal wins continues\nCarbon offset programs\n2,72,000+\nRural families continue to benefit\n11\nLake rejuvenation projects over \nthe last two years, achieving an \nincrease of 4.3 bn liters in water \nholding capacity.\n60 MW",
+      "Infosys Integrated Annual Report 2024-25\nInfosys Integrated Annual Report 2024-25\n32\n33\nLetter to the Shareholder\nPerformance overview\nDear shareholder,\nFinancial year 2025 was another year of strong execution \nfor Infosys. We had growth of 4.2%, operating margin of \n21.1%, and free cash flow of US$4.1 billion. We announced \na total dividend of `43 per share (including an interim \ndividend of `21 per share).\nInfosys is the leader in AI, cloud, data, and digital for our \nclients.\nInfosys Topaz brings the power of AI, with a strong \nfoundation of cloud and data, to help our clients leverage \nthe next generation of opportunities. To help our clients \nwith AI, we have built a repository of AI agents. These \nagents improve productivity in areas such as code \ngeneration, IT operations, bill-to-cash, and quote-to-order. \nWe have developed domain-specific language models \nfor some industries, IT operations, and cybersecurity. As a \nresult of our expertise and strong partnership with industry",
+      "a final dividend of ₹22 per share, subject to shareholders’ \napproval in the ensuing Annual General Meeting (AGM). \nIncluding the final dividend declared above, the Company has \nreturned approximately `17,814 crore, which is 51.6% of the \nfree cash flow for fiscal 2025 through dividends, in line with the \nCapital Allocation Policy.\nThe Capital Allocation Policy is available on our website, at \nhttps://www.infosys.com/investors/corporate-governance/ \ndocuments/capital-allocation-policy.pdf.\nLiquidity\nOur principal sources of liquidity are cash and cash equivalents, \ninvestments and the cash flow that we generate from our \noperations. We continue to be debt-free and maintain sufficient \ncash to meet our strategic and operational requirements. We \nunderstand that liquidity in the Balance Sheet has to balance \nbetween earning adequate returns and the need to cover \nfinancial and business requirements. Liquidity enables us to be",
+      "Infosys Integrated Annual Report 2024-25\n311\nConsolidated Statement of Cash Flows\nAccounting policy\nCash flows are reported using the indirect method, whereby profit for the year is adjusted for the effects of transactions of a non-cash \nnature, any deferrals or accruals of past or future operating cash receipts or payments and item of income or expenses associated with \ninvesting or financing cash flows. The cash flows from operating, investing and financing activities of the Group are segregated. The \nGroup considers all highly liquid investments that are readily convertible to known amounts of cash to be cash equivalents.\n(In ₹ crore)\nParticulars\nNote\nYear ended March 31,\n2025\n2024\nCash flow from operating activities\n \n \n \nProfit for the year\n \n 26,750 \n 26,248 \nAdjustments to reconcile net profit to net cash provided by operating activities:\n \n \n \nIncome tax expense\n2.17\n 10,858 \n 9,740 \nDepreciation and amortization\n2.2, 2.4.2 and 2.21\n 4,812 \n 4,678 \nInterest and dividend income",
+      "Infosys Integrated Annual Report 2024-25\n231\nStatement of Cash Flows\nAccounting Policy\nCash flows are reported using the indirect method, whereby profit for the year is adjusted for the effects of transactions of a non-cash \nnature, any deferrals or accruals of past or future operating cash receipts or payments and item of income or expenses associated with \ninvesting or financing cash flows. The cash flows from operating, investing and financing activities of the Company are segregated. The \nCompany considers all highly liquid investments that are readily convertible to known amounts of cash to be cash equivalents.\n(In ₹ crore)\nParticulars\nNote\nYear ended March 31,\n2025\n2024\nCash flow from operating activities:\n \n \n \nProfit for the year\n \n 25,568 \n 27,234 \nAdjustments to reconcile net profit to net cash provided by operating activities:\n \n \n \nDepreciation and Amortization\n2.1, 2.2.2, 2.3\n 2,619 \n 2,944 \nIncome tax expense\n2.17\n 9,873 \n 8,719"
+    ],
+    "retrieved_chunk_count": 31,
+    "final_context_chunk_count": 5,
+    "source_page_hit": true,
+    "answered": true
+  },
+  {
+    "id": "financial_008",
+    "question": "What was Infosys' consolidated cash and investments in fiscal 2025?",
+    "category": "financial",
+    "difficulty": "easy",
+    "expected_answer": "Infosys' consolidated cash and investments were ₹47,549 crore in fiscal 2025.",
+    "expected_source_pages": [
+      15,
+      22,
+      33
+    ],
+    "actual_answer": "Infosys' consolidated cash and investments in fiscal 2025 were ₹47,549 crore (Source: Page 15.0, infosys-ar-25_page_15_chunk_0).",
+    "actual_source_pages": [
+      15.0,
+      295.0,
+      204.0,
+      216.0,
+      72.0
+    ],
+    "actual_sources": [
+      {
+        "source_number": 1,
+        "page_number": 15.0,
+        "chunk_id": "infosys-ar-25_page_15_chunk_0"
+      },
+      {
+        "source_number": 2,
+        "page_number": 295.0,
+        "chunk_id": "infosys-ar-25_page_295_chunk_0"
+      },
+      {
+        "source_number": 3,
+        "page_number": 204.0,
+        "chunk_id": "infosys-ar-25_page_204_chunk_0"
+      },
+      {
+        "source_number": 4,
+        "page_number": 216.0,
+        "chunk_id": "infosys-ar-25_page_216_chunk_0"
+      },
+      {
+        "source_number": 5,
+        "page_number": 72.0,
+        "chunk_id": "infosys-ar-25_page_72_chunk_0"
+      }
+    ],
+    "contexts": [
+      "Infosys Integrated Annual Report 2024-25\nInfosys Integrated Annual Report 2024-25\n28\n29\nBusiness highlights\nPerformance overview\nDividend per share (in ₹)\n43.0\n13.2% growth Y-o-Y (2)\nRevenues\n₹ 1,62,990 cr\n6.1% growth Y-o-Y\n4.2% CC growth Y-o-Y \nOperating margin\n21.1%\nRobust operating margin\nHighest ever free cash flow of `34,549 cr for fiscal 2025\nFree cash flow growth(3)\n44.8% Y-o-Y\n FCF conversion at 129.2% of net profit\nConsolidated cash and \ninvestments(1)\n₹ 47,549 cr\nContinue to main strong \nliquidity position\nBasic earnings per share\n(par value of ₹ 5 each)\n64.50\n8.3% growth Y-o-Y(4)\nNumber of US$50 million + clients\n85\nStrong client metrics with increase  \nof 2 clients Y-o-Y\nLarge deal TCV\n(Total contract value in US$ billion)\n11.6\nSustained momentum in large \ndeal wins continues\nCarbon offset programs\n2,72,000+\nRural families continue to benefit\n11\nLake rejuvenation projects over \nthe last two years, achieving an \nincrease of 4.3 bn liters in water \nholding capacity.\n60 MW",
+      "Infosys Integrated Annual Report 2024-25\n323\nParticulars\nAs at March 31,\n2025\n2024\nTotal current investments\n 12,482 \n 12,915 \nTotal investments\n 23,541 \n 24,623 \nAggregate amount of quoted investments \n 13,584 \n 13,413 \nMarket value of quoted investments (including interest accrued), current\n 3,369 \n 2,428 \nMarket value of quoted investments (including interest accrued), non current\n 10,392 \n 11,201 \nAggregate amount of unquoted investments\n 9,957 \n 11,210 \nInvestments carried at amortized cost\n 1,650 \n 1,759 \nInvestments carried at fair value through other comprehensive income\n 19,248 \n 19,620 \nInvestments carried at fair value through profit or loss\n 2,643 \n 3,244 \n(1)\t Uncalled capital commitments outstanding as at March 31, 2025 and March 31, 2024 was ₹122 crore and ₹79 crore, respectively.\nRefer to Note 2.11 for Accounting policies on Financial Instruments.\nDetails of amounts recorded in Other comprehensive income:\n(In ₹ crore)\nParticulars\nYear ended March 31, 2025",
+      "Infosys Integrated Annual Report 2024-25\n232\nParticulars\nNote\nYear ended March 31,\n2025\n2024\nPayments to acquire investments\n \n \n \nLiquid mutual fund units\n \n (66,637)\n (57,606)\nCommercial papers\n \n (6,058)\n (9,405)\nCertificates of deposit\n \n (6,138)\n (7,011)\nNon-convertible debentures\n \n (3,240)\n (1,526)\nOther investments\n \n (25)\n (2)\nProceeds on sale of investments\n \n \n \nTax-free bonds and government bonds\n \n 105 \n 150 \nLiquid mutual fund units\n \n 67,597 \n 56,124 \nNon-convertible debentures\n \n 2,376 \n 955 \nCertificates of deposit\n \n 5,984 \n 6,962 \nCommercial papers\n \n 7,260 \n 5,475 \nGovernment securities\n \n 200 \n 5 \nOther investments\n \n 12 \n 20 \nNet cash used in investing activities\n \n (1,943)\n (3,261)\nCash flow from financing activities:\n \n \n \nPayment of lease liabilities\n2.3\n (859)\n (850)\nShares issued on exercise of employee stock options\n \n 3 \n 1 \nOther payments\n \n (186)\n (243)\nPayment of dividends\n \n (20,337)\n (14,733)\nNet cash used in financing activities\n \n (21,379)\n (15,825)",
+      "Infosys Integrated Annual Report 2024-25\n244\nParticulars\nAs at March 31,\n2025\n2024\nCurrent investments\n \n \nUnquoted\n \n \nInvestments carried at fair value through profit or loss \n \n \nLiquid mutual fund units\n 1,185 \n 1,913 \n \n 1,185 \n 1,913 \nInvestments carried at fair value through other comprehensive income \n \n \nCommercial papers\n 3,442 \n 4,507 \nCertificates of deposit\n 3,257 \n 2,945 \n \n 6,699 \n 7,452 \nQuoted\n \n \nInvestments carried at amortized cost\n \n \nTax-free bonds\n 154 \n –\n \n 154 \n –\nInvestments carried at fair value through other comprehensive income \n \n \nGovernment securities\n 1,560 \n 204 \nNon-convertible debentures\n 1,549 \n 1,738 \n \n 3,109 \n 1,942 \nTotal current investments\n 11,147 \n 11,307 \nTotal investments\n 38,518 \n 34,659 \nAggregate amount of quoted investments\n 13,359 \n 12,705 \nMarket value of quoted investments (including interest accrued), current\n 3,266 \n 1,942 \nMarket value of quoted investments (including interest accrued), non-current\n 10,269 \n 10,978",
+      "Infosys Integrated Annual Report 2024-25\n100\nManagement’s discussion and analysis\n4.\t Goodwill and other intangible assets\nOn a consolidated basis, the carrying value of goodwill as \non March 31, 2025 is ₹10,106 crore. During the previous year, \nthe carrying value of goodwill was ₹7,303 crore. During the \nyear goodwill arising on acquisition of InSemi Technology \nServices Private Limited and in-tech Holding GmbH \namounted to ₹2,593 crore.\nOn a consolidated basis, the carrying value of intangible assets \nas on March 31, 2025 is ₹2,766 crore, whereas on March 31, \n2024, it was ₹1,397 crore. During the year ended March 31, \n2025, gross intangibles amounting to ₹1,940 crore comprising \nmainly of customer-related intangibles were added on account \nof acquisitions. Refer to Note 2.4.2 of the Consolidated financial \nstatements for further details.\n5.\t Financial assets\nA.\t Investments\nOn a standalone basis, during the year, we invested additionally"
+    ],
+    "retrieved_chunk_count": 26,
+    "final_context_chunk_count": 5,
+    "source_page_hit": true,
+    "answered": true
+  },
+  {
+    "id": "financial_009",
+    "question": "What was Infosys' basic earnings per share in fiscal 2025?",
+    "category": "financial",
+    "difficulty": "easy",
+    "expected_answer": "Infosys' basic earnings per share in fiscal 2025 was ₹64.50.",
+    "expected_source_pages": [
+      15
+    ],
+    "actual_answer": "Infosys' basic earnings per share in fiscal 2025 was ₹64.50 (Source: Page 332, infosys-ar-25_page_332_chunk_0).",
+    "actual_source_pages": [
+      15.0,
+      332.0,
+      277.0,
+      197.0,
+      197.0
+    ],
+    "actual_sources": [
+      {
+        "source_number": 1,
+        "page_number": 15.0,
+        "chunk_id": "infosys-ar-25_page_15_chunk_0"
+      },
+      {
+        "source_number": 2,
+        "page_number": 332.0,
+        "chunk_id": "infosys-ar-25_page_332_chunk_0"
+      },
+      {
+        "source_number": 3,
+        "page_number": 277.0,
+        "chunk_id": "infosys-ar-25_page_277_chunk_0"
+      },
+      {
+        "source_number": 4,
+        "page_number": 197.0,
+        "chunk_id": "infosys-ar-25_page_197_chunk_1"
+      },
+      {
+        "source_number": 5,
+        "page_number": 197.0,
+        "chunk_id": "infosys-ar-25_page_197_chunk_0"
+      }
+    ],
+    "contexts": [
+      "Infosys Integrated Annual Report 2024-25\nInfosys Integrated Annual Report 2024-25\n28\n29\nBusiness highlights\nPerformance overview\nDividend per share (in ₹)\n43.0\n13.2% growth Y-o-Y (2)\nRevenues\n₹ 1,62,990 cr\n6.1% growth Y-o-Y\n4.2% CC growth Y-o-Y \nOperating margin\n21.1%\nRobust operating margin\nHighest ever free cash flow of `34,549 cr for fiscal 2025\nFree cash flow growth(3)\n44.8% Y-o-Y\n FCF conversion at 129.2% of net profit\nConsolidated cash and \ninvestments(1)\n₹ 47,549 cr\nContinue to main strong \nliquidity position\nBasic earnings per share\n(par value of ₹ 5 each)\n64.50\n8.3% growth Y-o-Y(4)\nNumber of US$50 million + clients\n85\nStrong client metrics with increase  \nof 2 clients Y-o-Y\nLarge deal TCV\n(Total contract value in US$ billion)\n11.6\nSustained momentum in large \ndeal wins continues\nCarbon offset programs\n2,72,000+\nRural families continue to benefit\n11\nLake rejuvenation projects over \nthe last two years, achieving an \nincrease of 4.3 bn liters in water \nholding capacity.\n60 MW",
+      "Infosys Integrated Annual Report 2024-25\n360\nThe computation of basic earnings per equity share is as follows:\nParticulars\nYear ended March 31,\n2025\n2024\nProfit attributable to equity \nholders of the Company \n(in ₹ crore)\n 26,713 \n 26,233 \nBasic earnings per equity share \n- weighted average number of \nequity shares outstanding(1)\n414,16,11,738 \n413,85,68,090 \nBasic earnings per equity \nshare (₹)\n 64.50 \n 63.39 \nThe reconciliation of the equity shares used in the computation \nof basic and diluted earnings per equity share and computation \nof diluted earnings per equity share is as follows:\nParticulars\nYear ended March 31,\n2025\n2024\nProfit attributable to equity \nholders of the Company \n(in ₹ crore)\n 26,713 \n 26,233 \nWeighted average number of \nequity shares outstanding used \nin computing in basic earnings \nper equity share(1)\n 414,16,11,738 \n 413,85,68,090 \nEffect of dilutive common \nequivalent shares - share \noptions outstanding\n 104,39,446 \n 61,12,335 \nWeighted average number of",
+      "Infosys Integrated Annual Report 2024-25\n305\nParticulars\nNote\nYear ended March 31,\n2025\n2024\nProfit attributable to:\n \n \n \nOwners of the Company \n \n 26,713 \n 26,233 \nNon-controlling interests\n \n 37 \n 15 \n \n \n 26,750 \n 26,248 \nTotal comprehensive income attributable to: \n \n \n \nOwners of the Company \n \n 27,167 \n 26,754 \nNon-controlling interests\n \n 42 \n 14 \n \n \n 27,209 \n 26,768 \nEarnings per equity share\n \n \n \nEquity shares of par value ₹5/- each \n \n \n \nBasic (₹)\n2.23\n 64.50 \n 63.39 \nDiluted (₹)\n2.23\n 64.34 \n 63.29 \nWeighted average equity shares used in computing earnings per equity share\n \n \n \nBasic (in shares)\n2.23\n 414,16,11,738 \n 413,85,68,090 \nDiluted (in shares)\n2.23\n 415,20,51,184 \n 414,46,80,425 \nThe accompanying notes form an integral part of the Consolidated financial statements.\nAs per our report of even date attached\nfor Deloitte Haskins & Sells LLP\nChartered Accountants\nFirm’s Registration No:\n117366W/W-100018\nfor and on behalf of the Board of Directors of Infosys Limited",
+      "Equity shares of par value ₹5/- each \n \n \n \nBasic (in ₹ per share)\n2.22\n 61.58 \n 65.62 \nDiluted (in ₹ per share)\n2.22\n 61.46 \n 65.56 \nWeighted average equity shares used in computing earnings per equity share\n \n \n \nBasic (in shares)\n2.22\n 415,19,36,905 \n 415,00,99,796 \nDiluted (in shares)\n2.22\n 415,99,05,476 \n 415,39,94,624 \nThe accompanying notes form an integral part of the Standalone financial statements.\nAs per our report of even date attached\nfor Deloitte Haskins & Sells LLP\nChartered Accountants\nFirm Registration No :\n117366W/W-100018\nfor and on behalf of the Board of Directors of Infosys Limited\nVikas Bagaria\nPartner\nMembership No. 060408\nNandan M. Nilekani\nChairman\nDIN: 00041245\nSalil Parekh\nChief Executive Officer and Managing \nDirector\nDIN: 01876159\nBobby Parikh\nDirector\nDIN: 00019437\nBengaluru\nApril 17, 2025\nJayesh Sanghrajka\nChief Financial Officer\nA.G.S. Manikantha\nCompany Secretary\nMembership No. A21918",
+      "Infosys Integrated Annual Report 2024-25\n225\nStatement of Profit and Loss (contd.)\nParticulars\nNote\nYear ended March 31,\n2025\n2024\nOther comprehensive income \n \n \n \nItems that will not be reclassified subsequently to profit or loss\n \n \n \nRemeasurement of the net defined benefit liability / asset, net\n2.17 and 2.21\n (81)\n 128 \nEquity instruments through other comprehensive income, net \n2.5 and 2.17\n 19 \n 19 \nItems that will be reclassified subsequently to profit or loss\n \n \n \nFair value changes on derivatives designated as cash flow hedge, net\n2.11 and 2.17\n (24)\n 11 \nFair value changes on investments, net\n2.5 and 2.17\n 191 \n 129 \nTotal other comprehensive income / (loss), net of tax\n \n 105 \n 287 \nTotal comprehensive income for the year\n \n 25,673 \n 27,521 \nEarnings per equity share \n \n \n \nEquity shares of par value ₹5/- each \n \n \n \nBasic (in ₹ per share)\n2.22\n 61.58 \n 65.62 \nDiluted (in ₹ per share)\n2.22\n 61.46 \n 65.56"
+    ],
+    "retrieved_chunk_count": 26,
+    "final_context_chunk_count": 5,
+    "source_page_hit": true,
+    "answered": true
+  },
+  {
+    "id": "financial_010",
+    "question": "What was Infosys' basic EPS growth in fiscal 2025?",
+    "category": "financial",
+    "difficulty": "medium",
+    "expected_answer": "Infosys' basic earnings per share grew 8.3% year-on-year in fiscal 2025.",
+    "expected_source_pages": [
+      15,
+      22
+    ],
+    "actual_answer": "Infosys' basic earnings per share (EPS) in fiscal 2025 was ₹64.50, representing an 8.3% growth year-over-year (Y-o-Y) (Source: Page 15.0, infosys-ar-25_page_15_chunk_0).",
+    "actual_source_pages": [
+      15.0,
+      17.0,
+      332.0,
+      277.0,
+      197.0
+    ],
+    "actual_sources": [
+      {
+        "source_number": 1,
+        "page_number": 15.0,
+        "chunk_id": "infosys-ar-25_page_15_chunk_0"
+      },
+      {
+        "source_number": 2,
+        "page_number": 17.0,
+        "chunk_id": "infosys-ar-25_page_17_chunk_0"
+      },
+      {
+        "source_number": 3,
+        "page_number": 332.0,
+        "chunk_id": "infosys-ar-25_page_332_chunk_0"
+      },
+      {
+        "source_number": 4,
+        "page_number": 277.0,
+        "chunk_id": "infosys-ar-25_page_277_chunk_0"
+      },
+      {
+        "source_number": 5,
+        "page_number": 197.0,
+        "chunk_id": "infosys-ar-25_page_197_chunk_0"
+      }
+    ],
+    "contexts": [
+      "Infosys Integrated Annual Report 2024-25\nInfosys Integrated Annual Report 2024-25\n28\n29\nBusiness highlights\nPerformance overview\nDividend per share (in ₹)\n43.0\n13.2% growth Y-o-Y (2)\nRevenues\n₹ 1,62,990 cr\n6.1% growth Y-o-Y\n4.2% CC growth Y-o-Y \nOperating margin\n21.1%\nRobust operating margin\nHighest ever free cash flow of `34,549 cr for fiscal 2025\nFree cash flow growth(3)\n44.8% Y-o-Y\n FCF conversion at 129.2% of net profit\nConsolidated cash and \ninvestments(1)\n₹ 47,549 cr\nContinue to main strong \nliquidity position\nBasic earnings per share\n(par value of ₹ 5 each)\n64.50\n8.3% growth Y-o-Y(4)\nNumber of US$50 million + clients\n85\nStrong client metrics with increase  \nof 2 clients Y-o-Y\nLarge deal TCV\n(Total contract value in US$ billion)\n11.6\nSustained momentum in large \ndeal wins continues\nCarbon offset programs\n2,72,000+\nRural families continue to benefit\n11\nLake rejuvenation projects over \nthe last two years, achieving an \nincrease of 4.3 bn liters in water \nholding capacity.\n60 MW",
+      "Infosys Integrated Annual Report 2024-25\nInfosys Integrated Annual Report 2024-25\n32\n33\nLetter to the Shareholder\nPerformance overview\nDear shareholder,\nFinancial year 2025 was another year of strong execution \nfor Infosys. We had growth of 4.2%, operating margin of \n21.1%, and free cash flow of US$4.1 billion. We announced \na total dividend of `43 per share (including an interim \ndividend of `21 per share).\nInfosys is the leader in AI, cloud, data, and digital for our \nclients.\nInfosys Topaz brings the power of AI, with a strong \nfoundation of cloud and data, to help our clients leverage \nthe next generation of opportunities. To help our clients \nwith AI, we have built a repository of AI agents. These \nagents improve productivity in areas such as code \ngeneration, IT operations, bill-to-cash, and quote-to-order. \nWe have developed domain-specific language models \nfor some industries, IT operations, and cybersecurity. As a \nresult of our expertise and strong partnership with industry",
+      "Infosys Integrated Annual Report 2024-25\n360\nThe computation of basic earnings per equity share is as follows:\nParticulars\nYear ended March 31,\n2025\n2024\nProfit attributable to equity \nholders of the Company \n(in ₹ crore)\n 26,713 \n 26,233 \nBasic earnings per equity share \n- weighted average number of \nequity shares outstanding(1)\n414,16,11,738 \n413,85,68,090 \nBasic earnings per equity \nshare (₹)\n 64.50 \n 63.39 \nThe reconciliation of the equity shares used in the computation \nof basic and diluted earnings per equity share and computation \nof diluted earnings per equity share is as follows:\nParticulars\nYear ended March 31,\n2025\n2024\nProfit attributable to equity \nholders of the Company \n(in ₹ crore)\n 26,713 \n 26,233 \nWeighted average number of \nequity shares outstanding used \nin computing in basic earnings \nper equity share(1)\n 414,16,11,738 \n 413,85,68,090 \nEffect of dilutive common \nequivalent shares - share \noptions outstanding\n 104,39,446 \n 61,12,335 \nWeighted average number of",
+      "Infosys Integrated Annual Report 2024-25\n305\nParticulars\nNote\nYear ended March 31,\n2025\n2024\nProfit attributable to:\n \n \n \nOwners of the Company \n \n 26,713 \n 26,233 \nNon-controlling interests\n \n 37 \n 15 \n \n \n 26,750 \n 26,248 \nTotal comprehensive income attributable to: \n \n \n \nOwners of the Company \n \n 27,167 \n 26,754 \nNon-controlling interests\n \n 42 \n 14 \n \n \n 27,209 \n 26,768 \nEarnings per equity share\n \n \n \nEquity shares of par value ₹5/- each \n \n \n \nBasic (₹)\n2.23\n 64.50 \n 63.39 \nDiluted (₹)\n2.23\n 64.34 \n 63.29 \nWeighted average equity shares used in computing earnings per equity share\n \n \n \nBasic (in shares)\n2.23\n 414,16,11,738 \n 413,85,68,090 \nDiluted (in shares)\n2.23\n 415,20,51,184 \n 414,46,80,425 \nThe accompanying notes form an integral part of the Consolidated financial statements.\nAs per our report of even date attached\nfor Deloitte Haskins & Sells LLP\nChartered Accountants\nFirm’s Registration No:\n117366W/W-100018\nfor and on behalf of the Board of Directors of Infosys Limited",
+      "Infosys Integrated Annual Report 2024-25\n225\nStatement of Profit and Loss (contd.)\nParticulars\nNote\nYear ended March 31,\n2025\n2024\nOther comprehensive income \n \n \n \nItems that will not be reclassified subsequently to profit or loss\n \n \n \nRemeasurement of the net defined benefit liability / asset, net\n2.17 and 2.21\n (81)\n 128 \nEquity instruments through other comprehensive income, net \n2.5 and 2.17\n 19 \n 19 \nItems that will be reclassified subsequently to profit or loss\n \n \n \nFair value changes on derivatives designated as cash flow hedge, net\n2.11 and 2.17\n (24)\n 11 \nFair value changes on investments, net\n2.5 and 2.17\n 191 \n 129 \nTotal other comprehensive income / (loss), net of tax\n \n 105 \n 287 \nTotal comprehensive income for the year\n \n 25,673 \n 27,521 \nEarnings per equity share \n \n \n \nEquity shares of par value ₹5/- each \n \n \n \nBasic (in ₹ per share)\n2.22\n 61.58 \n 65.62 \nDiluted (in ₹ per share)\n2.22\n 61.46 \n 65.56"
+    ],
+    "retrieved_chunk_count": 28,
+    "final_context_chunk_count": 5,
+    "source_page_hit": true,
+    "answered": true
+  },
+  {
+    "id": "financial_011",
+    "question": "What was Infosys' market capitalization in fiscal 2025 according to the business highlights?",
+    "category": "financial",
+    "difficulty": "medium",
+    "expected_answer": "Infosys' market capitalization for FY 2025 was ₹6,52,332 crore.",
+    "expected_source_pages": [
+      15,
+      23
+    ],
+    "actual_answer": "The answer is not found in the provided context.",
+    "actual_source_pages": [
+      15.0,
+      10.0,
+      23.0,
+      8.0,
+      215.0
+    ],
+    "actual_sources": [
+      {
+        "source_number": 1,
+        "page_number": 15.0,
+        "chunk_id": "infosys-ar-25_page_15_chunk_0"
+      },
+      {
+        "source_number": 2,
+        "page_number": 10.0,
+        "chunk_id": "infosys-ar-25_page_10_chunk_0"
+      },
+      {
+        "source_number": 3,
+        "page_number": 23.0,
+        "chunk_id": "infosys-ar-25_page_23_chunk_6"
+      },
+      {
+        "source_number": 4,
+        "page_number": 8.0,
+        "chunk_id": "infosys-ar-25_page_8_chunk_0"
+      },
+      {
+        "source_number": 5,
+        "page_number": 215.0,
+        "chunk_id": "infosys-ar-25_page_215_chunk_0"
+      }
+    ],
+    "contexts": [
+      "Infosys Integrated Annual Report 2024-25\nInfosys Integrated Annual Report 2024-25\n28\n29\nBusiness highlights\nPerformance overview\nDividend per share (in ₹)\n43.0\n13.2% growth Y-o-Y (2)\nRevenues\n₹ 1,62,990 cr\n6.1% growth Y-o-Y\n4.2% CC growth Y-o-Y \nOperating margin\n21.1%\nRobust operating margin\nHighest ever free cash flow of `34,549 cr for fiscal 2025\nFree cash flow growth(3)\n44.8% Y-o-Y\n FCF conversion at 129.2% of net profit\nConsolidated cash and \ninvestments(1)\n₹ 47,549 cr\nContinue to main strong \nliquidity position\nBasic earnings per share\n(par value of ₹ 5 each)\n64.50\n8.3% growth Y-o-Y(4)\nNumber of US$50 million + clients\n85\nStrong client metrics with increase  \nof 2 clients Y-o-Y\nLarge deal TCV\n(Total contract value in US$ billion)\n11.6\nSustained momentum in large \ndeal wins continues\nCarbon offset programs\n2,72,000+\nRural families continue to benefit\n11\nLake rejuvenation projects over \nthe last two years, achieving an \nincrease of 4.3 bn liters in water \nholding capacity.\n60 MW",
+      "Infosys Integrated Annual Report 2024-25\nInfosys Integrated Annual Report 2024-25\n18\n19\nAbout Infosys\nCorporate overview\n3,23,578\nEmployees\n1,869\nActive clients \n`1,62,990 cr \nTotal revenues in fiscal 2025\nIn 2025, we undertook a refresh of \nour ESG Vision 2030 and confirmed \nour continued commitment to \nresponsible business to shape \nand share solutions that serve the \ndevelopment of businesses and \ncommunities. We reaffirmed our \nlong-standing focus across core areas \nincluding climate change, nurturing \nworkplace inclusivity, employee \nwellness and experience, amplifying \ncommunities, corporate governance, \ndata privacy and information \nmanagement.\nOur Values \nOur Company’s Code of Conduct \nstands on the strong foundation \nset by our values, encapsulated in \nthe acronym C-LIFE. \nClient value\nTo surpass client expectations \nconsistently\nLeadership by example\nTo set standards in our business \nand transactions and be an \nexemplar for the industry and \nourselves",
+      "https://www.infosys.com/investors/\ncorporate-governance/documents/\ncapital-allocation-policy.pdf.\nDelivering value through \nbusiness strategy\nOur market-oriented four-pronged \nstrategy enables us to invest in \nexpanding our global digital \nfootprint. This helps Infosys to be \nrecognized as a partner of choice \nfor digital transformation and also \nincreases our potential to attract \nlarger Total Contract Value (TCV) \ndeals and clients. This enhances \nour ability to generate industry-\nleading growth and profitability, thus \ngenerating shareholder value.\nIn ` crore\n2023\n2024\n2025\n5,92,394\n6,21,821\n6,52,332\n20.7\n4.7\n6.1\nIn %\n2023\n2024\n2025\n57.63\nIn `\n63.39\n64.50\n2023\n2024\n2025\n31.2\n32.1\n29.0\n2023\n2024\n2025\nIn %\nIn `\n34.0\n38.0(1)\n43.0\n2023\n2024\n2025\n(1) Dividend excludes special dividend of `8.00 per share\n20,443\n23,865\n34,549\nIn ` crore\n2023\n2024\n2025",
+      "Infosys Integrated Annual Report 2024-25\nInfosys Integrated Annual Report 2024-25\n14\n15\nContents\nFor the digital version of the Infosys Integrated Annual Report, visit:  \nhttps://www.infosys.com/investors/reports-filings/annual-report/annual-reports/ar-2024-25.html\n16\t\nAbout this report\nCorporate overview\n18\t\nAbout Infosys\n19\t\nGlobal presence\n20\t\nThe Infosys Board of Directors\n26\t\nThe Infosys leadership team\nPerformance overview\n28\t\nBusiness highlights\n30\t\nChairman’s message\n32\t\nLetter to the Shareholder\n34\t\nAwards and recognitions\nApproaching value creation\n39\t\nOur business context\n41\t\nStrategy\n42\t\nValue creation model\nDelivering value\n44\t\nFinancial Capital\n46\t\nHuman Capital\n48\t\nIntellectual Capital\n50\t\nNatural Capital\n52\t\nManufactured Capital\n54\t\nSocial and Relationship Capital \nStatutory reports\n58\t\nBoard’s report\n70\t\nAnnexures to the Board’s report\n99\t\nManagement’s discussion and analysis\n110\t\nCorporate governance report\n147\t\nInvestor contacts\n149\t\nRisk management report\n159",
+      "Infosys Integrated Annual Report 2024-25\n243\nParticulars\nAs at March 31,\n2025\n2024\nInfosys Germany Holdings GmbH\n 2 \n 2 \n25,000 (25,000) shares EUR 1 per share, fully paid up\n \n \nInfosys Green Forum\n 1 \n 1 \n10,00,000 (10,00,000) shares 10 per share, fully paid up\n \n \nInfosys Automotive and Mobility GmbH\n 15 \n 15 \nInfosys Turkey Bilgi Teknolojileri Limited Sirketi\n 79 \n 48 \n2,770,326 (1,508,060) share Turkish Liras 100 (10,000) per share, fully paid up\n \n \nInfosys Consulting S.R.L. (Argentina)\n 2 \n 2 \n2,94,500 (2,94,500) shares AR$ 100 per share, fully paid up\n \n \nInfosys Business Solutions LLC\n 8 \n 8 \n10,000 (10,000) shares USD 100 per share, fully paid up\n \n \nIdunn Information Technology Private Limited\n 82 \n 82 \n3,27,788 (3,27,788) shared 10 per share fully paid up\n \n \nInSemi Technology Services Private Limited(2)\n 198 \n –\n10,33,440 (Nil) shares 10 per share fully paid up\n \n \nin-tech Group India Private Limited\n 15 \n –\n10,000 (Nil) shares 10 per share fully paid up"
+    ],
+    "retrieved_chunk_count": 26,
+    "final_context_chunk_count": 5,
+    "source_page_hit": true,
+    "answered": false
+  },
+  {
+    "id": "financial_012",
+    "question": "What was Infosys' large deal total contract value in fiscal 2025?",
+    "category": "financial",
+    "difficulty": "easy",
+    "expected_answer": "Infosys' large deal total contract value in fiscal 2025 was US$11.6 billion.",
+    "expected_source_pages": [
+      15,
+      21
+    ],
+    "actual_answer": "Infosys' large deal Total Contract Value (TCV) in fiscal 2025 was US$11.6 billion (Source: Page 15, infosys-ar-25_page_15_chunk_0).",
+    "actual_source_pages": [
+      15.0,
+      23.0,
+      227.0,
+      259.0,
+      10.0
+    ],
+    "actual_sources": [
+      {
+        "source_number": 1,
+        "page_number": 15.0,
+        "chunk_id": "infosys-ar-25_page_15_chunk_0"
+      },
+      {
+        "source_number": 2,
+        "page_number": 23.0,
+        "chunk_id": "infosys-ar-25_page_23_chunk_6"
+      },
+      {
+        "source_number": 3,
+        "page_number": 227.0,
+        "chunk_id": "infosys-ar-25_page_227_chunk_0"
+      },
+      {
+        "source_number": 4,
+        "page_number": 259.0,
+        "chunk_id": "infosys-ar-25_page_259_chunk_0"
+      },
+      {
+        "source_number": 5,
+        "page_number": 10.0,
+        "chunk_id": "infosys-ar-25_page_10_chunk_0"
+      }
+    ],
+    "contexts": [
+      "Infosys Integrated Annual Report 2024-25\nInfosys Integrated Annual Report 2024-25\n28\n29\nBusiness highlights\nPerformance overview\nDividend per share (in ₹)\n43.0\n13.2% growth Y-o-Y (2)\nRevenues\n₹ 1,62,990 cr\n6.1% growth Y-o-Y\n4.2% CC growth Y-o-Y \nOperating margin\n21.1%\nRobust operating margin\nHighest ever free cash flow of `34,549 cr for fiscal 2025\nFree cash flow growth(3)\n44.8% Y-o-Y\n FCF conversion at 129.2% of net profit\nConsolidated cash and \ninvestments(1)\n₹ 47,549 cr\nContinue to main strong \nliquidity position\nBasic earnings per share\n(par value of ₹ 5 each)\n64.50\n8.3% growth Y-o-Y(4)\nNumber of US$50 million + clients\n85\nStrong client metrics with increase  \nof 2 clients Y-o-Y\nLarge deal TCV\n(Total contract value in US$ billion)\n11.6\nSustained momentum in large \ndeal wins continues\nCarbon offset programs\n2,72,000+\nRural families continue to benefit\n11\nLake rejuvenation projects over \nthe last two years, achieving an \nincrease of 4.3 bn liters in water \nholding capacity.\n60 MW",
+      "https://www.infosys.com/investors/\ncorporate-governance/documents/\ncapital-allocation-policy.pdf.\nDelivering value through \nbusiness strategy\nOur market-oriented four-pronged \nstrategy enables us to invest in \nexpanding our global digital \nfootprint. This helps Infosys to be \nrecognized as a partner of choice \nfor digital transformation and also \nincreases our potential to attract \nlarger Total Contract Value (TCV) \ndeals and clients. This enhances \nour ability to generate industry-\nleading growth and profitability, thus \ngenerating shareholder value.\nIn ` crore\n2023\n2024\n2025\n5,92,394\n6,21,821\n6,52,332\n20.7\n4.7\n6.1\nIn %\n2023\n2024\n2025\n57.63\nIn `\n63.39\n64.50\n2023\n2024\n2025\n31.2\n32.1\n29.0\n2023\n2024\n2025\nIn %\nIn `\n34.0\n38.0(1)\n43.0\n2023\n2024\n2025\n(1) Dividend excludes special dividend of `8.00 per share\n20,443\n23,865\n34,549\nIn ` crore\n2023\n2024\n2025",
+      "Infosys Integrated Annual Report 2024-25\n255\nParticulars\nAs at March 31, \n2025 \n2024\nIn million\nIn ₹ crore\nIn million\nIn ₹ crore\nIn Philippine Peso\n –\n –\n 43 \n 49 \nIn Hongkong dollar\n 40 \n 44 \n –\n –\nIn Hungarian Forint\n 2,000 \n 44 \n 2,500 \n 57 \nIn South African rand\n –\n –\n 85 \n 37 \nOption contracts\n \n \n \n \nIn US Dollar \n 796 \n 6,800 \n 543 \n 4,527 \nIn Euro\n 179 \n 1,648 \n 100 \n 897 \nIn Australian Dollar\n 11 \n 57 \n 20 \n 111 \nTotal forwards and option contracts\n \n30,588\n \n26,739\nThe foreign exchange forward and option contracts mature \nwithin 12 months. The table below analyses the derivative \nfinancial instruments into relevant maturity groupings based on \nthe remaining period as at the Balance Sheet date:\n(In ₹ crore)\nParticulars\nAs at March 31,\n2025\n2024\nNot later than one month \n 14,515 \n 9,581 \nLater than one month and not \nlater than three months\n 15,175 \n 15,181 \nLater than three months and not \nlater than one year\n 898 \n 1,977 \nTotal\n 30,588 \n 26,739",
+      "Infosys Integrated Annual Report 2024-25\n287\nParticulars\nYear ended March 31, \n2025\n2024\nInfosys Consulting S.R.L. (Argentina)\n 1 \n 2 \nInfosys South Africa (Pty) Ltd\n 45 \n 29 \nInfosys Business Solutions LLC\n 4 \n 3 \nWongDoody GmbH (formerly known as \noddity GmbH)\n 11 \n 6 \noddity code GmbH\n –\n 1 \nBASE life science AG\n 15 \n 17 \nBASE life science S.r.l.\n 2 \n –\nBASE life science Inc.\n 10 \n –\nBASE life science Ltd.\n 12 \n 2 \nBASE life science GmbH\n 5 \n 1 \nBASE life science SL\n 12 \n 1 \nInfosys Norway\n 37 \n 15 \nDanske IT\n –\n 16 \nInsemi Technology Service\n 7 \n –\nEdgeVerve Systems Limited\n 93 \n 19 \nInfosys Germany Holding GmbH\n 7 \n –\nInfosys Nova Holdings LLC\n 436 \n –\nIn-tech group Ltd.\n 1 \n –\n \n 9,522 \n 9,327 \nPurchase of shared services including \nfacilities and personnel\nInfosys BPM Limited\n 9 \n 7 \nWongDoody, Inc\n 6 \n 11 \nInfosys McCamish Systems LLC\n 1 \n –\nWongDoody limited Taipei\n –\n 1 \nInfosys Green Forum\n 42 \n 36 \nKaleidoscope Animations, Inc.\n 1 \n –\nInfosys (Czech Republic) Limited s.r.o.",
+      "Infosys Integrated Annual Report 2024-25\nInfosys Integrated Annual Report 2024-25\n18\n19\nAbout Infosys\nCorporate overview\n3,23,578\nEmployees\n1,869\nActive clients \n`1,62,990 cr \nTotal revenues in fiscal 2025\nIn 2025, we undertook a refresh of \nour ESG Vision 2030 and confirmed \nour continued commitment to \nresponsible business to shape \nand share solutions that serve the \ndevelopment of businesses and \ncommunities. We reaffirmed our \nlong-standing focus across core areas \nincluding climate change, nurturing \nworkplace inclusivity, employee \nwellness and experience, amplifying \ncommunities, corporate governance, \ndata privacy and information \nmanagement.\nOur Values \nOur Company’s Code of Conduct \nstands on the strong foundation \nset by our values, encapsulated in \nthe acronym C-LIFE. \nClient value\nTo surpass client expectations \nconsistently\nLeadership by example\nTo set standards in our business \nand transactions and be an \nexemplar for the industry and \nourselves"
+    ],
+    "retrieved_chunk_count": 28,
+    "final_context_chunk_count": 5,
+    "source_page_hit": true,
+    "answered": true
+  },
+  {
+    "id": "financial_013",
+    "question": "What were Infosys' consolidated revenue from operations in 2025 and 2024?",
+    "category": "financial",
+    "difficulty": "medium",
+    "expected_answer": "Infosys' consolidated revenue from operations was ₹1,62,990 crore in 2025 and ₹1,53,670 crore in 2024.",
+    "expected_source_pages": [
+      30,
+      276
+    ],
+    "actual_answer": "Infosys' consolidated revenue from operations for the year ended March 31, 2025, was ₹1,62,990 crore, and for the year ended March 31, 2024, it was ₹1,53,670 crore (Source: Page 276, infosys-ar-25_page_276_chunk_0).",
+    "actual_source_pages": [
+      30.0,
+      276.0,
+      346.0,
+      196.0,
+      263.0
+    ],
+    "actual_sources": [
+      {
+        "source_number": 1,
+        "page_number": 30.0,
+        "chunk_id": "infosys-ar-25_page_30_chunk_0"
+      },
+      {
+        "source_number": 2,
+        "page_number": 276.0,
+        "chunk_id": "infosys-ar-25_page_276_chunk_0"
+      },
+      {
+        "source_number": 3,
+        "page_number": 346.0,
+        "chunk_id": "infosys-ar-25_page_346_chunk_0"
+      },
+      {
+        "source_number": 4,
+        "page_number": 196.0,
+        "chunk_id": "infosys-ar-25_page_196_chunk_0"
+      },
+      {
+        "source_number": 5,
+        "page_number": 263.0,
+        "chunk_id": "infosys-ar-25_page_263_chunk_0"
+      }
+    ],
+    "contexts": [
+      "Infosys Integrated Annual Report 2024-25\n58\nDear Members,\nThe Board of Directors hereby submits the report of the business and operations of your Company (“the Company” or “Infosys”), along \nwith the audited financial statements, for the financial year ended March 31, 2025. The consolidated performance of the Company and its \nsubsidiaries has been referred to wherever required.\n1.\tResults of our operations and state of affairs\n(in ` crore, except per equity share data)\nParticulars\nStandalone \nConsolidated\nFor the year ended \nMarch 31,\nYoY \ngrowth \n(%)\nFor the year ended \nMarch 31,\nYoY \ngrowth \n(%)\n2025\n2024\n2025\n2024\nRevenue from operations\n1,36,592\n1,28,933\n5.9\n1,62,990\n1,53,670\n6.1\nOther income, net*\n4,782\n7,417\n(35.5)\n3,600\n4,711\n(23.6)\nTotal income\n1,41,374\n1,36,350\n3.7\n1,66,590\n1,58,381\n5.2\nExpenses\n \n \n \n \n \nCost of sales\n94,111\n89,032\n5.7\n1,13,347\n1,07,413\n5.5\nSelling and marketing expenses\n6,282\n5,668\n10.8\n7,588\n6,973\n8.8\nGeneral and administration expenses\n5,319\n5,420\n(1.9)",
+      "Infosys Integrated Annual Report 2024-25\n304\nConsolidated Statement of Profit and Loss\n(In ₹ crore, except equity share and per equity share data)\nParticulars\nNote\nYear ended March 31,\n2025\n2024\nRevenue from operations\n2.18\n 162,990 \n 153,670 \nOther income, net\n2.19\n 3,600 \n 4,711 \nTotal income\n \n 166,590 \n 158,381 \nExpenses\n \n \n \nEmployee benefit expenses\n2.22\n 85,950 \n 82,620 \nCost of technical sub-contractors\n \n 12,937 \n 12,232 \nTravel expenses\n \n 1,894 \n 1,759 \nCost of software packages and others\n2.20\n 15,911 \n 13,515 \nCommunication expenses\n \n 620 \n 677 \nConsultancy and professional charges\n \n 1,655 \n 1,726 \nDepreciation and amortization expenses\n2.2, 2.4.2 and 2.21\n 4,812 \n 4,678 \nFinance cost\n \n 416 \n 470 \nOther expenses\n2.20\n 4,787 \n 4,716 \nTotal expenses\n \n 128,982 \n 122,393 \nProfit before tax\n \n 37,608 \n 35,988 \nTax expense:\n \n \n \nCurrent tax\n2.17\n 12,130 \n 8,390 \nDeferred tax\n2.17\n (1,272)\n 1,350 \nProfit for the year\n \n 26,750 \n 26,248 \nOther comprehensive income",
+      "Infosys Integrated Annual Report 2024-25\n374\n2.27 Function-wise classification of Consolidated Statement of Profit and Loss\n(In ₹ crore)\nParticulars\nNote\nYear ended March 31,\n2025\n2024\nRevenue from operations\n2.18\n 1,62,990 \n 1,53,670 \nCost of sales\n \n 1,13,347 \n 1,07,413 \nGross profit\n \n 49,643 \n 46,257 \nOperating expenses\n \n \n \nSelling and marketing expenses\n \n 7,588 \n 6,973 \nGeneral and administration expenses\n \n 7,631 \n 7,537 \nTotal operating expenses\n \n 15,219 \n 14,510 \nOperating profit \n \n 34,424 \n 31,747 \nOther income, net\n2.19\n 3,600 \n 4,711 \nFinance cost\n \n 416 \n 470 \nProfit before tax \n \n 37,608 \n 35,988 \nTax expense:\n \n \n \nCurrent tax\n2.17\n 12,130 \n 8,390 \nDeferred tax\n2.17\n (1,272)\n 1,350 \nProfit for the period\n \n 26,750 \n 26,248 \nOther comprehensive income \n \n \n \nItems that will not be reclassified subsequently to profit or loss\n \n \n \nRemeasurement of the net defined benefit liability / asset, net\n2.22\n (92)\n 120 \nEquity instruments through other comprehensive income, net",
+      "Infosys Integrated Annual Report 2024-25\n224\nStatement of Profit and Loss\n(In ₹ crore, except equity share and per equity share data)\nParticulars\nNote\nYear ended March 31,\n2025\n2024\nRevenue from operations\n2.18\n 1,36,592 \n 1,28,933 \nOther income, net\n2.19\n 4,782 \n 7,417 \nTotal income\n \n 1,41,374 \n 1,36,350 \nExpenses\n \n \n \nEmployee benefit expenses\n2.20\n 67,466 \n 65,139 \nCost of technical sub-contractors\n \n 19,353 \n 18,638 \nTravel expenses\n \n 1,467 \n 1,372 \nCost of software packages and others\n2.20\n 9,617 \n 6,891 \nCommunication expenses\n \n 448 \n 489 \nConsultancy and professional charges\n \n 1,245 \n 1,059 \nDepreciation and amortization expenses\n2.1, 2.2.2, and 2.3\n 2,619 \n 2,944 \nFinance cost\n \n 221 \n 277 \nOther expenses\n2.20\n 3,497 \n 3,588 \nTotal expenses \n \n 1,05,933 \n 1,00,397 \nProfit before tax \n \n 35,441 \n 35,953 \nTax expense:\n \n \n \nCurrent tax\n2.17\n 10,836 \n 7,306 \nDeferred tax\n2.17\n (963)\n 1,413 \nProfit for the year\n \n 25,568 \n 27,234",
+      "Infosys Integrated Annual Report 2024-25\n291\n2.28 Function-wise classification of Statement of Profit and Loss\n(In ₹ crore)\nParticulars \nNote\nYear ended March 31,\n2025\n2024\nRevenue from operations\n2.18\n 1,36,592 \n 1,28,933 \nCost of sales\n \n 94,111 \n 89,032 \nGross profit\n \n 42,481 \n 39,901 \nOperating expenses\n \n \n \nSelling and marketing expenses\n \n 6,282 \n 5,668 \nGeneral and administration expenses\n \n 5,319 \n 5,420 \nTotal operating expenses\n \n 11,601 \n 11,088 \nOperating profit\n \n 30,880 \n 28,813 \nInterest expense\n \n 221 \n 277 \nOther income, net\n2.19\n 4,782 \n 7,417 \nProfit before tax\n \n 35,441 \n 35,953 \nTax expense:\n \n \n \nCurrent tax\n2.17\n 10,836 \n 7,306 \nDeferred tax\n2.17\n (963)\n 1,413 \nProfit for the year\n \n 25,568 \n 27,234 \nOther comprehensive income\n \n \n \nItems that will not be reclassified subsequently to profit or loss\n \n \n \nRemeasurement of the net defined benefit liability / asset, net\n \n (81)\n 128 \nEquity instruments through other comprehensive income, net\n 2.5 and 2.17 \n 19"
+    ],
+    "retrieved_chunk_count": 26,
+    "final_context_chunk_count": 5,
+    "source_page_hit": true,
+    "answered": true
+  },
+  {
+    "id": "financial_014",
+    "question": "What was Infosys' consolidated profit after tax in fiscal 2025?",
+    "category": "financial",
+    "difficulty": "medium",
+    "expected_answer": "Infosys' consolidated profit after tax for fiscal 2025 was ₹26,750 crore.",
+    "expected_source_pages": [
+      30,
+      276
+    ],
+    "actual_answer": "Infosys' consolidated profit after tax for fiscal 2025 was ₹26,750 crore (Source: Page 276, infosys-ar-25_page_276_chunk_0).",
+    "actual_source_pages": [
+      15.0,
+      30.0,
+      276.0,
+      346.0,
+      277.0
+    ],
+    "actual_sources": [
+      {
+        "source_number": 1,
+        "page_number": 15.0,
+        "chunk_id": "infosys-ar-25_page_15_chunk_0"
+      },
+      {
+        "source_number": 2,
+        "page_number": 30.0,
+        "chunk_id": "infosys-ar-25_page_30_chunk_0"
+      },
+      {
+        "source_number": 3,
+        "page_number": 276.0,
+        "chunk_id": "infosys-ar-25_page_276_chunk_0"
+      },
+      {
+        "source_number": 4,
+        "page_number": 346.0,
+        "chunk_id": "infosys-ar-25_page_346_chunk_0"
+      },
+      {
+        "source_number": 5,
+        "page_number": 277.0,
+        "chunk_id": "infosys-ar-25_page_277_chunk_0"
+      }
+    ],
+    "contexts": [
+      "Infosys Integrated Annual Report 2024-25\nInfosys Integrated Annual Report 2024-25\n28\n29\nBusiness highlights\nPerformance overview\nDividend per share (in ₹)\n43.0\n13.2% growth Y-o-Y (2)\nRevenues\n₹ 1,62,990 cr\n6.1% growth Y-o-Y\n4.2% CC growth Y-o-Y \nOperating margin\n21.1%\nRobust operating margin\nHighest ever free cash flow of `34,549 cr for fiscal 2025\nFree cash flow growth(3)\n44.8% Y-o-Y\n FCF conversion at 129.2% of net profit\nConsolidated cash and \ninvestments(1)\n₹ 47,549 cr\nContinue to main strong \nliquidity position\nBasic earnings per share\n(par value of ₹ 5 each)\n64.50\n8.3% growth Y-o-Y(4)\nNumber of US$50 million + clients\n85\nStrong client metrics with increase  \nof 2 clients Y-o-Y\nLarge deal TCV\n(Total contract value in US$ billion)\n11.6\nSustained momentum in large \ndeal wins continues\nCarbon offset programs\n2,72,000+\nRural families continue to benefit\n11\nLake rejuvenation projects over \nthe last two years, achieving an \nincrease of 4.3 bn liters in water \nholding capacity.\n60 MW",
+      "Infosys Integrated Annual Report 2024-25\n58\nDear Members,\nThe Board of Directors hereby submits the report of the business and operations of your Company (“the Company” or “Infosys”), along \nwith the audited financial statements, for the financial year ended March 31, 2025. The consolidated performance of the Company and its \nsubsidiaries has been referred to wherever required.\n1.\tResults of our operations and state of affairs\n(in ` crore, except per equity share data)\nParticulars\nStandalone \nConsolidated\nFor the year ended \nMarch 31,\nYoY \ngrowth \n(%)\nFor the year ended \nMarch 31,\nYoY \ngrowth \n(%)\n2025\n2024\n2025\n2024\nRevenue from operations\n1,36,592\n1,28,933\n5.9\n1,62,990\n1,53,670\n6.1\nOther income, net*\n4,782\n7,417\n(35.5)\n3,600\n4,711\n(23.6)\nTotal income\n1,41,374\n1,36,350\n3.7\n1,66,590\n1,58,381\n5.2\nExpenses\n \n \n \n \n \nCost of sales\n94,111\n89,032\n5.7\n1,13,347\n1,07,413\n5.5\nSelling and marketing expenses\n6,282\n5,668\n10.8\n7,588\n6,973\n8.8\nGeneral and administration expenses\n5,319\n5,420\n(1.9)",
+      "Infosys Integrated Annual Report 2024-25\n304\nConsolidated Statement of Profit and Loss\n(In ₹ crore, except equity share and per equity share data)\nParticulars\nNote\nYear ended March 31,\n2025\n2024\nRevenue from operations\n2.18\n 162,990 \n 153,670 \nOther income, net\n2.19\n 3,600 \n 4,711 \nTotal income\n \n 166,590 \n 158,381 \nExpenses\n \n \n \nEmployee benefit expenses\n2.22\n 85,950 \n 82,620 \nCost of technical sub-contractors\n \n 12,937 \n 12,232 \nTravel expenses\n \n 1,894 \n 1,759 \nCost of software packages and others\n2.20\n 15,911 \n 13,515 \nCommunication expenses\n \n 620 \n 677 \nConsultancy and professional charges\n \n 1,655 \n 1,726 \nDepreciation and amortization expenses\n2.2, 2.4.2 and 2.21\n 4,812 \n 4,678 \nFinance cost\n \n 416 \n 470 \nOther expenses\n2.20\n 4,787 \n 4,716 \nTotal expenses\n \n 128,982 \n 122,393 \nProfit before tax\n \n 37,608 \n 35,988 \nTax expense:\n \n \n \nCurrent tax\n2.17\n 12,130 \n 8,390 \nDeferred tax\n2.17\n (1,272)\n 1,350 \nProfit for the year\n \n 26,750 \n 26,248 \nOther comprehensive income",
+      "Infosys Integrated Annual Report 2024-25\n374\n2.27 Function-wise classification of Consolidated Statement of Profit and Loss\n(In ₹ crore)\nParticulars\nNote\nYear ended March 31,\n2025\n2024\nRevenue from operations\n2.18\n 1,62,990 \n 1,53,670 \nCost of sales\n \n 1,13,347 \n 1,07,413 \nGross profit\n \n 49,643 \n 46,257 \nOperating expenses\n \n \n \nSelling and marketing expenses\n \n 7,588 \n 6,973 \nGeneral and administration expenses\n \n 7,631 \n 7,537 \nTotal operating expenses\n \n 15,219 \n 14,510 \nOperating profit \n \n 34,424 \n 31,747 \nOther income, net\n2.19\n 3,600 \n 4,711 \nFinance cost\n \n 416 \n 470 \nProfit before tax \n \n 37,608 \n 35,988 \nTax expense:\n \n \n \nCurrent tax\n2.17\n 12,130 \n 8,390 \nDeferred tax\n2.17\n (1,272)\n 1,350 \nProfit for the period\n \n 26,750 \n 26,248 \nOther comprehensive income \n \n \n \nItems that will not be reclassified subsequently to profit or loss\n \n \n \nRemeasurement of the net defined benefit liability / asset, net\n2.22\n (92)\n 120 \nEquity instruments through other comprehensive income, net",
+      "Infosys Integrated Annual Report 2024-25\n305\nParticulars\nNote\nYear ended March 31,\n2025\n2024\nProfit attributable to:\n \n \n \nOwners of the Company \n \n 26,713 \n 26,233 \nNon-controlling interests\n \n 37 \n 15 \n \n \n 26,750 \n 26,248 \nTotal comprehensive income attributable to: \n \n \n \nOwners of the Company \n \n 27,167 \n 26,754 \nNon-controlling interests\n \n 42 \n 14 \n \n \n 27,209 \n 26,768 \nEarnings per equity share\n \n \n \nEquity shares of par value ₹5/- each \n \n \n \nBasic (₹)\n2.23\n 64.50 \n 63.39 \nDiluted (₹)\n2.23\n 64.34 \n 63.29 \nWeighted average equity shares used in computing earnings per equity share\n \n \n \nBasic (in shares)\n2.23\n 414,16,11,738 \n 413,85,68,090 \nDiluted (in shares)\n2.23\n 415,20,51,184 \n 414,46,80,425 \nThe accompanying notes form an integral part of the Consolidated financial statements.\nAs per our report of even date attached\nfor Deloitte Haskins & Sells LLP\nChartered Accountants\nFirm’s Registration No:\n117366W/W-100018\nfor and on behalf of the Board of Directors of Infosys Limited"
+    ],
+    "retrieved_chunk_count": 27,
+    "final_context_chunk_count": 5,
+    "source_page_hit": true,
+    "answered": true
+  },
+  {
+    "id": "financial_015",
+    "question": "What was Infosys' profit attributable to owners of the Company in fiscal 2025?",
+    "category": "financial",
+    "difficulty": "medium",
+    "expected_answer": "Infosys' profit attributable to owners of the Company in fiscal 2025 was ₹26,713 crore.",
+    "expected_source_pages": [
+      15,
+      30
+    ],
+    "actual_answer": "The profit attributable to owners of the Company in fiscal 2025 was ₹26,713 crore (Source: Page 277, infosys-ar-25_page_277_chunk_0).",
+    "actual_source_pages": [
+      277.0,
+      276.0,
+      17.0,
+      196.0,
+      15.0
+    ],
+    "actual_sources": [
+      {
+        "source_number": 1,
+        "page_number": 277.0,
+        "chunk_id": "infosys-ar-25_page_277_chunk_0"
+      },
+      {
+        "source_number": 2,
+        "page_number": 276.0,
+        "chunk_id": "infosys-ar-25_page_276_chunk_0"
+      },
+      {
+        "source_number": 3,
+        "page_number": 17.0,
+        "chunk_id": "infosys-ar-25_page_17_chunk_0"
+      },
+      {
+        "source_number": 4,
+        "page_number": 196.0,
+        "chunk_id": "infosys-ar-25_page_196_chunk_0"
+      },
+      {
+        "source_number": 5,
+        "page_number": 15.0,
+        "chunk_id": "infosys-ar-25_page_15_chunk_0"
+      }
+    ],
+    "contexts": [
+      "Infosys Integrated Annual Report 2024-25\n305\nParticulars\nNote\nYear ended March 31,\n2025\n2024\nProfit attributable to:\n \n \n \nOwners of the Company \n \n 26,713 \n 26,233 \nNon-controlling interests\n \n 37 \n 15 \n \n \n 26,750 \n 26,248 \nTotal comprehensive income attributable to: \n \n \n \nOwners of the Company \n \n 27,167 \n 26,754 \nNon-controlling interests\n \n 42 \n 14 \n \n \n 27,209 \n 26,768 \nEarnings per equity share\n \n \n \nEquity shares of par value ₹5/- each \n \n \n \nBasic (₹)\n2.23\n 64.50 \n 63.39 \nDiluted (₹)\n2.23\n 64.34 \n 63.29 \nWeighted average equity shares used in computing earnings per equity share\n \n \n \nBasic (in shares)\n2.23\n 414,16,11,738 \n 413,85,68,090 \nDiluted (in shares)\n2.23\n 415,20,51,184 \n 414,46,80,425 \nThe accompanying notes form an integral part of the Consolidated financial statements.\nAs per our report of even date attached\nfor Deloitte Haskins & Sells LLP\nChartered Accountants\nFirm’s Registration No:\n117366W/W-100018\nfor and on behalf of the Board of Directors of Infosys Limited",
+      "Infosys Integrated Annual Report 2024-25\n304\nConsolidated Statement of Profit and Loss\n(In ₹ crore, except equity share and per equity share data)\nParticulars\nNote\nYear ended March 31,\n2025\n2024\nRevenue from operations\n2.18\n 162,990 \n 153,670 \nOther income, net\n2.19\n 3,600 \n 4,711 \nTotal income\n \n 166,590 \n 158,381 \nExpenses\n \n \n \nEmployee benefit expenses\n2.22\n 85,950 \n 82,620 \nCost of technical sub-contractors\n \n 12,937 \n 12,232 \nTravel expenses\n \n 1,894 \n 1,759 \nCost of software packages and others\n2.20\n 15,911 \n 13,515 \nCommunication expenses\n \n 620 \n 677 \nConsultancy and professional charges\n \n 1,655 \n 1,726 \nDepreciation and amortization expenses\n2.2, 2.4.2 and 2.21\n 4,812 \n 4,678 \nFinance cost\n \n 416 \n 470 \nOther expenses\n2.20\n 4,787 \n 4,716 \nTotal expenses\n \n 128,982 \n 122,393 \nProfit before tax\n \n 37,608 \n 35,988 \nTax expense:\n \n \n \nCurrent tax\n2.17\n 12,130 \n 8,390 \nDeferred tax\n2.17\n (1,272)\n 1,350 \nProfit for the year\n \n 26,750 \n 26,248 \nOther comprehensive income",
+      "Infosys Integrated Annual Report 2024-25\nInfosys Integrated Annual Report 2024-25\n32\n33\nLetter to the Shareholder\nPerformance overview\nDear shareholder,\nFinancial year 2025 was another year of strong execution \nfor Infosys. We had growth of 4.2%, operating margin of \n21.1%, and free cash flow of US$4.1 billion. We announced \na total dividend of `43 per share (including an interim \ndividend of `21 per share).\nInfosys is the leader in AI, cloud, data, and digital for our \nclients.\nInfosys Topaz brings the power of AI, with a strong \nfoundation of cloud and data, to help our clients leverage \nthe next generation of opportunities. To help our clients \nwith AI, we have built a repository of AI agents. These \nagents improve productivity in areas such as code \ngeneration, IT operations, bill-to-cash, and quote-to-order. \nWe have developed domain-specific language models \nfor some industries, IT operations, and cybersecurity. As a \nresult of our expertise and strong partnership with industry",
+      "Infosys Integrated Annual Report 2024-25\n224\nStatement of Profit and Loss\n(In ₹ crore, except equity share and per equity share data)\nParticulars\nNote\nYear ended March 31,\n2025\n2024\nRevenue from operations\n2.18\n 1,36,592 \n 1,28,933 \nOther income, net\n2.19\n 4,782 \n 7,417 \nTotal income\n \n 1,41,374 \n 1,36,350 \nExpenses\n \n \n \nEmployee benefit expenses\n2.20\n 67,466 \n 65,139 \nCost of technical sub-contractors\n \n 19,353 \n 18,638 \nTravel expenses\n \n 1,467 \n 1,372 \nCost of software packages and others\n2.20\n 9,617 \n 6,891 \nCommunication expenses\n \n 448 \n 489 \nConsultancy and professional charges\n \n 1,245 \n 1,059 \nDepreciation and amortization expenses\n2.1, 2.2.2, and 2.3\n 2,619 \n 2,944 \nFinance cost\n \n 221 \n 277 \nOther expenses\n2.20\n 3,497 \n 3,588 \nTotal expenses \n \n 1,05,933 \n 1,00,397 \nProfit before tax \n \n 35,441 \n 35,953 \nTax expense:\n \n \n \nCurrent tax\n2.17\n 10,836 \n 7,306 \nDeferred tax\n2.17\n (963)\n 1,413 \nProfit for the year\n \n 25,568 \n 27,234",
+      "Infosys Integrated Annual Report 2024-25\nInfosys Integrated Annual Report 2024-25\n28\n29\nBusiness highlights\nPerformance overview\nDividend per share (in ₹)\n43.0\n13.2% growth Y-o-Y (2)\nRevenues\n₹ 1,62,990 cr\n6.1% growth Y-o-Y\n4.2% CC growth Y-o-Y \nOperating margin\n21.1%\nRobust operating margin\nHighest ever free cash flow of `34,549 cr for fiscal 2025\nFree cash flow growth(3)\n44.8% Y-o-Y\n FCF conversion at 129.2% of net profit\nConsolidated cash and \ninvestments(1)\n₹ 47,549 cr\nContinue to main strong \nliquidity position\nBasic earnings per share\n(par value of ₹ 5 each)\n64.50\n8.3% growth Y-o-Y(4)\nNumber of US$50 million + clients\n85\nStrong client metrics with increase  \nof 2 clients Y-o-Y\nLarge deal TCV\n(Total contract value in US$ billion)\n11.6\nSustained momentum in large \ndeal wins continues\nCarbon offset programs\n2,72,000+\nRural families continue to benefit\n11\nLake rejuvenation projects over \nthe last two years, achieving an \nincrease of 4.3 bn liters in water \nholding capacity.\n60 MW"
+    ],
+    "retrieved_chunk_count": 32,
+    "final_context_chunk_count": 5,
+    "source_page_hit": true,
+    "answered": true
+  },
+  {
+    "id": "financial_016",
+    "question": "What was Infosys' consolidated total income in fiscal 2025?",
+    "category": "financial",
+    "difficulty": "medium",
+    "expected_answer": "Infosys' consolidated total income for fiscal 2025 was ₹1,66,590 crore.",
+    "expected_source_pages": [
+      30,
+      276
+    ],
+    "actual_answer": "Infosys' consolidated total income in fiscal 2025 was ₹1,66,590 crore (Source: Page 276, infosys-ar-25_page_276_chunk_0).",
+    "actual_source_pages": [
+      30.0,
+      276.0,
+      15.0,
+      277.0,
+      263.0
+    ],
+    "actual_sources": [
+      {
+        "source_number": 1,
+        "page_number": 30.0,
+        "chunk_id": "infosys-ar-25_page_30_chunk_0"
+      },
+      {
+        "source_number": 2,
+        "page_number": 276.0,
+        "chunk_id": "infosys-ar-25_page_276_chunk_0"
+      },
+      {
+        "source_number": 3,
+        "page_number": 15.0,
+        "chunk_id": "infosys-ar-25_page_15_chunk_0"
+      },
+      {
+        "source_number": 4,
+        "page_number": 277.0,
+        "chunk_id": "infosys-ar-25_page_277_chunk_0"
+      },
+      {
+        "source_number": 5,
+        "page_number": 263.0,
+        "chunk_id": "infosys-ar-25_page_263_chunk_1"
+      }
+    ],
+    "contexts": [
+      "Infosys Integrated Annual Report 2024-25\n58\nDear Members,\nThe Board of Directors hereby submits the report of the business and operations of your Company (“the Company” or “Infosys”), along \nwith the audited financial statements, for the financial year ended March 31, 2025. The consolidated performance of the Company and its \nsubsidiaries has been referred to wherever required.\n1.\tResults of our operations and state of affairs\n(in ` crore, except per equity share data)\nParticulars\nStandalone \nConsolidated\nFor the year ended \nMarch 31,\nYoY \ngrowth \n(%)\nFor the year ended \nMarch 31,\nYoY \ngrowth \n(%)\n2025\n2024\n2025\n2024\nRevenue from operations\n1,36,592\n1,28,933\n5.9\n1,62,990\n1,53,670\n6.1\nOther income, net*\n4,782\n7,417\n(35.5)\n3,600\n4,711\n(23.6)\nTotal income\n1,41,374\n1,36,350\n3.7\n1,66,590\n1,58,381\n5.2\nExpenses\n \n \n \n \n \nCost of sales\n94,111\n89,032\n5.7\n1,13,347\n1,07,413\n5.5\nSelling and marketing expenses\n6,282\n5,668\n10.8\n7,588\n6,973\n8.8\nGeneral and administration expenses\n5,319\n5,420\n(1.9)",
+      "Infosys Integrated Annual Report 2024-25\n304\nConsolidated Statement of Profit and Loss\n(In ₹ crore, except equity share and per equity share data)\nParticulars\nNote\nYear ended March 31,\n2025\n2024\nRevenue from operations\n2.18\n 162,990 \n 153,670 \nOther income, net\n2.19\n 3,600 \n 4,711 \nTotal income\n \n 166,590 \n 158,381 \nExpenses\n \n \n \nEmployee benefit expenses\n2.22\n 85,950 \n 82,620 \nCost of technical sub-contractors\n \n 12,937 \n 12,232 \nTravel expenses\n \n 1,894 \n 1,759 \nCost of software packages and others\n2.20\n 15,911 \n 13,515 \nCommunication expenses\n \n 620 \n 677 \nConsultancy and professional charges\n \n 1,655 \n 1,726 \nDepreciation and amortization expenses\n2.2, 2.4.2 and 2.21\n 4,812 \n 4,678 \nFinance cost\n \n 416 \n 470 \nOther expenses\n2.20\n 4,787 \n 4,716 \nTotal expenses\n \n 128,982 \n 122,393 \nProfit before tax\n \n 37,608 \n 35,988 \nTax expense:\n \n \n \nCurrent tax\n2.17\n 12,130 \n 8,390 \nDeferred tax\n2.17\n (1,272)\n 1,350 \nProfit for the year\n \n 26,750 \n 26,248 \nOther comprehensive income",
+      "Infosys Integrated Annual Report 2024-25\nInfosys Integrated Annual Report 2024-25\n28\n29\nBusiness highlights\nPerformance overview\nDividend per share (in ₹)\n43.0\n13.2% growth Y-o-Y (2)\nRevenues\n₹ 1,62,990 cr\n6.1% growth Y-o-Y\n4.2% CC growth Y-o-Y \nOperating margin\n21.1%\nRobust operating margin\nHighest ever free cash flow of `34,549 cr for fiscal 2025\nFree cash flow growth(3)\n44.8% Y-o-Y\n FCF conversion at 129.2% of net profit\nConsolidated cash and \ninvestments(1)\n₹ 47,549 cr\nContinue to main strong \nliquidity position\nBasic earnings per share\n(par value of ₹ 5 each)\n64.50\n8.3% growth Y-o-Y(4)\nNumber of US$50 million + clients\n85\nStrong client metrics with increase  \nof 2 clients Y-o-Y\nLarge deal TCV\n(Total contract value in US$ billion)\n11.6\nSustained momentum in large \ndeal wins continues\nCarbon offset programs\n2,72,000+\nRural families continue to benefit\n11\nLake rejuvenation projects over \nthe last two years, achieving an \nincrease of 4.3 bn liters in water \nholding capacity.\n60 MW",
+      "Infosys Integrated Annual Report 2024-25\n305\nParticulars\nNote\nYear ended March 31,\n2025\n2024\nProfit attributable to:\n \n \n \nOwners of the Company \n \n 26,713 \n 26,233 \nNon-controlling interests\n \n 37 \n 15 \n \n \n 26,750 \n 26,248 \nTotal comprehensive income attributable to: \n \n \n \nOwners of the Company \n \n 27,167 \n 26,754 \nNon-controlling interests\n \n 42 \n 14 \n \n \n 27,209 \n 26,768 \nEarnings per equity share\n \n \n \nEquity shares of par value ₹5/- each \n \n \n \nBasic (₹)\n2.23\n 64.50 \n 63.39 \nDiluted (₹)\n2.23\n 64.34 \n 63.29 \nWeighted average equity shares used in computing earnings per equity share\n \n \n \nBasic (in shares)\n2.23\n 414,16,11,738 \n 413,85,68,090 \nDiluted (in shares)\n2.23\n 415,20,51,184 \n 414,46,80,425 \nThe accompanying notes form an integral part of the Consolidated financial statements.\nAs per our report of even date attached\nfor Deloitte Haskins & Sells LLP\nChartered Accountants\nFirm’s Registration No:\n117366W/W-100018\nfor and on behalf of the Board of Directors of Infosys Limited",
+      "(81)\n 128 \nEquity instruments through other comprehensive income, net\n 2.5 and 2.17 \n 19 \n 19 \nItems that will be reclassified subsequently to profit or loss\n \n \n \nFair value changes on derivatives designated as cash flow hedge, net\n 2.11 and 2.17 \n (24)\n 11 \nFair value changes on investments, net\n2.5\n 191 \n 129 \nTotal other comprehensive income / (loss), net of tax\n \n 105 \n 287 \nTotal comprehensive income for the year\n \n 25,673 \n 27,521 \nfor and on behalf of the Board of Directors of Infosys Limited\nNandan M. Nilekani\nChairman\nDIN: 00041245\nSalil Parekh\nChief Executive Officer and Managing \nDirector\nDIN: 01876159\nBobby Parikh\nDirector\nDIN: 00019437\nBengaluru\nApril 17, 2025\nJayesh Sanghrajka\nChief Financial Officer\nA.G.S. Manikantha\nCompany Secretary\nMembership No. A21918"
+    ],
+    "retrieved_chunk_count": 30,
+    "final_context_chunk_count": 5,
+    "source_page_hit": true,
+    "answered": true
+  },
+  {
+    "id": "financial_017",
+    "question": "What was Infosys' consolidated net current assets as of March 31, 2025?",
+    "category": "financial",
+    "difficulty": "medium",
+    "expected_answer": "Infosys' consolidated net current assets as of March 31, 2025 were ₹54,249 crore.",
+    "expected_source_pages": [
+      31,
+      33
+    ],
+    "actual_answer": "Infosys' consolidated net current assets as of March 31, 2025, were ₹54,249 crore (Source: Page 31.0, infosys-ar-25_page_31_chunk_0).",
+    "actual_source_pages": [
+      31.0,
+      194.0,
+      274.0,
+      239.0,
+      299.0
+    ],
+    "actual_sources": [
+      {
+        "source_number": 1,
+        "page_number": 31.0,
+        "chunk_id": "infosys-ar-25_page_31_chunk_0"
+      },
+      {
+        "source_number": 2,
+        "page_number": 194.0,
+        "chunk_id": "infosys-ar-25_page_194_chunk_0"
+      },
+      {
+        "source_number": 3,
+        "page_number": 274.0,
+        "chunk_id": "infosys-ar-25_page_274_chunk_0"
+      },
+      {
+        "source_number": 4,
+        "page_number": 239.0,
+        "chunk_id": "infosys-ar-25_page_239_chunk_0"
+      },
+      {
+        "source_number": 5,
+        "page_number": 299.0,
+        "chunk_id": "infosys-ar-25_page_299_chunk_0"
+      }
+    ],
+    "contexts": [
+      "Infosys Integrated Annual Report 2024-25\n59\nFinancial position\n(in ` crore, except equity share data)\nParticulars\nStandalone\nConsolidated\nAs at March 31, \nAs at March 31,\n2025\n2024\n2025\n2024\nNet current assets\n45,406\n43,866\n54,249\n50,638\nProperty, plant and equipment (including capital work-in-progress)\n10,848\n11,090\n12,592\n12,663\nRight-of-use assets\n3,078\n3,303\n6,311\n6,552\nGoodwill and other intangible assets\n211\n211\n12,872\n8,700\nOther non-current assets\n33,631\n29,394\n20,029\n20,467\nTotal assets\n1,24,936\n1,14,950\n1,48,903\n1,37,814\nNon-current lease liabilities\n2,694\n3,088\n5,772 \n6,400\nOther non-current liabilities\n3,148\n3,600\n4,078\n4,159\nRetained earnings – Opening balance\n62,551\n52,183\n68,405 \n58,957\nAdd:\n \nProfit for the year\n25,568\n27,234\n26,713\n26,233\nTransfer from Special Economic Zone Re-investment Reserve to \nretained earnings\n2,999\n824\n2,999\n867\nTransfer from Special Economic Zone Re-investment Reserve on \nutilization\n821\n–\n881\n–\nLess:\n \nDividends\n(20,345) \n(14,733)\n(20,295)",
+      "Infosys Integrated Annual Report 2024-25\n222\n(In ₹ crore)\nParticulars\nNote\nAs at March 31,\n 2025\n 2024\nAssets\n \n \n \nNon-current assets\n \n \n \nProperty, plant and equipment \n2.1\n 10,070 \n 10,813 \nRight-of-use assets\n2.3\n 3,078 \n 3,303 \nCapital work-in-progress \n2.4\n 778 \n 277 \nGoodwill\n2.2\n 211 \n 211 \nFinancial assets \n \n \n \nInvestments\n2.5\n 27,371 \n 23,352 \nLoans\n2.6\n 26 \n 34 \nOther financial assets\n2.7\n 2,350 \n 1,756 \nDeferred tax assets (net)\n2.17\n 497 \n – \nIncome tax assets (net) \n2.17\n 1,164 \n 2,583 \nOther non-current assets \n2.10\n 2,223 \n 1,669 \nTotal non-current assets\n \n 47,768 \n 43,998 \nCurrent assets \n \n \n \nFinancial assets \n \n \n \nInvestments\n2.5\n 11,147 \n 11,307 \nTrade receivables\n2.8\n 26,413 \n 25,152 \nCash and cash equivalents\n2.9\n 14,265 \n 8,191 \nLoans\n2.6\n 207 \n 208 \nOther financial assets\n2.7\n 12,569 \n 10,129 \nIncome tax assets (net)\n2.17\n 2,949 \n 6,329 \nOther current assets\n2.10\n 9,618 \n 9,636 \nTotal current assets\n \n 77,168 \n 70,952 \nTotal assets\n \n 1,24,936 \n 1,14,950",
+      "Infosys Integrated Annual Report 2024-25\n302\n(In ₹ crore)\nParticulars\nNote\nAs at March 31,\n2025\n2024\nAssets\nNon-current assets\n \n \n \nProperty, plant and equipment\n2.2\n 11,778 \n 12,370 \nRight-of-use assets\n2.21\n 6,311 \n 6,552 \nCapital work-in-progress\n2.3\n 814 \n 293 \nGoodwill\n2.4.1 and 2.1\n 10,106 \n 7,303 \nOther intangible assets\n2.4.2\n 2,766 \n 1,397 \nFinancial assets\n \n \n \nInvestments\n2.5\n 11,059 \n 11,708 \nLoans\n2.6\n 16 \n 34 \nOther financial assets\n2.7\n 3,511 \n 3,105 \nDeferred tax assets (net)\n2.17\n 1,108 \n 454 \nIncome tax assets (net)\n2.17\n 1,622 \n 3,045 \nOther non-current assets\n2.10\n 2,713 \n 2,121 \nTotal non-current assets\n \n 51,804 \n 48,382 \nCurrent assets \n \n \n \nFinancial assets\n \n \n \nInvestments\n2.5\n 12,482 \n 12,915 \nTrade receivables\n2.8\n 31,158 \n 30,193 \nCash and cash equivalents\n2.9\n 24,455 \n 14,786 \nLoans \n2.6\n 249 \n 248 \nOther financial assets\n2.7\n 13,840 \n 12,085 \nIncome tax assets (net)\n2.17\n 2,975 \n 6,397 \nOther current assets\n2.10\n 11,940 \n 12,808 \nTotal current assets",
+      "Infosys Integrated Annual Report 2024-25\n267\nThe details of income tax assets and income tax liabilities as at March 31, 2025 and March 31, 2024 are as follows:\n(In ₹ crore)\nParticulars\nAs at March 31,\n2025\n2024\nIncome tax assets\n 4,113 \n 8,912 \nCurrent income tax liabilities\n 4,016 \n 2,962 \nNet current income tax assets / (liabilities) at the end\n 97 \n 5,950 \nThe gross movement in the current income tax assets / (liabilities) for the year ended March 31, 2025 and March 31, 2024 is as follows:\n(In ₹ crore)\nParticulars\nAs at March 31,\n2025\n2024\nNet current income tax assets / (liabilities) at the beginning\n 5,950 \n 3,082 \nIncome tax paid*\n 4,601 \n 8,235 \nInterest receivable on income tax refund\n 327 \n 1,934 \nCurrent income tax expense\n (10,836)\n (7,306)\nIncome tax benefit arising on exercise of stock options\n 39 \n 3 \nIncome tax on other comprehensive income\n 13 \n 2 \nTransfer on account of liquidation of subsidiary\n3\n –\nNet current income tax assets / (liabilities) at the end\n 97",
+      "Infosys Integrated Annual Report 2024-25\n327\nParticulars\nAs at March 31, \n2025\n2024\nOthers\n \n \nUnbilled revenues #\n 4,668 \n 4,845 \nWithholding taxes and others\n 2,841 \n 3,540 \nPrepaid expenses \n 3,080 \n 3,329 \nDeferred Contract Cost\n \n \nCost of obtaining a contract \n 343 \n 200 \nCost of fulfillment\n 504 \n 358 \nOther receivables\n 91 \n 180 \nTotal current other assets\n 11,940 \n 12,808 \nTotal other assets\n 14,653 \n 14,929 \n#\t\nClassified as non-financial asset as the contractual right to consideration is \ndependent on completion of contractual milestones.\nWithholding taxes and others primarily consist of input tax \ncredits and VAT recoverable from tax authorities.\n2.11 Financial instruments\nAccounting policy\n2.11.1 Initial recognition\nThe Group recognizes financial assets and financial liabilities \nwhen it becomes a party to the contractual provisions of the \ninstrument. All financial assets and liabilities are recognized \nat fair value on initial recognition, except for trade receivables"
+    ],
+    "retrieved_chunk_count": 29,
+    "final_context_chunk_count": 5,
+    "source_page_hit": true,
+    "answered": true
+  },
+  {
+    "id": "financial_018",
+    "question": "What was Infosys' consolidated total assets as of March 31, 2025?",
+    "category": "financial",
+    "difficulty": "medium",
+    "expected_answer": "Infosys' consolidated total assets as of March 31, 2025 were ₹1,48,903 crore.",
+    "expected_source_pages": [
+      31
+    ],
+    "actual_answer": "Infosys' consolidated total assets as of March 31, 2025, were ₹1,48,903 crore (Source: Page 31, infosys-ar-25_page_31_chunk_0).",
+    "actual_source_pages": [
+      31.0,
+      194.0,
+      274.0,
+      299.0,
+      219.0
+    ],
+    "actual_sources": [
+      {
+        "source_number": 1,
+        "page_number": 31.0,
+        "chunk_id": "infosys-ar-25_page_31_chunk_0"
+      },
+      {
+        "source_number": 2,
+        "page_number": 194.0,
+        "chunk_id": "infosys-ar-25_page_194_chunk_0"
+      },
+      {
+        "source_number": 3,
+        "page_number": 274.0,
+        "chunk_id": "infosys-ar-25_page_274_chunk_0"
+      },
+      {
+        "source_number": 4,
+        "page_number": 299.0,
+        "chunk_id": "infosys-ar-25_page_299_chunk_0"
+      },
+      {
+        "source_number": 5,
+        "page_number": 219.0,
+        "chunk_id": "infosys-ar-25_page_219_chunk_0"
+      }
+    ],
+    "contexts": [
+      "Infosys Integrated Annual Report 2024-25\n59\nFinancial position\n(in ` crore, except equity share data)\nParticulars\nStandalone\nConsolidated\nAs at March 31, \nAs at March 31,\n2025\n2024\n2025\n2024\nNet current assets\n45,406\n43,866\n54,249\n50,638\nProperty, plant and equipment (including capital work-in-progress)\n10,848\n11,090\n12,592\n12,663\nRight-of-use assets\n3,078\n3,303\n6,311\n6,552\nGoodwill and other intangible assets\n211\n211\n12,872\n8,700\nOther non-current assets\n33,631\n29,394\n20,029\n20,467\nTotal assets\n1,24,936\n1,14,950\n1,48,903\n1,37,814\nNon-current lease liabilities\n2,694\n3,088\n5,772 \n6,400\nOther non-current liabilities\n3,148\n3,600\n4,078\n4,159\nRetained earnings – Opening balance\n62,551\n52,183\n68,405 \n58,957\nAdd:\n \nProfit for the year\n25,568\n27,234\n26,713\n26,233\nTransfer from Special Economic Zone Re-investment Reserve to \nretained earnings\n2,999\n824\n2,999\n867\nTransfer from Special Economic Zone Re-investment Reserve on \nutilization\n821\n–\n881\n–\nLess:\n \nDividends\n(20,345) \n(14,733)\n(20,295)",
+      "Infosys Integrated Annual Report 2024-25\n222\n(In ₹ crore)\nParticulars\nNote\nAs at March 31,\n 2025\n 2024\nAssets\n \n \n \nNon-current assets\n \n \n \nProperty, plant and equipment \n2.1\n 10,070 \n 10,813 \nRight-of-use assets\n2.3\n 3,078 \n 3,303 \nCapital work-in-progress \n2.4\n 778 \n 277 \nGoodwill\n2.2\n 211 \n 211 \nFinancial assets \n \n \n \nInvestments\n2.5\n 27,371 \n 23,352 \nLoans\n2.6\n 26 \n 34 \nOther financial assets\n2.7\n 2,350 \n 1,756 \nDeferred tax assets (net)\n2.17\n 497 \n – \nIncome tax assets (net) \n2.17\n 1,164 \n 2,583 \nOther non-current assets \n2.10\n 2,223 \n 1,669 \nTotal non-current assets\n \n 47,768 \n 43,998 \nCurrent assets \n \n \n \nFinancial assets \n \n \n \nInvestments\n2.5\n 11,147 \n 11,307 \nTrade receivables\n2.8\n 26,413 \n 25,152 \nCash and cash equivalents\n2.9\n 14,265 \n 8,191 \nLoans\n2.6\n 207 \n 208 \nOther financial assets\n2.7\n 12,569 \n 10,129 \nIncome tax assets (net)\n2.17\n 2,949 \n 6,329 \nOther current assets\n2.10\n 9,618 \n 9,636 \nTotal current assets\n \n 77,168 \n 70,952 \nTotal assets\n \n 1,24,936 \n 1,14,950",
+      "Infosys Integrated Annual Report 2024-25\n302\n(In ₹ crore)\nParticulars\nNote\nAs at March 31,\n2025\n2024\nAssets\nNon-current assets\n \n \n \nProperty, plant and equipment\n2.2\n 11,778 \n 12,370 \nRight-of-use assets\n2.21\n 6,311 \n 6,552 \nCapital work-in-progress\n2.3\n 814 \n 293 \nGoodwill\n2.4.1 and 2.1\n 10,106 \n 7,303 \nOther intangible assets\n2.4.2\n 2,766 \n 1,397 \nFinancial assets\n \n \n \nInvestments\n2.5\n 11,059 \n 11,708 \nLoans\n2.6\n 16 \n 34 \nOther financial assets\n2.7\n 3,511 \n 3,105 \nDeferred tax assets (net)\n2.17\n 1,108 \n 454 \nIncome tax assets (net)\n2.17\n 1,622 \n 3,045 \nOther non-current assets\n2.10\n 2,713 \n 2,121 \nTotal non-current assets\n \n 51,804 \n 48,382 \nCurrent assets \n \n \n \nFinancial assets\n \n \n \nInvestments\n2.5\n 12,482 \n 12,915 \nTrade receivables\n2.8\n 31,158 \n 30,193 \nCash and cash equivalents\n2.9\n 24,455 \n 14,786 \nLoans \n2.6\n 249 \n 248 \nOther financial assets\n2.7\n 13,840 \n 12,085 \nIncome tax assets (net)\n2.17\n 2,975 \n 6,397 \nOther current assets\n2.10\n 11,940 \n 12,808 \nTotal current assets",
+      "Infosys Integrated Annual Report 2024-25\n327\nParticulars\nAs at March 31, \n2025\n2024\nOthers\n \n \nUnbilled revenues #\n 4,668 \n 4,845 \nWithholding taxes and others\n 2,841 \n 3,540 \nPrepaid expenses \n 3,080 \n 3,329 \nDeferred Contract Cost\n \n \nCost of obtaining a contract \n 343 \n 200 \nCost of fulfillment\n 504 \n 358 \nOther receivables\n 91 \n 180 \nTotal current other assets\n 11,940 \n 12,808 \nTotal other assets\n 14,653 \n 14,929 \n#\t\nClassified as non-financial asset as the contractual right to consideration is \ndependent on completion of contractual milestones.\nWithholding taxes and others primarily consist of input tax \ncredits and VAT recoverable from tax authorities.\n2.11 Financial instruments\nAccounting policy\n2.11.1 Initial recognition\nThe Group recognizes financial assets and financial liabilities \nwhen it becomes a party to the contractual provisions of the \ninstrument. All financial assets and liabilities are recognized \nat fair value on initial recognition, except for trade receivables",
+      "Infosys Integrated Annual Report 2024-25\n247\n2.7 Other financial assets\n(In ₹ crore)\nParticulars\nAs at March 31,\n2025\n2024\nNon-current\n \n \nSecurity deposits(1)\n 205 \n 205 \nUnbilled revenues(1)(5)#\n 1,904 \n 1,366 \nNet investment in lease(1) (Refer to \nNote 2.3)\n 241 \n 185 \nTotal non-current other financial \nassets\n 2,350 \n 1,756 \nCurrent\n \n \nSecurity deposits(1)\n 21 \n 25 \nRestricted deposits(1)*\n 2,716 \n 2,282 \nUnbilled revenues(1)(5)#\n 5,681 \n 4,993 \nInterest accrued but not due(1)\n 739 \n 476 \nForeign currency forward and \noptions contracts(2)(3)\n 171 \n 81 \nNet investment in lease(1) (Refer to \nNote 2.3)\n 228 \n 134 \nOthers(1)(4)\n 3,013 \n 2,138 \nTotal current other financial assets\n 12,569 \n 10,129 \nTotal other financial assets\n 14,919 \n 11,885 \n(1)\t Financial assets carried at amortized \ncost\n 14,748 \n 11,804 \n(2)\t Financial assets carried at fair value \nthrough other comprehensive income\n 28 \n 23 \n(3)\t Financial assets carried at fair value \nthrough Profit or Loss\n 143 \n 58"
+    ],
+    "retrieved_chunk_count": 26,
+    "final_context_chunk_count": 5,
+    "source_page_hit": true,
+    "answered": true
+  },
+  {
+    "id": "financial_019",
+    "question": "What was Infosys' consolidated total equity as of March 31, 2025?",
+    "category": "financial",
+    "difficulty": "medium",
+    "expected_answer": "Infosys' consolidated total equity as of March 31, 2025 was ₹96,203 crore.",
+    "expected_source_pages": [
+      31,
+      275
+    ],
+    "actual_answer": "Infosys' consolidated total equity as of March 31, 2025, was ₹96,203 crore. This amount includes total equity attributable to equity holders of the company of ₹95,818 crore and non-controlling interests of ₹385 crore (Source: Page 275, infosys-ar-25_page_275_chunk_0).",
+    "actual_source_pages": [
+      280.0,
+      275.0,
+      195.0,
+      202.0,
+      200.0
+    ],
+    "actual_sources": [
+      {
+        "source_number": 1,
+        "page_number": 280.0,
+        "chunk_id": "infosys-ar-25_page_280_chunk_0"
+      },
+      {
+        "source_number": 2,
+        "page_number": 275.0,
+        "chunk_id": "infosys-ar-25_page_275_chunk_0"
+      },
+      {
+        "source_number": 3,
+        "page_number": 195.0,
+        "chunk_id": "infosys-ar-25_page_195_chunk_0"
+      },
+      {
+        "source_number": 4,
+        "page_number": 202.0,
+        "chunk_id": "infosys-ar-25_page_202_chunk_0"
+      },
+      {
+        "source_number": 5,
+        "page_number": 200.0,
+        "chunk_id": "infosys-ar-25_page_200_chunk_0"
+      }
+    ],
+    "contexts": [
+      "Infosys Integrated Annual Report 2024-25\n308\nConsolidated Statement of Changes in Equity (contd.)\nParticulars\nEquity share \ncapital (1)\nOther equity\nTotal\nequity\nattributable\nto equity\nholders\nof the\nCompany\nNon-\ncontrolling \ninterest\nTotal \nequity\nReserves and surplus\nOther comprehensive income\nCapital \nreserve\nCapital \nredemption \nreserve\nSecurities \npremium\nRetained \nearnings\nGeneral \nreserve\nShare\noptions \noutstanding \naccount\nSpecial \nEconomic \nZone Re-\ninvestment \nreserve (2)\nOther \nreserves \n(3)\nEquity\ninstruments \nthrough other \ncomprehensive \nincome\nExchange \ndifferences\non\ntranslating \nthe financial \nstatements \nof a foreign \noperation\nEffective \nportion\nof cash \nflow \nhedges\nOther items\nof other \ncomprehensive \nincome /\n(loss)\nBalance as at  \nApril 1, 2024\n 2,071 \n 54 \n 169 \n 616  68,405 \n 1,214 \n 913 \n 12,104 \n 22 \n 266 \n 2,552 \n 6 \n (276)\n 88,116 \n 345  88,461 \nChanges in equity \nfor the year ended \nMarch 31, 2025\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nProfit for the year\n–\n–\n–\n–",
+      "Infosys Integrated Annual Report 2024-25\n303\nParticulars\nNote\nAs at March 31,\n2025\n2024\nEquity and liabilities\n \n \n \nEquity\n \n \n \nEquity share capital \n2.12\n 2,073 \n 2,071 \nOther equity \n \n 93,745 \n 86,045 \nTotal equity attributable to equity holders of the Company\n \n 95,818 \n 88,116 \nNon-controlling interests\n \n 385 \n 345 \nTotal equity\n \n 96,203 \n 88,461 \nLiabilities\n \n \n \nNon-current liabilities \n \n \n \nFinancial liabilities\n \n \n \nLease liabilities\n2.21\n 5,772 \n 6,400 \nOther financial liabilities\n2.13\n 2,141 \n 2,130 \nDeferred tax liabilities (net)\n2.17\n 1,722 \n 1,794 \nOther non-current liabilities \n2.15\n 215 \n 235 \nTotal non-current liabilities \n \n 9,850 \n 10,559 \nCurrent liabilities\n \n \n \nFinancial liabilities\n \n \n \nLease liabilities\n2.21\n 2,455 \n 1,959 \nTrade payables\n2.14\n 4,164 \n 3,956 \nOther financial liabilities\n2.13\n 18,138 \n 16,959 \nOther current liabilities \n2.15\n 11,765 \n 10,539 \nProvisions\n2.16\n 1,475 \n 1,796 \nIncome tax liabilities (net)\n2.17\n 4,853 \n 3,585",
+      "Infosys Integrated Annual Report 2024-25\n223\nParticulars\nNote\nAs at March 31,\n 2025\n 2024\nEquity and liabilities\n \n \n \nEquity\n \n \n \nEquity share capital\n2.12\n 2,076 \n 2,075 \nOther equity\n \n 85,256 \n 79,101 \nTotal equity\n \n 87,332 \n 81,176 \nLiabilities\n \n \n \nNon-current liabilities\n \n \n \nFinancial liabilities\n \n \n \nLease liabilities\n2.3\n 2,694 \n 3,088 \nOther financial liabilities\n2.13\n 1,991 \n 1,941 \nDeferred tax liabilities (net)\n2.17\n 1,062 \n 1,509 \nOther non-current liabilities\n2.15\n 95 \n 150 \nTotal non-current liabilities\n \n 5,842 \n 6,688 \nCurrent liabilities\n \n \n \nFinancial liabilities\n \n \n \nLease liabilities\n2.3\n 765 \n 678 \nTrade payables\n2.14\n \n \nTotal outstanding dues of micro enterprises and small \nenterprises\n \n 8 \n 92 \nTotal outstanding dues of creditors other than micro \nenterprises and small enterprises\n \n 2,720 \n 2,401 \nOther financial liabilities\n2.13\n 14,101 \n 11,808 \nOther current liabilities\n2.15\n 9,159 \n 7,681 \nProvisions\n2.16\n 993 \n 1,464",
+      "Infosys Integrated Annual Report 2024-25\n230\nParticulars\nEquity \nshare \ncapital\nOther equity\nTotal equity \nattributable \nto equity \nholders \nof the \nCompany\nReserves and surplus\nOther comprehensive income\nCapital reserve\nCapital \nredemption \nreserve\nSecurities \npremium\nRetained \nearnings\nGeneral \nreserve\nShare \noptions \noutstanding \naccount\nSpecial \nEconomic \nZone \n(SEZ) Re- \ninvestment \nreserve (1)\nEquity \ninstruments \nthrough other \ncomprehensive \nincome\nEffective \nportion of \nCash flow \nhedges\nOther items \nof other \ncomprehensive \nincome / (loss)\nCapital \nreserve\nOther \nreserves (2)\nEmployee stock \ncompensation \nexpense (Refer \nto Note 2.12)\n –\n –\n –\n –\n –\n –\n –\n 786 \n –\n –\n –\n –\n 786 \nIncome tax \nbenefit arising \non exercise of \nstock options \n(Refer to Note \n2.17)\n –\n –\n –\n –\n –\n –\n –\n 39 \n –\n –\n –\n –\n 39 \nDividends\n –\n –\n –\n –\n –\n (20,345)\n –\n –\n –\n –\n –\n –\n (20,345)\nBalance as at \nMarch 31, 2025\n 2,076 \n 54 \n 2,862 \n 169 \n 1,054 \n 71,520 \n 359 \n 1,069 \n 8,041 \n 298 \n (18)\n (152)",
+      "Infosys Integrated Annual Report 2024-25\n228\nStatement of Changes in Equity (contd.)\n(In ₹ crore)\nParticulars\nEquity \nshare \ncapital\nOther equity\nTotal equity \nattributable \nto equity \nholders \nof the \nCompany\nReserves and surplus\nOther comprehensive income\nCapital reserve\nCapital \nredemption \nreserve\nSecurities \npremium\nRetained \nearnings\nGeneral \nreserve\nShare \noptions \noutstanding \naccount\nSpecial \nEconomic \nZone \n(SEZ) Re- \ninvestment \nreserve (1)\nEquity \ninstruments \nthrough other \ncomprehensive \nincome\nEffective \nportion of \nCash flow \nhedges\nOther items \nof other \ncomprehensive \nincome / (loss)\nCapital \nreserve\nOther \nreserves (2)\nBalance as at \nApril 1, 2024\n 2,075 \n 54 \n 2,862 \n 169 \n 580 \n 62,551 \n 162 \n 913 \n 11,787 \n 279 \n 6 \n (262)\n 81,176 \nChanges in \nequity for the \nyear ended \nMarch 31, 2025\n \n \n \n \n \n \n \n \n \n \n \n \n \nProfit for the \nyear\n –\n –\n –\n –\n –\n 25,568 \n –\n –\n –\n –\n –\n –\n 25,568 \nRemeasurement \nof the net \ndefined benefit \nliability / asset, \nnet*\n –\n –\n –\n –\n –"
+    ],
+    "retrieved_chunk_count": 24,
+    "final_context_chunk_count": 5,
+    "source_page_hit": true,
+    "answered": true
+  },
+  {
+    "id": "financial_020",
+    "question": "What does Infosys' capital allocation policy target from fiscal 2025?",
+    "category": "financial",
+    "difficulty": "hard",
+    "expected_answer": "From fiscal 2025, Infosys expects to return approximately 85% of free cash flow cumulatively over five years through semi-annual dividends and/or share buyback/special dividends, subject to applicable laws and approvals.",
+    "expected_source_pages": [
+      23,
+      33
+    ],
+    "actual_answer": "Effective from financial year 2025, Infosys' capital allocation policy targets a return of approximately 85% of the free cash flow cumulatively over a five-year period through a combination of semi-annual dividends and/or share buybacks/special dividends, subject to applicable laws and requisite approvals (Source: Page 33.0, infosys-ar-25_page_33_chunk_0).",
+    "actual_source_pages": [
+      33.0,
+      23.0,
+      33.0,
+      69.0,
+      23.0
+    ],
+    "actual_sources": [
+      {
+        "source_number": 1,
+        "page_number": 33.0,
+        "chunk_id": "infosys-ar-25_page_33_chunk_0"
+      },
+      {
+        "source_number": 2,
+        "page_number": 23.0,
+        "chunk_id": "infosys-ar-25_page_23_chunk_5"
+      },
+      {
+        "source_number": 3,
+        "page_number": 33.0,
+        "chunk_id": "infosys-ar-25_page_33_chunk_1"
+      },
+      {
+        "source_number": 4,
+        "page_number": 69.0,
+        "chunk_id": "infosys-ar-25_page_69_chunk_1"
+      },
+      {
+        "source_number": 5,
+        "page_number": 23.0,
+        "chunk_id": "infosys-ar-25_page_23_chunk_6"
+      }
+    ],
+    "contexts": [
+      "Infosys Integrated Annual Report 2024-25\n61\nCapital Allocation Policy \n\"Effective from financial year 2025, the Company expects to \ncontinue its policy of returning approximately 85% of the \nfree cash flow cumulatively over a five-year period through a \ncombination of semi-annual dividends and / or share buyback \n/ special dividends, subject to applicable laws and requisite \napprovals, if any.\" Under this policy, the Company expects to \nprogressively increase its annual dividend per share (excluding \nspecial dividend, if any). Free cash flow is defined as net cash \nprovided by operating activities less capital expenditure as per \nthe Consolidated Statement of Cash Flows prepared under IFRS. \nDividend and buyback include applicable taxes.\nDuring the year ended March 31, 2025, the Company paid \nan interim dividend of ₹21 per equity share and announced \na final dividend of ₹22 per share, subject to shareholders’ \napproval in the ensuing Annual General Meeting (AGM).",
+      "meets, the Annual General Meeting, \nand regular one-to-one and group \ninteractions.\nDistribution of value \ncreated through Capital \nAllocation Policy\nThe Company has returned \napproximately `88,400 crore, which \nis 85% of the cumulative free cash \nflow for fiscals 2020-2024 through \ndividends and buybacks, in line with \nthe Capital Allocation Policy.\n“Effective from financial year \n2025, the Company expects to \ncontinue its policy of returning \napproximately 85% of the free cash \nflow cumulatively over a 5-year \nperiod through a combination \nof semi-annual dividends and/or \nshare buyback / special dividends, \nsubject to applicable laws and \nrequisite approvals, if any.” Under \nthis policy, the Company expects \nto progressively increase its annual \ndividend per share (excluding special \ndividend if any). Details of our Capital \nAllocation Policy are available at  \nhttps://www.infosys.com/investors/\ncorporate-governance/documents/\ncapital-allocation-policy.pdf.\nDelivering value through",
+      "a final dividend of ₹22 per share, subject to shareholders’ \napproval in the ensuing Annual General Meeting (AGM). \nIncluding the final dividend declared above, the Company has \nreturned approximately `17,814 crore, which is 51.6% of the \nfree cash flow for fiscal 2025 through dividends, in line with the \nCapital Allocation Policy.\nThe Capital Allocation Policy is available on our website, at \nhttps://www.infosys.com/investors/corporate-governance/ \ndocuments/capital-allocation-policy.pdf.\nLiquidity\nOur principal sources of liquidity are cash and cash equivalents, \ninvestments and the cash flow that we generate from our \noperations. We continue to be debt-free and maintain sufficient \ncash to meet our strategic and operational requirements. We \nunderstand that liquidity in the Balance Sheet has to balance \nbetween earning adequate returns and the need to cover \nfinancial and business requirements. Liquidity enables us to be",
+      "Brief description\nWeb link\nWhistleblower Policy \n(Policy on vigil mechanism)\nThe Company has adopted a Whistleblower mechanism to report concerns \nabout unethical behavior, actual or suspected fraud, or violation of the \nCompany’s Code of Conduct and Ethics. The policy was revised and adopted \neffective January 16, 2025.\nhttps://www.infosys.com/investors/corporate- \ngovernance/documents/whistleblower-policy.pdf \nCode of Conduct and Ethics\nThe Company has adopted the Code of Conduct and Ethics, which forms the \nfoundation of its ethics and compliance program. The policy was revised and \nadopted effective July 18, 2024.\nhttps://www.infosys.com/investors/corporate- \ngovernance/documents/codeofconduct.pdf\nCorporate Policy \non Capital Allocation\nThe policy applies to the distribution of free cash flow as dividends or buy-\nback over the next five-year period ending in fiscal 2029. The policy was \nrevised and adopted effective April 18, 2024.\nhttps://www.infosys.com/investors/corporate-",
+      "https://www.infosys.com/investors/\ncorporate-governance/documents/\ncapital-allocation-policy.pdf.\nDelivering value through \nbusiness strategy\nOur market-oriented four-pronged \nstrategy enables us to invest in \nexpanding our global digital \nfootprint. This helps Infosys to be \nrecognized as a partner of choice \nfor digital transformation and also \nincreases our potential to attract \nlarger Total Contract Value (TCV) \ndeals and clients. This enhances \nour ability to generate industry-\nleading growth and profitability, thus \ngenerating shareholder value.\nIn ` crore\n2023\n2024\n2025\n5,92,394\n6,21,821\n6,52,332\n20.7\n4.7\n6.1\nIn %\n2023\n2024\n2025\n57.63\nIn `\n63.39\n64.50\n2023\n2024\n2025\n31.2\n32.1\n29.0\n2023\n2024\n2025\nIn %\nIn `\n34.0\n38.0(1)\n43.0\n2023\n2024\n2025\n(1) Dividend excludes special dividend of `8.00 per share\n20,443\n23,865\n34,549\nIn ` crore\n2023\n2024\n2025"
+    ],
+    "retrieved_chunk_count": 29,
+    "final_context_chunk_count": 5,
+    "source_page_hit": true,
+    "answered": true
+  },
+  {
+    "id": "business_segments_001",
+    "question": "What are Infosys' primary business segments?",
+    "category": "business_segments",
+    "difficulty": "medium",
+    "expected_answer": "Infosys' primary business segments are Financial Services and Insurance, Manufacturing, Retail, Consumer Packaged Goods and Logistics, Energy, Utilities, Resources and Services, Communication, Telecom OEM and Media, Hi-Tech, Life Sciences and Healthcare, and all other segments.",
+    "expected_source_pages": [
+      344
+    ],
+    "actual_answer": "Infosys' primary business segments are:\n\n- Financial Services and Insurance\n- Manufacturing\n- Retail, Consumer Packaged Goods and Logistics\n- Energy, Utilities, Resources and Services\n- Communication, Telecom OEM and Media\n- Hi-Tech\n- Life Sciences and Healthcare\n- All other segments, which include businesses in India, Japan, China, Infosys Public Services, and other enterprises in Public Services (Source: Page 344.0, infosys-ar-25_page_344_chunk_1).",
+    "actual_source_pages": [
+      344.0,
+      345.0,
+      75.0,
+      32.0,
+      74.0
+    ],
+    "actual_sources": [
+      {
+        "source_number": 1,
+        "page_number": 344.0,
+        "chunk_id": "infosys-ar-25_page_344_chunk_1"
+      },
+      {
+        "source_number": 2,
+        "page_number": 345.0,
+        "chunk_id": "infosys-ar-25_page_345_chunk_0"
+      },
+      {
+        "source_number": 3,
+        "page_number": 75.0,
+        "chunk_id": "infosys-ar-25_page_75_chunk_0"
+      },
+      {
+        "source_number": 4,
+        "page_number": 32.0,
+        "chunk_id": "infosys-ar-25_page_32_chunk_0"
+      },
+      {
+        "source_number": 5,
+        "page_number": 74.0,
+        "chunk_id": "infosys-ar-25_page_74_chunk_6"
+      }
+    ],
+    "contexts": [
+      "are as set out in the accounting policies.\nBusiness segments of the Group are primarily enterprises in \nFinancial Services and Insurance, enterprises in Manufacturing, \nenterprises in Retail, Consumer Packaged Goods and Logistics, \nenterprises in the Energy, Utilities, Resources and Services, \nenterprises in Communication, Telecom OEM and Media, \nenterprises in Hi-Tech, enterprises in Life Sciences and Healthcare \nand all other segments. The Financial services reportable \nsegments has been aggregated to include the Financial Services \noperating segment and Finacle operating segment because \nof the similarity of the economic characteristics. All other \nsegments represent the operating segments of businesses \nin India, Japan, China, Infosys Public Services and other \nenterprises in Public Services.\nRevenue and identifiable operating expenses in relation to \nsegments are categorized based on items that are individually \nidentifiable to that segment. Revenue for 'all other segments'",
+      "Infosys Integrated Annual Report 2024-25\n373\nBusiness segments\nYear ended March 31, 2025 and March 31, 2024:\n(In ₹ crore)\nParticulars\nFinancial \nServices (1)\nRetail (2)\nCommunication(3)\nEnergy, \nUtilities, \nResources \nand \nServices\nManufacturing\nHi-Tech\nLife \nSciences(4)\nAll other \nsegments(5)\nTotal\nRevenue from \noperations\n 45,175 \n22,059 \n 19,108 \n 21,710 \n 25,207 \n13,090 \n 11,831 \n 4,810 \n1,62,990 \n \n 42,158 \n 22,504 \n 17,991 \n 20,035 \n 22,298 \n 12,411 \n 11,515 \n 4,758 \n 1,53,670 \nIdentifiable \noperating \nexpenses\n 25,871 \n 10,931 \n 12,420 \n 11,882 \n 16,167 \n 7,592 \n 7,166 \n 2,986 \n 95,015 \n \n 24,782 \n 11,704 \n 11,071 \n 10,838 \n 14,596 \n 7,232 \n 6,716 \n 2,938 \n 89,877 \nAllocated \nexpenses\n 8,205 \n 3,995 \n 3,347 \n 3,731 \n 4,184 \n 2,278 \n 2,002 \n 997 \n 28,739 \n \n 8,052 \n 3,918 \n 3,232 \n 3,674 \n 3,505 \n 2,026 \n 1,901 \n 1,060 \n 27,368 \nSegment \noperating \nincome\n 11,099 \n 7,133 \n 3,341 \n 6,097 \n 4,856 \n 3,220 \n 2,663 \n 827 \n 39,236 \n \n 9,324 \n 6,882 \n 3,688 \n 5,523 \n 4,197 \n 3,153",
+      "Infosys Integrated Annual Report 2024-25\n103\nBusiness segments – Consolidated\n(In ₹ crore)\nParticulars\nFinancial \nServices\nRetail Communication\nEnergy, Utilities, \nResources and \nServices\nManufacturing\nHi-Tech\nLife \nSciences\nAll other \nsegments\nTotal\nSegmental revenues\n2025\n45,175\n22,059\n19,108\n21,710\n25,207\n13,090\n11,831\n4,810\n1,62,990\n2024\n42,158\n22,504\n17,991\n20,035\n22,298\n12,411\n11,515\n4,758\n1,53,670\nGrowth (%)\n7.2\n(2.0)\n6.2\n8.4\n13.0\n5.5\n2.7\n1.1\n6.1\nSegmental operating income\n2025\n11,099\n7,133\n3,341\n6,097\n4,856\n3,220\n2,663\n827\n39,236\n2024\n9,324\n6,882\n3,688\n5,523\n4,197\n3,153\n2,898\n760\n36,425\nGrowth (%)\n19.0\n3.6\n(9.4)\n10.4\n15.7\n2.1\n(8.1)\n8.8\n7.7\nSegmental operating margin (%) \n2025\n24.6\n32.3\n17.5\n28.1\n19.3\n24.6\n22.5\n17.2\n24.1\n2024\n22.1\n30.6\n20.5\n27.6\n18.8\n25.4\n25.2\n16.0\n23.7\nThe following graph sets forth our revenue by geography:\n(In ₹ crore)\n(60.1%)\n(9.8%)\n(27.6%)\n(2.5%)\n % growth - 2025\n North America – 2.1%\n Europe – 15.0%\n India – 29.2%\n Rest of the World – (0.8%)",
+      "Infosys Integrated Annual Report 2024-25\n60\nBased on consolidated financial statements\n(1)\t FS – Includes enterprises in Financial Services and Insurance\n(2)\t Retail – Includes enterprises in Retail, Consumer Packaged Goods and Logistics\n(3)\t COM – Includes enterprises in Communication, Telecom OEM and Media\n(4)\t EURS – Includes enterprises in Energy, Utilities, Resources and Services\n(5)\t MFG – Includes enterprises in Manufacturing\n(6)\t Hi-Tech – Includes enterprises in Hi-Tech\n(7)\t LS – Includes enterprises in Life Sciences and Healthcare\n(8)\t Others – Includes segments of businesses in India, Japan, China, Infosys Public Services and other enterprises in public services\nRevenue distribution by geographical segments (in %)\nRevenue distribution by business segments (in %)\nFS (1)\nRetail (2)\nCOM (3)\nEURS (4)\nMFG (5)\nHi-Tech (6)\nLS (7)\nOthers (8)\n2025\n2024\n3.1\n3.0\n7.5\n7.3\n8.1\n8.0\n14.5 15.5\n13.0 13.3\n11.7 11.7\n14.7 13.5\n27.4 27.7\nNorth America\nEurope\nRest of the World\nIndia\n2.5\n3.1\n9.8",
+      "Communication, Telecom OEM and Media; Hi‑Tech; Life Sciences \nand Healthcare; and all other segments. All other segments \nrepresent the operating segments of businesses in India, \nJapan, China, Infosys Public Services and other enterprises in \npublic services. This is discussed in detail in Note 2.26 to the \nConsolidated financial statement in this Integrated Annual Report."
+    ],
+    "retrieved_chunk_count": 35,
+    "final_context_chunk_count": 5,
+    "source_page_hit": true,
+    "answered": true
+  },
+  {
+    "id": "business_segments_002",
+    "question": "What does the Financial Services segment include?",
+    "category": "business_segments",
+    "difficulty": "easy",
+    "expected_answer": "The Financial Services segment includes enterprises in Financial Services and Insurance.",
+    "expected_source_pages": [
+      32,
+      345
+    ],
+    "actual_answer": "The Financial Services segment includes enterprises in Financial Services and Insurance (Source: Page 344, infosys-ar-25_page_344_chunk_1).",
+    "actual_source_pages": [
+      344.0,
+      345.0,
+      345.0,
+      74.0,
+      32.0
+    ],
+    "actual_sources": [
+      {
+        "source_number": 1,
+        "page_number": 344.0,
+        "chunk_id": "infosys-ar-25_page_344_chunk_1"
+      },
+      {
+        "source_number": 2,
+        "page_number": 345.0,
+        "chunk_id": "infosys-ar-25_page_345_chunk_1"
+      },
+      {
+        "source_number": 3,
+        "page_number": 345.0,
+        "chunk_id": "infosys-ar-25_page_345_chunk_0"
+      },
+      {
+        "source_number": 4,
+        "page_number": 74.0,
+        "chunk_id": "infosys-ar-25_page_74_chunk_5"
+      },
+      {
+        "source_number": 5,
+        "page_number": 32.0,
+        "chunk_id": "infosys-ar-25_page_32_chunk_0"
+      }
+    ],
+    "contexts": [
+      "are as set out in the accounting policies.\nBusiness segments of the Group are primarily enterprises in \nFinancial Services and Insurance, enterprises in Manufacturing, \nenterprises in Retail, Consumer Packaged Goods and Logistics, \nenterprises in the Energy, Utilities, Resources and Services, \nenterprises in Communication, Telecom OEM and Media, \nenterprises in Hi-Tech, enterprises in Life Sciences and Healthcare \nand all other segments. The Financial services reportable \nsegments has been aggregated to include the Financial Services \noperating segment and Finacle operating segment because \nof the similarity of the economic characteristics. All other \nsegments represent the operating segments of businesses \nin India, Japan, China, Infosys Public Services and other \nenterprises in Public Services.\nRevenue and identifiable operating expenses in relation to \nsegments are categorized based on items that are individually \nidentifiable to that segment. Revenue for 'all other segments'",
+      "Segment \noperating \nincome\n 11,099 \n 7,133 \n 3,341 \n 6,097 \n 4,856 \n 3,220 \n 2,663 \n 827 \n 39,236 \n \n 9,324 \n 6,882 \n 3,688 \n 5,523 \n 4,197 \n 3,153 \n 2,898 \n 760 \n 36,425 \nUnallocable \nexpenses\n \n \n \n \n \n \n \n \n 4,812 \n \n \n \n \n \n \n \n \n \n 4,678 \nOther income, net \n \n \n \n \n \n 3,600 \n \n \n \n \n \n \n \n \n \n 4,711 \nFinance cost\n \n \n \n \n \n \n \n \n 416 \n \n \n \n \n \n \n \n \n \n 470 \nProfit before tax\n \n \n \n \n \n 37,608 \n \n \n \n \n \n \n \n \n \n 35,988 \nIncome tax expense\n \n \n \n \n \n \n \n 10,858 \n \n \n \n \n \n \n \n \n \n 9,740 \nNet profit\n \n \n \n \n \n \n \n \n 26,750 \n \n \n \n \n \n \n \n \n \n 26,248 \nDepreciation and amortization expense \n \n \n \n \n \n 4,812 \n \n \n \n \n \n \n \n \n \n 4,678 \nNon-cash expenses other than depreciation and amortization \n \n \n \n \n– \n \n \n \n \n \n \n \n \n \n– \n(1)\t Financial Services include enterprises in Financial Services and Insurance.\n(2)\t Retail includes enterprises in Retail, Consumer Packaged Goods and Logistics.\n(3)\t Communication includes enterprises in Communication, Telecom OEM and Media.",
+      "Infosys Integrated Annual Report 2024-25\n373\nBusiness segments\nYear ended March 31, 2025 and March 31, 2024:\n(In ₹ crore)\nParticulars\nFinancial \nServices (1)\nRetail (2)\nCommunication(3)\nEnergy, \nUtilities, \nResources \nand \nServices\nManufacturing\nHi-Tech\nLife \nSciences(4)\nAll other \nsegments(5)\nTotal\nRevenue from \noperations\n 45,175 \n22,059 \n 19,108 \n 21,710 \n 25,207 \n13,090 \n 11,831 \n 4,810 \n1,62,990 \n \n 42,158 \n 22,504 \n 17,991 \n 20,035 \n 22,298 \n 12,411 \n 11,515 \n 4,758 \n 1,53,670 \nIdentifiable \noperating \nexpenses\n 25,871 \n 10,931 \n 12,420 \n 11,882 \n 16,167 \n 7,592 \n 7,166 \n 2,986 \n 95,015 \n \n 24,782 \n 11,704 \n 11,071 \n 10,838 \n 14,596 \n 7,232 \n 6,716 \n 2,938 \n 89,877 \nAllocated \nexpenses\n 8,205 \n 3,995 \n 3,347 \n 3,731 \n 4,184 \n 2,278 \n 2,002 \n 997 \n 28,739 \n \n 8,052 \n 3,918 \n 3,232 \n 3,674 \n 3,505 \n 2,026 \n 1,901 \n 1,060 \n 27,368 \nSegment \noperating \nincome\n 11,099 \n 7,133 \n 3,341 \n 6,097 \n 4,856 \n 3,220 \n 2,663 \n 827 \n 39,236 \n \n 9,324 \n 6,882 \n 3,688 \n 5,523 \n 4,197 \n 3,153",
+      "years, 2007-08 to 2015-16, 2017-18 and 2018-19. These orders \nconfirmed the Company's position with respect to tax treatment \nof certain contentious matters. As a result interest income \n(pretax) of ₹1,933 crore was recognised and provision for income \ntax aggregating ₹525 crore was reversed with a corresponding \ncredit to the Statement of Profit and Loss. Also, upon resolution \nof the disputes, an amount aggregating to ₹1,628 crore has been \nreduced from contingent liabilities.\n5.\t Segmental profitability\nThe Company’s operations predominantly relate to providing \nend-to-end business solutions to enable clients to enhance \nperformance of their business. Business segments of the \nCompany are primarily enterprises in Financial Services \nand Insurance; Manufacturing; Retail, Consumer Packaged \nGoods and Logistics; Energy, Utilities, Resources and Services; \nCommunication, Telecom OEM and Media; Hi‑Tech; Life Sciences \nand Healthcare; and all other segments. All other segments",
+      "Infosys Integrated Annual Report 2024-25\n60\nBased on consolidated financial statements\n(1)\t FS – Includes enterprises in Financial Services and Insurance\n(2)\t Retail – Includes enterprises in Retail, Consumer Packaged Goods and Logistics\n(3)\t COM – Includes enterprises in Communication, Telecom OEM and Media\n(4)\t EURS – Includes enterprises in Energy, Utilities, Resources and Services\n(5)\t MFG – Includes enterprises in Manufacturing\n(6)\t Hi-Tech – Includes enterprises in Hi-Tech\n(7)\t LS – Includes enterprises in Life Sciences and Healthcare\n(8)\t Others – Includes segments of businesses in India, Japan, China, Infosys Public Services and other enterprises in public services\nRevenue distribution by geographical segments (in %)\nRevenue distribution by business segments (in %)\nFS (1)\nRetail (2)\nCOM (3)\nEURS (4)\nMFG (5)\nHi-Tech (6)\nLS (7)\nOthers (8)\n2025\n2024\n3.1\n3.0\n7.5\n7.3\n8.1\n8.0\n14.5 15.5\n13.0 13.3\n11.7 11.7\n14.7 13.5\n27.4 27.7\nNorth America\nEurope\nRest of the World\nIndia\n2.5\n3.1\n9.8"
+    ],
+    "retrieved_chunk_count": 36,
+    "final_context_chunk_count": 5,
+    "source_page_hit": true,
+    "answered": true
+  },
+  {
+    "id": "business_segments_003",
+    "question": "What does the Retail segment include?",
+    "category": "business_segments",
+    "difficulty": "easy",
+    "expected_answer": "The Retail segment includes enterprises in Retail, Consumer Packaged Goods and Logistics.",
+    "expected_source_pages": [
+      32,
+      345
+    ],
+    "actual_answer": "The Retail segment includes enterprises in Retail, Consumer Packaged Goods, and Logistics (Source: Page 344, infosys-ar-25_page_344_chunk_1).",
+    "actual_source_pages": [
+      345.0,
+      344.0,
+      32.0,
+      345.0,
+      75.0
+    ],
+    "actual_sources": [
+      {
+        "source_number": 1,
+        "page_number": 345.0,
+        "chunk_id": "infosys-ar-25_page_345_chunk_1"
+      },
+      {
+        "source_number": 2,
+        "page_number": 344.0,
+        "chunk_id": "infosys-ar-25_page_344_chunk_1"
+      },
+      {
+        "source_number": 3,
+        "page_number": 32.0,
+        "chunk_id": "infosys-ar-25_page_32_chunk_0"
+      },
+      {
+        "source_number": 4,
+        "page_number": 345.0,
+        "chunk_id": "infosys-ar-25_page_345_chunk_0"
+      },
+      {
+        "source_number": 5,
+        "page_number": 75.0,
+        "chunk_id": "infosys-ar-25_page_75_chunk_0"
+      }
+    ],
+    "contexts": [
+      "Segment \noperating \nincome\n 11,099 \n 7,133 \n 3,341 \n 6,097 \n 4,856 \n 3,220 \n 2,663 \n 827 \n 39,236 \n \n 9,324 \n 6,882 \n 3,688 \n 5,523 \n 4,197 \n 3,153 \n 2,898 \n 760 \n 36,425 \nUnallocable \nexpenses\n \n \n \n \n \n \n \n \n 4,812 \n \n \n \n \n \n \n \n \n \n 4,678 \nOther income, net \n \n \n \n \n \n 3,600 \n \n \n \n \n \n \n \n \n \n 4,711 \nFinance cost\n \n \n \n \n \n \n \n \n 416 \n \n \n \n \n \n \n \n \n \n 470 \nProfit before tax\n \n \n \n \n \n 37,608 \n \n \n \n \n \n \n \n \n \n 35,988 \nIncome tax expense\n \n \n \n \n \n \n \n 10,858 \n \n \n \n \n \n \n \n \n \n 9,740 \nNet profit\n \n \n \n \n \n \n \n \n 26,750 \n \n \n \n \n \n \n \n \n \n 26,248 \nDepreciation and amortization expense \n \n \n \n \n \n 4,812 \n \n \n \n \n \n \n \n \n \n 4,678 \nNon-cash expenses other than depreciation and amortization \n \n \n \n \n– \n \n \n \n \n \n \n \n \n \n– \n(1)\t Financial Services include enterprises in Financial Services and Insurance.\n(2)\t Retail includes enterprises in Retail, Consumer Packaged Goods and Logistics.\n(3)\t Communication includes enterprises in Communication, Telecom OEM and Media.",
+      "are as set out in the accounting policies.\nBusiness segments of the Group are primarily enterprises in \nFinancial Services and Insurance, enterprises in Manufacturing, \nenterprises in Retail, Consumer Packaged Goods and Logistics, \nenterprises in the Energy, Utilities, Resources and Services, \nenterprises in Communication, Telecom OEM and Media, \nenterprises in Hi-Tech, enterprises in Life Sciences and Healthcare \nand all other segments. The Financial services reportable \nsegments has been aggregated to include the Financial Services \noperating segment and Finacle operating segment because \nof the similarity of the economic characteristics. All other \nsegments represent the operating segments of businesses \nin India, Japan, China, Infosys Public Services and other \nenterprises in Public Services.\nRevenue and identifiable operating expenses in relation to \nsegments are categorized based on items that are individually \nidentifiable to that segment. Revenue for 'all other segments'",
+      "Infosys Integrated Annual Report 2024-25\n60\nBased on consolidated financial statements\n(1)\t FS – Includes enterprises in Financial Services and Insurance\n(2)\t Retail – Includes enterprises in Retail, Consumer Packaged Goods and Logistics\n(3)\t COM – Includes enterprises in Communication, Telecom OEM and Media\n(4)\t EURS – Includes enterprises in Energy, Utilities, Resources and Services\n(5)\t MFG – Includes enterprises in Manufacturing\n(6)\t Hi-Tech – Includes enterprises in Hi-Tech\n(7)\t LS – Includes enterprises in Life Sciences and Healthcare\n(8)\t Others – Includes segments of businesses in India, Japan, China, Infosys Public Services and other enterprises in public services\nRevenue distribution by geographical segments (in %)\nRevenue distribution by business segments (in %)\nFS (1)\nRetail (2)\nCOM (3)\nEURS (4)\nMFG (5)\nHi-Tech (6)\nLS (7)\nOthers (8)\n2025\n2024\n3.1\n3.0\n7.5\n7.3\n8.1\n8.0\n14.5 15.5\n13.0 13.3\n11.7 11.7\n14.7 13.5\n27.4 27.7\nNorth America\nEurope\nRest of the World\nIndia\n2.5\n3.1\n9.8",
+      "Infosys Integrated Annual Report 2024-25\n373\nBusiness segments\nYear ended March 31, 2025 and March 31, 2024:\n(In ₹ crore)\nParticulars\nFinancial \nServices (1)\nRetail (2)\nCommunication(3)\nEnergy, \nUtilities, \nResources \nand \nServices\nManufacturing\nHi-Tech\nLife \nSciences(4)\nAll other \nsegments(5)\nTotal\nRevenue from \noperations\n 45,175 \n22,059 \n 19,108 \n 21,710 \n 25,207 \n13,090 \n 11,831 \n 4,810 \n1,62,990 \n \n 42,158 \n 22,504 \n 17,991 \n 20,035 \n 22,298 \n 12,411 \n 11,515 \n 4,758 \n 1,53,670 \nIdentifiable \noperating \nexpenses\n 25,871 \n 10,931 \n 12,420 \n 11,882 \n 16,167 \n 7,592 \n 7,166 \n 2,986 \n 95,015 \n \n 24,782 \n 11,704 \n 11,071 \n 10,838 \n 14,596 \n 7,232 \n 6,716 \n 2,938 \n 89,877 \nAllocated \nexpenses\n 8,205 \n 3,995 \n 3,347 \n 3,731 \n 4,184 \n 2,278 \n 2,002 \n 997 \n 28,739 \n \n 8,052 \n 3,918 \n 3,232 \n 3,674 \n 3,505 \n 2,026 \n 1,901 \n 1,060 \n 27,368 \nSegment \noperating \nincome\n 11,099 \n 7,133 \n 3,341 \n 6,097 \n 4,856 \n 3,220 \n 2,663 \n 827 \n 39,236 \n \n 9,324 \n 6,882 \n 3,688 \n 5,523 \n 4,197 \n 3,153",
+      "Infosys Integrated Annual Report 2024-25\n103\nBusiness segments – Consolidated\n(In ₹ crore)\nParticulars\nFinancial \nServices\nRetail Communication\nEnergy, Utilities, \nResources and \nServices\nManufacturing\nHi-Tech\nLife \nSciences\nAll other \nsegments\nTotal\nSegmental revenues\n2025\n45,175\n22,059\n19,108\n21,710\n25,207\n13,090\n11,831\n4,810\n1,62,990\n2024\n42,158\n22,504\n17,991\n20,035\n22,298\n12,411\n11,515\n4,758\n1,53,670\nGrowth (%)\n7.2\n(2.0)\n6.2\n8.4\n13.0\n5.5\n2.7\n1.1\n6.1\nSegmental operating income\n2025\n11,099\n7,133\n3,341\n6,097\n4,856\n3,220\n2,663\n827\n39,236\n2024\n9,324\n6,882\n3,688\n5,523\n4,197\n3,153\n2,898\n760\n36,425\nGrowth (%)\n19.0\n3.6\n(9.4)\n10.4\n15.7\n2.1\n(8.1)\n8.8\n7.7\nSegmental operating margin (%) \n2025\n24.6\n32.3\n17.5\n28.1\n19.3\n24.6\n22.5\n17.2\n24.1\n2024\n22.1\n30.6\n20.5\n27.6\n18.8\n25.4\n25.2\n16.0\n23.7\nThe following graph sets forth our revenue by geography:\n(In ₹ crore)\n(60.1%)\n(9.8%)\n(27.6%)\n(2.5%)\n % growth - 2025\n North America – 2.1%\n Europe – 15.0%\n India – 29.2%\n Rest of the World – (0.8%)"
+    ],
+    "retrieved_chunk_count": 35,
+    "final_context_chunk_count": 5,
+    "source_page_hit": true,
+    "answered": true
+  },
+  {
+    "id": "business_segments_004",
+    "question": "What does the Communication segment include?",
+    "category": "business_segments",
+    "difficulty": "easy",
+    "expected_answer": "The Communication segment includes enterprises in Communication, Telecom OEM and Media.",
+    "expected_source_pages": [
+      32,
+      345
+    ],
+    "actual_answer": "The Communication segment includes enterprises in Communication, Telecom OEM, and Media (Source: Page 345, infosys-ar-25_page_345_chunk_2).",
+    "actual_source_pages": [
+      345.0,
+      345.0,
+      344.0,
+      345.0,
+      32.0
+    ],
+    "actual_sources": [
+      {
+        "source_number": 1,
+        "page_number": 345.0,
+        "chunk_id": "infosys-ar-25_page_345_chunk_2"
+      },
+      {
+        "source_number": 2,
+        "page_number": 345.0,
+        "chunk_id": "infosys-ar-25_page_345_chunk_1"
+      },
+      {
+        "source_number": 3,
+        "page_number": 344.0,
+        "chunk_id": "infosys-ar-25_page_344_chunk_1"
+      },
+      {
+        "source_number": 4,
+        "page_number": 345.0,
+        "chunk_id": "infosys-ar-25_page_345_chunk_0"
+      },
+      {
+        "source_number": 5,
+        "page_number": 32.0,
+        "chunk_id": "infosys-ar-25_page_32_chunk_0"
+      }
+    ],
+    "contexts": [
+      "(3)\t Communication includes enterprises in Communication, Telecom OEM and Media.\n(4)\t Life Sciences includes enterprises in Life sciences and Healthcare.\n(5)\t Others include operating segments of businesses in India, Japan, China, Infosys Public Services and other enterprises in Public Services.\nSignificant clients\nNo client individually accounted for more than 10% of the revenues for the year ended March 31, 2025 and March 31, 2024, respectively.",
+      "Segment \noperating \nincome\n 11,099 \n 7,133 \n 3,341 \n 6,097 \n 4,856 \n 3,220 \n 2,663 \n 827 \n 39,236 \n \n 9,324 \n 6,882 \n 3,688 \n 5,523 \n 4,197 \n 3,153 \n 2,898 \n 760 \n 36,425 \nUnallocable \nexpenses\n \n \n \n \n \n \n \n \n 4,812 \n \n \n \n \n \n \n \n \n \n 4,678 \nOther income, net \n \n \n \n \n \n 3,600 \n \n \n \n \n \n \n \n \n \n 4,711 \nFinance cost\n \n \n \n \n \n \n \n \n 416 \n \n \n \n \n \n \n \n \n \n 470 \nProfit before tax\n \n \n \n \n \n 37,608 \n \n \n \n \n \n \n \n \n \n 35,988 \nIncome tax expense\n \n \n \n \n \n \n \n 10,858 \n \n \n \n \n \n \n \n \n \n 9,740 \nNet profit\n \n \n \n \n \n \n \n \n 26,750 \n \n \n \n \n \n \n \n \n \n 26,248 \nDepreciation and amortization expense \n \n \n \n \n \n 4,812 \n \n \n \n \n \n \n \n \n \n 4,678 \nNon-cash expenses other than depreciation and amortization \n \n \n \n \n– \n \n \n \n \n \n \n \n \n \n– \n(1)\t Financial Services include enterprises in Financial Services and Insurance.\n(2)\t Retail includes enterprises in Retail, Consumer Packaged Goods and Logistics.\n(3)\t Communication includes enterprises in Communication, Telecom OEM and Media.",
+      "are as set out in the accounting policies.\nBusiness segments of the Group are primarily enterprises in \nFinancial Services and Insurance, enterprises in Manufacturing, \nenterprises in Retail, Consumer Packaged Goods and Logistics, \nenterprises in the Energy, Utilities, Resources and Services, \nenterprises in Communication, Telecom OEM and Media, \nenterprises in Hi-Tech, enterprises in Life Sciences and Healthcare \nand all other segments. The Financial services reportable \nsegments has been aggregated to include the Financial Services \noperating segment and Finacle operating segment because \nof the similarity of the economic characteristics. All other \nsegments represent the operating segments of businesses \nin India, Japan, China, Infosys Public Services and other \nenterprises in Public Services.\nRevenue and identifiable operating expenses in relation to \nsegments are categorized based on items that are individually \nidentifiable to that segment. Revenue for 'all other segments'",
+      "Infosys Integrated Annual Report 2024-25\n373\nBusiness segments\nYear ended March 31, 2025 and March 31, 2024:\n(In ₹ crore)\nParticulars\nFinancial \nServices (1)\nRetail (2)\nCommunication(3)\nEnergy, \nUtilities, \nResources \nand \nServices\nManufacturing\nHi-Tech\nLife \nSciences(4)\nAll other \nsegments(5)\nTotal\nRevenue from \noperations\n 45,175 \n22,059 \n 19,108 \n 21,710 \n 25,207 \n13,090 \n 11,831 \n 4,810 \n1,62,990 \n \n 42,158 \n 22,504 \n 17,991 \n 20,035 \n 22,298 \n 12,411 \n 11,515 \n 4,758 \n 1,53,670 \nIdentifiable \noperating \nexpenses\n 25,871 \n 10,931 \n 12,420 \n 11,882 \n 16,167 \n 7,592 \n 7,166 \n 2,986 \n 95,015 \n \n 24,782 \n 11,704 \n 11,071 \n 10,838 \n 14,596 \n 7,232 \n 6,716 \n 2,938 \n 89,877 \nAllocated \nexpenses\n 8,205 \n 3,995 \n 3,347 \n 3,731 \n 4,184 \n 2,278 \n 2,002 \n 997 \n 28,739 \n \n 8,052 \n 3,918 \n 3,232 \n 3,674 \n 3,505 \n 2,026 \n 1,901 \n 1,060 \n 27,368 \nSegment \noperating \nincome\n 11,099 \n 7,133 \n 3,341 \n 6,097 \n 4,856 \n 3,220 \n 2,663 \n 827 \n 39,236 \n \n 9,324 \n 6,882 \n 3,688 \n 5,523 \n 4,197 \n 3,153",
+      "Infosys Integrated Annual Report 2024-25\n60\nBased on consolidated financial statements\n(1)\t FS – Includes enterprises in Financial Services and Insurance\n(2)\t Retail – Includes enterprises in Retail, Consumer Packaged Goods and Logistics\n(3)\t COM – Includes enterprises in Communication, Telecom OEM and Media\n(4)\t EURS – Includes enterprises in Energy, Utilities, Resources and Services\n(5)\t MFG – Includes enterprises in Manufacturing\n(6)\t Hi-Tech – Includes enterprises in Hi-Tech\n(7)\t LS – Includes enterprises in Life Sciences and Healthcare\n(8)\t Others – Includes segments of businesses in India, Japan, China, Infosys Public Services and other enterprises in public services\nRevenue distribution by geographical segments (in %)\nRevenue distribution by business segments (in %)\nFS (1)\nRetail (2)\nCOM (3)\nEURS (4)\nMFG (5)\nHi-Tech (6)\nLS (7)\nOthers (8)\n2025\n2024\n3.1\n3.0\n7.5\n7.3\n8.1\n8.0\n14.5 15.5\n13.0 13.3\n11.7 11.7\n14.7 13.5\n27.4 27.7\nNorth America\nEurope\nRest of the World\nIndia\n2.5\n3.1\n9.8"
+    ],
+    "retrieved_chunk_count": 27,
+    "final_context_chunk_count": 5,
+    "source_page_hit": true,
+    "answered": true
+  },
+  {
+    "id": "business_segments_005",
+    "question": "What does the EURS segment include?",
+    "category": "business_segments",
+    "difficulty": "easy",
+    "expected_answer": "The EURS segment includes enterprises in Energy, Utilities, Resources and Services.",
+    "expected_source_pages": [
+      32
+    ],
+    "actual_answer": "The EURS segment includes enterprises in Energy, Utilities, Resources and Services (Source: Page 32.0, infosys-ar-25_page_32_chunk_0).",
+    "actual_source_pages": [
+      32.0,
+      345.0,
+      345.0,
+      46.0,
+      344.0
+    ],
+    "actual_sources": [
+      {
+        "source_number": 1,
+        "page_number": 32.0,
+        "chunk_id": "infosys-ar-25_page_32_chunk_0"
+      },
+      {
+        "source_number": 2,
+        "page_number": 345.0,
+        "chunk_id": "infosys-ar-25_page_345_chunk_2"
+      },
+      {
+        "source_number": 3,
+        "page_number": 345.0,
+        "chunk_id": "infosys-ar-25_page_345_chunk_1"
+      },
+      {
+        "source_number": 4,
+        "page_number": 46.0,
+        "chunk_id": "infosys-ar-25_page_46_chunk_1"
+      },
+      {
+        "source_number": 5,
+        "page_number": 344.0,
+        "chunk_id": "infosys-ar-25_page_344_chunk_1"
+      }
+    ],
+    "contexts": [
+      "Infosys Integrated Annual Report 2024-25\n60\nBased on consolidated financial statements\n(1)\t FS – Includes enterprises in Financial Services and Insurance\n(2)\t Retail – Includes enterprises in Retail, Consumer Packaged Goods and Logistics\n(3)\t COM – Includes enterprises in Communication, Telecom OEM and Media\n(4)\t EURS – Includes enterprises in Energy, Utilities, Resources and Services\n(5)\t MFG – Includes enterprises in Manufacturing\n(6)\t Hi-Tech – Includes enterprises in Hi-Tech\n(7)\t LS – Includes enterprises in Life Sciences and Healthcare\n(8)\t Others – Includes segments of businesses in India, Japan, China, Infosys Public Services and other enterprises in public services\nRevenue distribution by geographical segments (in %)\nRevenue distribution by business segments (in %)\nFS (1)\nRetail (2)\nCOM (3)\nEURS (4)\nMFG (5)\nHi-Tech (6)\nLS (7)\nOthers (8)\n2025\n2024\n3.1\n3.0\n7.5\n7.3\n8.1\n8.0\n14.5 15.5\n13.0 13.3\n11.7 11.7\n14.7 13.5\n27.4 27.7\nNorth America\nEurope\nRest of the World\nIndia\n2.5\n3.1\n9.8",
+      "(3)\t Communication includes enterprises in Communication, Telecom OEM and Media.\n(4)\t Life Sciences includes enterprises in Life sciences and Healthcare.\n(5)\t Others include operating segments of businesses in India, Japan, China, Infosys Public Services and other enterprises in Public Services.\nSignificant clients\nNo client individually accounted for more than 10% of the revenues for the year ended March 31, 2025 and March 31, 2024, respectively.",
+      "Segment \noperating \nincome\n 11,099 \n 7,133 \n 3,341 \n 6,097 \n 4,856 \n 3,220 \n 2,663 \n 827 \n 39,236 \n \n 9,324 \n 6,882 \n 3,688 \n 5,523 \n 4,197 \n 3,153 \n 2,898 \n 760 \n 36,425 \nUnallocable \nexpenses\n \n \n \n \n \n \n \n \n 4,812 \n \n \n \n \n \n \n \n \n \n 4,678 \nOther income, net \n \n \n \n \n \n 3,600 \n \n \n \n \n \n \n \n \n \n 4,711 \nFinance cost\n \n \n \n \n \n \n \n \n 416 \n \n \n \n \n \n \n \n \n \n 470 \nProfit before tax\n \n \n \n \n \n 37,608 \n \n \n \n \n \n \n \n \n \n 35,988 \nIncome tax expense\n \n \n \n \n \n \n \n 10,858 \n \n \n \n \n \n \n \n \n \n 9,740 \nNet profit\n \n \n \n \n \n \n \n \n 26,750 \n \n \n \n \n \n \n \n \n \n 26,248 \nDepreciation and amortization expense \n \n \n \n \n \n 4,812 \n \n \n \n \n \n \n \n \n \n 4,678 \nNon-cash expenses other than depreciation and amortization \n \n \n \n \n– \n \n \n \n \n \n \n \n \n \n– \n(1)\t Financial Services include enterprises in Financial Services and Insurance.\n(2)\t Retail includes enterprises in Retail, Consumer Packaged Goods and Logistics.\n(3)\t Communication includes enterprises in Communication, Telecom OEM and Media.",
+      "A/S(16)\nNorway\nDec 31, \n2024\nNA\n1 NOK = \n₹7.57\n–\n58 \n73 \n15 \n–\n63 \n13 \n3 \n10 \n100 \n49\nInfosys Limited \nBulgaria \nEOOD(2)\nBulgaria\nDec 31, \n2024\nNA\n1 BGN = \n₹45.47\n2 \n9 \n21 \n10 \n–\n75 \n6 \n1 \n5 \n100 \n50\nInfosys \nConsulting \n(Belgium) NV(4)\nBelgium\nDec 31, \n2024\nNA\n1 EUR = \n₹89.2\n3 \n(5)\n30 \n32 \n–\n58 \n2 \n–\n2 \n100 \n51\nFluido \nDenmark  \nA/S(16)\nDenmark\nDec 31, \n2024\nNA\n1 DKK = \n₹11.96\n3 \n(9)\n101 \n107 \n–\n129 \n9 \n2 \n7 \n100 \n52\nInfosys \nBusiness \nSolutions LLC(2)\nQatar\nDec 31, \n2024\nFeb 20, \n2022\n1 QAR = \n₹ 23.49\n8 \n36 \n50 \n6 \n–\n41 \n17 \n2 \n15 \n100 \n53\nInfosys Green \nForum(2)\nIndia\nMar 31, \n2025\nNA\nINR\n1 \n304\n341 \n36 \n11 \n44 \n6 \n–\n6 \n100 \n54\nBASE life \nscience \nGmbH(17)\nGermany\nJun 30, \n2024\nSep 1, \n2022\n1 EUR = \n₹89.31\n–\n(1)\n24 \n25 \n–\n28 \n(2)\n–\n(2)\n100 \n55\nBASE life \nscience S.L.(17)\nSpain\nJun 30, \n2024\nNA\n1 EUR = \n₹89.31\n–\n11 \n43 \n32 \n–\n56 \n11 \n3 \n8 \n100 \n56\nInfosys \nConsulting \nS.R.L.(2)\nArgentina\nDec 31, \n2024\nNA\n1 ARS = \n₹0.08\n50\n(54)\n57 \n61 \n–\n41 \n(20)\n11 \n(31)\n100 \n57\nBASE life",
+      "are as set out in the accounting policies.\nBusiness segments of the Group are primarily enterprises in \nFinancial Services and Insurance, enterprises in Manufacturing, \nenterprises in Retail, Consumer Packaged Goods and Logistics, \nenterprises in the Energy, Utilities, Resources and Services, \nenterprises in Communication, Telecom OEM and Media, \nenterprises in Hi-Tech, enterprises in Life Sciences and Healthcare \nand all other segments. The Financial services reportable \nsegments has been aggregated to include the Financial Services \noperating segment and Finacle operating segment because \nof the similarity of the economic characteristics. All other \nsegments represent the operating segments of businesses \nin India, Japan, China, Infosys Public Services and other \nenterprises in Public Services.\nRevenue and identifiable operating expenses in relation to \nsegments are categorized based on items that are individually \nidentifiable to that segment. Revenue for 'all other segments'"
+    ],
+    "retrieved_chunk_count": 52,
+    "final_context_chunk_count": 5,
+    "source_page_hit": true,
+    "answered": true
+  },
+  {
+    "id": "business_segments_006",
+    "question": "What does the Life Sciences segment include?",
+    "category": "business_segments",
+    "difficulty": "easy",
+    "expected_answer": "The Life Sciences segment includes enterprises in Life Sciences and Healthcare.",
+    "expected_source_pages": [
+      32,
+      345
+    ],
+    "actual_answer": "The Life Sciences segment includes enterprises in Life Sciences and Healthcare (Source: Page 345, infosys-ar-25_page_345_chunk_2).",
+    "actual_source_pages": [
+      345.0,
+      344.0,
+      345.0,
+      32.0,
+      74.0
+    ],
+    "actual_sources": [
+      {
+        "source_number": 1,
+        "page_number": 345.0,
+        "chunk_id": "infosys-ar-25_page_345_chunk_2"
+      },
+      {
+        "source_number": 2,
+        "page_number": 344.0,
+        "chunk_id": "infosys-ar-25_page_344_chunk_1"
+      },
+      {
+        "source_number": 3,
+        "page_number": 345.0,
+        "chunk_id": "infosys-ar-25_page_345_chunk_0"
+      },
+      {
+        "source_number": 4,
+        "page_number": 32.0,
+        "chunk_id": "infosys-ar-25_page_32_chunk_0"
+      },
+      {
+        "source_number": 5,
+        "page_number": 74.0,
+        "chunk_id": "infosys-ar-25_page_74_chunk_5"
+      }
+    ],
+    "contexts": [
+      "(3)\t Communication includes enterprises in Communication, Telecom OEM and Media.\n(4)\t Life Sciences includes enterprises in Life sciences and Healthcare.\n(5)\t Others include operating segments of businesses in India, Japan, China, Infosys Public Services and other enterprises in Public Services.\nSignificant clients\nNo client individually accounted for more than 10% of the revenues for the year ended March 31, 2025 and March 31, 2024, respectively.",
+      "are as set out in the accounting policies.\nBusiness segments of the Group are primarily enterprises in \nFinancial Services and Insurance, enterprises in Manufacturing, \nenterprises in Retail, Consumer Packaged Goods and Logistics, \nenterprises in the Energy, Utilities, Resources and Services, \nenterprises in Communication, Telecom OEM and Media, \nenterprises in Hi-Tech, enterprises in Life Sciences and Healthcare \nand all other segments. The Financial services reportable \nsegments has been aggregated to include the Financial Services \noperating segment and Finacle operating segment because \nof the similarity of the economic characteristics. All other \nsegments represent the operating segments of businesses \nin India, Japan, China, Infosys Public Services and other \nenterprises in Public Services.\nRevenue and identifiable operating expenses in relation to \nsegments are categorized based on items that are individually \nidentifiable to that segment. Revenue for 'all other segments'",
+      "Infosys Integrated Annual Report 2024-25\n373\nBusiness segments\nYear ended March 31, 2025 and March 31, 2024:\n(In ₹ crore)\nParticulars\nFinancial \nServices (1)\nRetail (2)\nCommunication(3)\nEnergy, \nUtilities, \nResources \nand \nServices\nManufacturing\nHi-Tech\nLife \nSciences(4)\nAll other \nsegments(5)\nTotal\nRevenue from \noperations\n 45,175 \n22,059 \n 19,108 \n 21,710 \n 25,207 \n13,090 \n 11,831 \n 4,810 \n1,62,990 \n \n 42,158 \n 22,504 \n 17,991 \n 20,035 \n 22,298 \n 12,411 \n 11,515 \n 4,758 \n 1,53,670 \nIdentifiable \noperating \nexpenses\n 25,871 \n 10,931 \n 12,420 \n 11,882 \n 16,167 \n 7,592 \n 7,166 \n 2,986 \n 95,015 \n \n 24,782 \n 11,704 \n 11,071 \n 10,838 \n 14,596 \n 7,232 \n 6,716 \n 2,938 \n 89,877 \nAllocated \nexpenses\n 8,205 \n 3,995 \n 3,347 \n 3,731 \n 4,184 \n 2,278 \n 2,002 \n 997 \n 28,739 \n \n 8,052 \n 3,918 \n 3,232 \n 3,674 \n 3,505 \n 2,026 \n 1,901 \n 1,060 \n 27,368 \nSegment \noperating \nincome\n 11,099 \n 7,133 \n 3,341 \n 6,097 \n 4,856 \n 3,220 \n 2,663 \n 827 \n 39,236 \n \n 9,324 \n 6,882 \n 3,688 \n 5,523 \n 4,197 \n 3,153",
+      "Infosys Integrated Annual Report 2024-25\n60\nBased on consolidated financial statements\n(1)\t FS – Includes enterprises in Financial Services and Insurance\n(2)\t Retail – Includes enterprises in Retail, Consumer Packaged Goods and Logistics\n(3)\t COM – Includes enterprises in Communication, Telecom OEM and Media\n(4)\t EURS – Includes enterprises in Energy, Utilities, Resources and Services\n(5)\t MFG – Includes enterprises in Manufacturing\n(6)\t Hi-Tech – Includes enterprises in Hi-Tech\n(7)\t LS – Includes enterprises in Life Sciences and Healthcare\n(8)\t Others – Includes segments of businesses in India, Japan, China, Infosys Public Services and other enterprises in public services\nRevenue distribution by geographical segments (in %)\nRevenue distribution by business segments (in %)\nFS (1)\nRetail (2)\nCOM (3)\nEURS (4)\nMFG (5)\nHi-Tech (6)\nLS (7)\nOthers (8)\n2025\n2024\n3.1\n3.0\n7.5\n7.3\n8.1\n8.0\n14.5 15.5\n13.0 13.3\n11.7 11.7\n14.7 13.5\n27.4 27.7\nNorth America\nEurope\nRest of the World\nIndia\n2.5\n3.1\n9.8",
+      "years, 2007-08 to 2015-16, 2017-18 and 2018-19. These orders \nconfirmed the Company's position with respect to tax treatment \nof certain contentious matters. As a result interest income \n(pretax) of ₹1,933 crore was recognised and provision for income \ntax aggregating ₹525 crore was reversed with a corresponding \ncredit to the Statement of Profit and Loss. Also, upon resolution \nof the disputes, an amount aggregating to ₹1,628 crore has been \nreduced from contingent liabilities.\n5.\t Segmental profitability\nThe Company’s operations predominantly relate to providing \nend-to-end business solutions to enable clients to enhance \nperformance of their business. Business segments of the \nCompany are primarily enterprises in Financial Services \nand Insurance; Manufacturing; Retail, Consumer Packaged \nGoods and Logistics; Energy, Utilities, Resources and Services; \nCommunication, Telecom OEM and Media; Hi‑Tech; Life Sciences \nand Healthcare; and all other segments. All other segments"
+    ],
+    "retrieved_chunk_count": 41,
+    "final_context_chunk_count": 5,
+    "source_page_hit": true,
+    "answered": true
+  },
+  {
+    "id": "business_segments_007",
+    "question": "What does Infosys classify as 'all other segments'?",
+    "category": "business_segments",
+    "difficulty": "medium",
+    "expected_answer": "All other segments include segments of businesses in India, Japan, China, Infosys Public Services and other enterprises in public services.",
+    "expected_source_pages": [
+      32,
+      344,
+      345
+    ],
+    "actual_answer": "'All other segments' represent the operating segments of businesses in India, Japan, China, Infosys Public Services, and other enterprises in public services (Source: Page 74, infosys-ar-25_page_74_chunk_6).",
+    "actual_source_pages": [
+      344.0,
+      74.0,
+      344.0,
+      345.0,
+      75.0
+    ],
+    "actual_sources": [
+      {
+        "source_number": 1,
+        "page_number": 344.0,
+        "chunk_id": "infosys-ar-25_page_344_chunk_2"
+      },
+      {
+        "source_number": 2,
+        "page_number": 74.0,
+        "chunk_id": "infosys-ar-25_page_74_chunk_6"
+      },
+      {
+        "source_number": 3,
+        "page_number": 344.0,
+        "chunk_id": "infosys-ar-25_page_344_chunk_1"
+      },
+      {
+        "source_number": 4,
+        "page_number": 345.0,
+        "chunk_id": "infosys-ar-25_page_345_chunk_0"
+      },
+      {
+        "source_number": 5,
+        "page_number": 75.0,
+        "chunk_id": "infosys-ar-25_page_75_chunk_0"
+      }
+    ],
+    "contexts": [
+      "segments are categorized based on items that are individually \nidentifiable to that segment. Revenue for 'all other segments' \nrepresents revenue generated by Infosys Public services and \nrevenue generated from customers located in India, Japan \nand China and other enterprises in Public services. Allocated \nexpenses of segments include expenses incurred for rendering \nservices from the Group's offshore software development \ncenters and on-site expenses, which are categorized in \nrelation to the associated efforts of the segment. Certain \nexpenses such as depreciation and amortization, which form \na significant component of total expenses, are not specifically \nallocable to specific segments as the underlying assets are \nused interchangeably. \nThe Management believes that it is not practical to provide \nsegment disclosures relating to those costs and expenses, \nand accordingly these expenses are separately disclosed as \n\"unallocated\" and adjusted against the total income of the Group.",
+      "Communication, Telecom OEM and Media; Hi‑Tech; Life Sciences \nand Healthcare; and all other segments. All other segments \nrepresent the operating segments of businesses in India, \nJapan, China, Infosys Public Services and other enterprises in \npublic services. This is discussed in detail in Note 2.26 to the \nConsolidated financial statement in this Integrated Annual Report.",
+      "are as set out in the accounting policies.\nBusiness segments of the Group are primarily enterprises in \nFinancial Services and Insurance, enterprises in Manufacturing, \nenterprises in Retail, Consumer Packaged Goods and Logistics, \nenterprises in the Energy, Utilities, Resources and Services, \nenterprises in Communication, Telecom OEM and Media, \nenterprises in Hi-Tech, enterprises in Life Sciences and Healthcare \nand all other segments. The Financial services reportable \nsegments has been aggregated to include the Financial Services \noperating segment and Finacle operating segment because \nof the similarity of the economic characteristics. All other \nsegments represent the operating segments of businesses \nin India, Japan, China, Infosys Public Services and other \nenterprises in Public Services.\nRevenue and identifiable operating expenses in relation to \nsegments are categorized based on items that are individually \nidentifiable to that segment. Revenue for 'all other segments'",
+      "Infosys Integrated Annual Report 2024-25\n373\nBusiness segments\nYear ended March 31, 2025 and March 31, 2024:\n(In ₹ crore)\nParticulars\nFinancial \nServices (1)\nRetail (2)\nCommunication(3)\nEnergy, \nUtilities, \nResources \nand \nServices\nManufacturing\nHi-Tech\nLife \nSciences(4)\nAll other \nsegments(5)\nTotal\nRevenue from \noperations\n 45,175 \n22,059 \n 19,108 \n 21,710 \n 25,207 \n13,090 \n 11,831 \n 4,810 \n1,62,990 \n \n 42,158 \n 22,504 \n 17,991 \n 20,035 \n 22,298 \n 12,411 \n 11,515 \n 4,758 \n 1,53,670 \nIdentifiable \noperating \nexpenses\n 25,871 \n 10,931 \n 12,420 \n 11,882 \n 16,167 \n 7,592 \n 7,166 \n 2,986 \n 95,015 \n \n 24,782 \n 11,704 \n 11,071 \n 10,838 \n 14,596 \n 7,232 \n 6,716 \n 2,938 \n 89,877 \nAllocated \nexpenses\n 8,205 \n 3,995 \n 3,347 \n 3,731 \n 4,184 \n 2,278 \n 2,002 \n 997 \n 28,739 \n \n 8,052 \n 3,918 \n 3,232 \n 3,674 \n 3,505 \n 2,026 \n 1,901 \n 1,060 \n 27,368 \nSegment \noperating \nincome\n 11,099 \n 7,133 \n 3,341 \n 6,097 \n 4,856 \n 3,220 \n 2,663 \n 827 \n 39,236 \n \n 9,324 \n 6,882 \n 3,688 \n 5,523 \n 4,197 \n 3,153",
+      "Infosys Integrated Annual Report 2024-25\n103\nBusiness segments – Consolidated\n(In ₹ crore)\nParticulars\nFinancial \nServices\nRetail Communication\nEnergy, Utilities, \nResources and \nServices\nManufacturing\nHi-Tech\nLife \nSciences\nAll other \nsegments\nTotal\nSegmental revenues\n2025\n45,175\n22,059\n19,108\n21,710\n25,207\n13,090\n11,831\n4,810\n1,62,990\n2024\n42,158\n22,504\n17,991\n20,035\n22,298\n12,411\n11,515\n4,758\n1,53,670\nGrowth (%)\n7.2\n(2.0)\n6.2\n8.4\n13.0\n5.5\n2.7\n1.1\n6.1\nSegmental operating income\n2025\n11,099\n7,133\n3,341\n6,097\n4,856\n3,220\n2,663\n827\n39,236\n2024\n9,324\n6,882\n3,688\n5,523\n4,197\n3,153\n2,898\n760\n36,425\nGrowth (%)\n19.0\n3.6\n(9.4)\n10.4\n15.7\n2.1\n(8.1)\n8.8\n7.7\nSegmental operating margin (%) \n2025\n24.6\n32.3\n17.5\n28.1\n19.3\n24.6\n22.5\n17.2\n24.1\n2024\n22.1\n30.6\n20.5\n27.6\n18.8\n25.4\n25.2\n16.0\n23.7\nThe following graph sets forth our revenue by geography:\n(In ₹ crore)\n(60.1%)\n(9.8%)\n(27.6%)\n(2.5%)\n % growth - 2025\n North America – 2.1%\n Europe – 15.0%\n India – 29.2%\n Rest of the World – (0.8%)"
+    ],
+    "retrieved_chunk_count": 33,
+    "final_context_chunk_count": 5,
+    "source_page_hit": true,
+    "answered": true
+  },
+  {
+    "id": "business_segments_008",
+    "question": "Which business segment had the highest revenue from operations in 2025?",
+    "category": "business_segments",
+    "difficulty": "medium",
+    "expected_answer": "Financial Services had the highest segment revenue from operations in 2025 at ₹45,175 crore.",
+    "expected_source_pages": [
+      345
+    ],
+    "actual_answer": "The business segment with the highest revenue from operations in 2025 was Financial Services, with revenue of ₹45,175 crore (Source: Page 345, infosys-ar-25_page_345_chunk_0).",
+    "actual_source_pages": [
+      75.0,
+      345.0,
+      321.0,
+      345.0,
+      242.0
+    ],
+    "actual_sources": [
+      {
+        "source_number": 1,
+        "page_number": 75.0,
+        "chunk_id": "infosys-ar-25_page_75_chunk_0"
+      },
+      {
+        "source_number": 2,
+        "page_number": 345.0,
+        "chunk_id": "infosys-ar-25_page_345_chunk_0"
+      },
+      {
+        "source_number": 3,
+        "page_number": 321.0,
+        "chunk_id": "infosys-ar-25_page_321_chunk_6"
+      },
+      {
+        "source_number": 4,
+        "page_number": 345.0,
+        "chunk_id": "infosys-ar-25_page_345_chunk_2"
+      },
+      {
+        "source_number": 5,
+        "page_number": 242.0,
+        "chunk_id": "infosys-ar-25_page_242_chunk_1"
+      }
+    ],
+    "contexts": [
+      "Infosys Integrated Annual Report 2024-25\n103\nBusiness segments – Consolidated\n(In ₹ crore)\nParticulars\nFinancial \nServices\nRetail Communication\nEnergy, Utilities, \nResources and \nServices\nManufacturing\nHi-Tech\nLife \nSciences\nAll other \nsegments\nTotal\nSegmental revenues\n2025\n45,175\n22,059\n19,108\n21,710\n25,207\n13,090\n11,831\n4,810\n1,62,990\n2024\n42,158\n22,504\n17,991\n20,035\n22,298\n12,411\n11,515\n4,758\n1,53,670\nGrowth (%)\n7.2\n(2.0)\n6.2\n8.4\n13.0\n5.5\n2.7\n1.1\n6.1\nSegmental operating income\n2025\n11,099\n7,133\n3,341\n6,097\n4,856\n3,220\n2,663\n827\n39,236\n2024\n9,324\n6,882\n3,688\n5,523\n4,197\n3,153\n2,898\n760\n36,425\nGrowth (%)\n19.0\n3.6\n(9.4)\n10.4\n15.7\n2.1\n(8.1)\n8.8\n7.7\nSegmental operating margin (%) \n2025\n24.6\n32.3\n17.5\n28.1\n19.3\n24.6\n22.5\n17.2\n24.1\n2024\n22.1\n30.6\n20.5\n27.6\n18.8\n25.4\n25.2\n16.0\n23.7\nThe following graph sets forth our revenue by geography:\n(In ₹ crore)\n(60.1%)\n(9.8%)\n(27.6%)\n(2.5%)\n % growth - 2025\n North America – 2.1%\n Europe – 15.0%\n India – 29.2%\n Rest of the World – (0.8%)",
+      "Infosys Integrated Annual Report 2024-25\n373\nBusiness segments\nYear ended March 31, 2025 and March 31, 2024:\n(In ₹ crore)\nParticulars\nFinancial \nServices (1)\nRetail (2)\nCommunication(3)\nEnergy, \nUtilities, \nResources \nand \nServices\nManufacturing\nHi-Tech\nLife \nSciences(4)\nAll other \nsegments(5)\nTotal\nRevenue from \noperations\n 45,175 \n22,059 \n 19,108 \n 21,710 \n 25,207 \n13,090 \n 11,831 \n 4,810 \n1,62,990 \n \n 42,158 \n 22,504 \n 17,991 \n 20,035 \n 22,298 \n 12,411 \n 11,515 \n 4,758 \n 1,53,670 \nIdentifiable \noperating \nexpenses\n 25,871 \n 10,931 \n 12,420 \n 11,882 \n 16,167 \n 7,592 \n 7,166 \n 2,986 \n 95,015 \n \n 24,782 \n 11,704 \n 11,071 \n 10,838 \n 14,596 \n 7,232 \n 6,716 \n 2,938 \n 89,877 \nAllocated \nexpenses\n 8,205 \n 3,995 \n 3,347 \n 3,731 \n 4,184 \n 2,278 \n 2,002 \n 997 \n 28,739 \n \n 8,052 \n 3,918 \n 3,232 \n 3,674 \n 3,505 \n 2,026 \n 1,901 \n 1,060 \n 27,368 \nSegment \noperating \nincome\n 11,099 \n 7,133 \n 3,341 \n 6,097 \n 4,856 \n 3,220 \n 2,663 \n 827 \n 39,236 \n \n 9,324 \n 6,882 \n 3,688 \n 5,523 \n 4,197 \n 3,153",
+      "are monitored regularly for impairment. Impairment losses are \nrecorded when present value of projected remaining operating \ncash flows is not sufficient to recover the carrying amount of \nthe capitalized costs.\nThe Group presents revenues net of indirect taxes in its \nConsolidated Statement of Profit and Loss.\nRevenue from operations for the year ended March 31, 2025 and \nMarch 31, 2024 is as follows:\n(In ₹ crore)\nParticulars\nYear ended March 31,\n2025\n2024\nRevenue from software services\n 1,55,395 \n 1,45,285 \nRevenue from products and platforms\n 7,595 \n 8,385 \nTotal revenue from operations\n 1,62,990 \n 1,53,670 \nProducts and platforms\nThe Group also derives revenues from the sale of products and \nplatforms like Finacle – core banking solution, Edge Suite of \nproducts, Panaya platform, Stater digital platform and Infosys \nMcCamish – insurance platform.\nDisaggregated revenue information\nRevenue disaggregation by business segments has been",
+      "(3)\t Communication includes enterprises in Communication, Telecom OEM and Media.\n(4)\t Life Sciences includes enterprises in Life sciences and Healthcare.\n(5)\t Others include operating segments of businesses in India, Japan, China, Infosys Public Services and other enterprises in Public Services.\nSignificant clients\nNo client individually accounted for more than 10% of the revenues for the year ended March 31, 2025 and March 31, 2024, respectively.",
+      "are amortized to expenses over the respective contract life \non a systematic basis consistent with the transfer of goods or \nservices to customer to which the asset relates. Capitalized costs \nare monitored regularly for impairment. Impairment losses are \nrecorded when present value of projected remaining operating \ncash flows is not sufficient to recover the carrying amount of \nthe capitalized costs.\nThe Company presents revenues net of indirect taxes in its \nStatement of Profit and Loss.\nRevenue from operations for the year ended March 31, 2025 and \nMarch 31, 2024 is as follows:\n(In ₹ crore)\nParticulars\nYear ended March 31,\n2025\n2024\nRevenue from software services\n 135,525 \n 128,637 \nRevenue from products and \nplatforms\n 1,067 \n 296 \nTotal revenue from operations\n 136,592 \n 128,933 \nProducts & platforms\nThe Company derives revenues from the sale of products and \nplatforms including Infosys Applied AI which applies next-\ngeneration AI and machine learning."
+    ],
+    "retrieved_chunk_count": 25,
+    "final_context_chunk_count": 5,
+    "source_page_hit": true,
+    "answered": true
+  },
+  {
+    "id": "business_segments_009",
+    "question": "What was Manufacturing revenue from operations in 2025?",
+    "category": "business_segments",
+    "difficulty": "medium",
+    "expected_answer": "Manufacturing revenue from operations in 2025 was ₹25,207 crore.",
+    "expected_source_pages": [
+      345
+    ],
+    "actual_answer": "The Manufacturing revenue from operations in 2025 was ₹25,207 crore (Source: Page 345, infosys-ar-25_page_345_chunk_0).",
+    "actual_source_pages": [
+      73.0,
+      242.0,
+      73.0,
+      321.0,
+      345.0
+    ],
+    "actual_sources": [
+      {
+        "source_number": 1,
+        "page_number": 73.0,
+        "chunk_id": "infosys-ar-25_page_73_chunk_3"
+      },
+      {
+        "source_number": 2,
+        "page_number": 242.0,
+        "chunk_id": "infosys-ar-25_page_242_chunk_1"
+      },
+      {
+        "source_number": 3,
+        "page_number": 73.0,
+        "chunk_id": "infosys-ar-25_page_73_chunk_2"
+      },
+      {
+        "source_number": 4,
+        "page_number": 321.0,
+        "chunk_id": "infosys-ar-25_page_321_chunk_6"
+      },
+      {
+        "source_number": 5,
+        "page_number": 345.0,
+        "chunk_id": "infosys-ar-25_page_345_chunk_0"
+      }
+    ],
+    "contexts": [
+      "(In ₹ crore)\nParticulars\nStandalone\nConsolidated\n2025\n2024\n% change\n2025\n2024\n% change\nRevenue\n1,36,592\n1,28,933\n5.9\n1,62,990\n1,53,670\n6.1 \nThe increase in revenue was primarily attributable to an increase \nin realization on account of Value-Based Selling, productivity \nbenefit from Lean and Automation, currency, acquisition and \nrevenue mix partially offset by decline in volume.\nRevenue growth in reported terms includes the impact of \ncurrency fluctuations. We, therefore, additionally report the \nrevenue growth in constant currency terms, which represents \nthe real growth in revenue, excluding the impact of currency \nfluctuations. We calculate constant currency growth by \ncomparing current-period revenues in respective local currencies \nconverted to USD using prior-period exchange rates and \ncomparing the same to our prior-period reported revenues. Our \nrevenues in reported currency terms for fiscal 2025 is ₹1,62,990 \ncrore, a growth of 6.1%. Our revenues for fiscal 2025 in constant",
+      "are amortized to expenses over the respective contract life \non a systematic basis consistent with the transfer of goods or \nservices to customer to which the asset relates. Capitalized costs \nare monitored regularly for impairment. Impairment losses are \nrecorded when present value of projected remaining operating \ncash flows is not sufficient to recover the carrying amount of \nthe capitalized costs.\nThe Company presents revenues net of indirect taxes in its \nStatement of Profit and Loss.\nRevenue from operations for the year ended March 31, 2025 and \nMarch 31, 2024 is as follows:\n(In ₹ crore)\nParticulars\nYear ended March 31,\n2025\n2024\nRevenue from software services\n 135,525 \n 128,637 \nRevenue from products and \nplatforms\n 1,067 \n 296 \nTotal revenue from operations\n 136,592 \n 128,933 \nProducts & platforms\nThe Company derives revenues from the sale of products and \nplatforms including Infosys Applied AI which applies next-\ngeneration AI and machine learning.",
+      "For details about results of our operations, refer to 'Results of our operations and state of affairs' section in the Board's report.\nDuring fiscal 2025, the Company continued running Project Maximus, a comprehensive margin expansion program structured across \nfive pillars – Value-Based Selling; Efficient Pyramid; Lean and Automation; Improving Critical Portfolios, and Reducing Indirect Costs. \nValue-Based Selling is a focused strategy to identify opportunities to align pricing to the value that clients received for the services. Lean \nand Automation is a strategic initiative to combine productivity and process improvement using automation technologies including \ngenerative AI to enhance efficiency.\n1.\t Revenue\nThe growth in our revenues in fiscal 2025 from fiscal 2024 is as follows: \n(In ₹ crore)\nParticulars\nStandalone\nConsolidated\n2025\n2024\n% change\n2025\n2024\n% change\nRevenue\n1,36,592\n1,28,933\n5.9\n1,62,990\n1,53,670\n6.1",
+      "are monitored regularly for impairment. Impairment losses are \nrecorded when present value of projected remaining operating \ncash flows is not sufficient to recover the carrying amount of \nthe capitalized costs.\nThe Group presents revenues net of indirect taxes in its \nConsolidated Statement of Profit and Loss.\nRevenue from operations for the year ended March 31, 2025 and \nMarch 31, 2024 is as follows:\n(In ₹ crore)\nParticulars\nYear ended March 31,\n2025\n2024\nRevenue from software services\n 1,55,395 \n 1,45,285 \nRevenue from products and platforms\n 7,595 \n 8,385 \nTotal revenue from operations\n 1,62,990 \n 1,53,670 \nProducts and platforms\nThe Group also derives revenues from the sale of products and \nplatforms like Finacle – core banking solution, Edge Suite of \nproducts, Panaya platform, Stater digital platform and Infosys \nMcCamish – insurance platform.\nDisaggregated revenue information\nRevenue disaggregation by business segments has been",
+      "Infosys Integrated Annual Report 2024-25\n373\nBusiness segments\nYear ended March 31, 2025 and March 31, 2024:\n(In ₹ crore)\nParticulars\nFinancial \nServices (1)\nRetail (2)\nCommunication(3)\nEnergy, \nUtilities, \nResources \nand \nServices\nManufacturing\nHi-Tech\nLife \nSciences(4)\nAll other \nsegments(5)\nTotal\nRevenue from \noperations\n 45,175 \n22,059 \n 19,108 \n 21,710 \n 25,207 \n13,090 \n 11,831 \n 4,810 \n1,62,990 \n \n 42,158 \n 22,504 \n 17,991 \n 20,035 \n 22,298 \n 12,411 \n 11,515 \n 4,758 \n 1,53,670 \nIdentifiable \noperating \nexpenses\n 25,871 \n 10,931 \n 12,420 \n 11,882 \n 16,167 \n 7,592 \n 7,166 \n 2,986 \n 95,015 \n \n 24,782 \n 11,704 \n 11,071 \n 10,838 \n 14,596 \n 7,232 \n 6,716 \n 2,938 \n 89,877 \nAllocated \nexpenses\n 8,205 \n 3,995 \n 3,347 \n 3,731 \n 4,184 \n 2,278 \n 2,002 \n 997 \n 28,739 \n \n 8,052 \n 3,918 \n 3,232 \n 3,674 \n 3,505 \n 2,026 \n 1,901 \n 1,060 \n 27,368 \nSegment \noperating \nincome\n 11,099 \n 7,133 \n 3,341 \n 6,097 \n 4,856 \n 3,220 \n 2,663 \n 827 \n 39,236 \n \n 9,324 \n 6,882 \n 3,688 \n 5,523 \n 4,197 \n 3,153"
+    ],
+    "retrieved_chunk_count": 28,
+    "final_context_chunk_count": 5,
+    "source_page_hit": true,
+    "answered": true
+  },
+  {
+    "id": "business_segments_010",
+    "question": "What was the total segmental revenue from operations in 2025?",
+    "category": "business_segments",
+    "difficulty": "easy",
+    "expected_answer": "Total segmental revenue from operations in 2025 was ₹1,62,990 crore.",
+    "expected_source_pages": [
+      345
+    ],
+    "actual_answer": "The total segmental revenue from operations in 2025 was ₹1,62,990 crore (Source: Page 75, infosys-ar-25_page_75_chunk_0).",
+    "actual_source_pages": [
+      75.0,
+      321.0,
+      345.0,
+      73.0,
+      242.0
+    ],
+    "actual_sources": [
+      {
+        "source_number": 1,
+        "page_number": 75.0,
+        "chunk_id": "infosys-ar-25_page_75_chunk_0"
+      },
+      {
+        "source_number": 2,
+        "page_number": 321.0,
+        "chunk_id": "infosys-ar-25_page_321_chunk_6"
+      },
+      {
+        "source_number": 3,
+        "page_number": 345.0,
+        "chunk_id": "infosys-ar-25_page_345_chunk_0"
+      },
+      {
+        "source_number": 4,
+        "page_number": 73.0,
+        "chunk_id": "infosys-ar-25_page_73_chunk_4"
+      },
+      {
+        "source_number": 5,
+        "page_number": 242.0,
+        "chunk_id": "infosys-ar-25_page_242_chunk_1"
+      }
+    ],
+    "contexts": [
+      "Infosys Integrated Annual Report 2024-25\n103\nBusiness segments – Consolidated\n(In ₹ crore)\nParticulars\nFinancial \nServices\nRetail Communication\nEnergy, Utilities, \nResources and \nServices\nManufacturing\nHi-Tech\nLife \nSciences\nAll other \nsegments\nTotal\nSegmental revenues\n2025\n45,175\n22,059\n19,108\n21,710\n25,207\n13,090\n11,831\n4,810\n1,62,990\n2024\n42,158\n22,504\n17,991\n20,035\n22,298\n12,411\n11,515\n4,758\n1,53,670\nGrowth (%)\n7.2\n(2.0)\n6.2\n8.4\n13.0\n5.5\n2.7\n1.1\n6.1\nSegmental operating income\n2025\n11,099\n7,133\n3,341\n6,097\n4,856\n3,220\n2,663\n827\n39,236\n2024\n9,324\n6,882\n3,688\n5,523\n4,197\n3,153\n2,898\n760\n36,425\nGrowth (%)\n19.0\n3.6\n(9.4)\n10.4\n15.7\n2.1\n(8.1)\n8.8\n7.7\nSegmental operating margin (%) \n2025\n24.6\n32.3\n17.5\n28.1\n19.3\n24.6\n22.5\n17.2\n24.1\n2024\n22.1\n30.6\n20.5\n27.6\n18.8\n25.4\n25.2\n16.0\n23.7\nThe following graph sets forth our revenue by geography:\n(In ₹ crore)\n(60.1%)\n(9.8%)\n(27.6%)\n(2.5%)\n % growth - 2025\n North America – 2.1%\n Europe – 15.0%\n India – 29.2%\n Rest of the World – (0.8%)",
+      "are monitored regularly for impairment. Impairment losses are \nrecorded when present value of projected remaining operating \ncash flows is not sufficient to recover the carrying amount of \nthe capitalized costs.\nThe Group presents revenues net of indirect taxes in its \nConsolidated Statement of Profit and Loss.\nRevenue from operations for the year ended March 31, 2025 and \nMarch 31, 2024 is as follows:\n(In ₹ crore)\nParticulars\nYear ended March 31,\n2025\n2024\nRevenue from software services\n 1,55,395 \n 1,45,285 \nRevenue from products and platforms\n 7,595 \n 8,385 \nTotal revenue from operations\n 1,62,990 \n 1,53,670 \nProducts and platforms\nThe Group also derives revenues from the sale of products and \nplatforms like Finacle – core banking solution, Edge Suite of \nproducts, Panaya platform, Stater digital platform and Infosys \nMcCamish – insurance platform.\nDisaggregated revenue information\nRevenue disaggregation by business segments has been",
+      "Infosys Integrated Annual Report 2024-25\n373\nBusiness segments\nYear ended March 31, 2025 and March 31, 2024:\n(In ₹ crore)\nParticulars\nFinancial \nServices (1)\nRetail (2)\nCommunication(3)\nEnergy, \nUtilities, \nResources \nand \nServices\nManufacturing\nHi-Tech\nLife \nSciences(4)\nAll other \nsegments(5)\nTotal\nRevenue from \noperations\n 45,175 \n22,059 \n 19,108 \n 21,710 \n 25,207 \n13,090 \n 11,831 \n 4,810 \n1,62,990 \n \n 42,158 \n 22,504 \n 17,991 \n 20,035 \n 22,298 \n 12,411 \n 11,515 \n 4,758 \n 1,53,670 \nIdentifiable \noperating \nexpenses\n 25,871 \n 10,931 \n 12,420 \n 11,882 \n 16,167 \n 7,592 \n 7,166 \n 2,986 \n 95,015 \n \n 24,782 \n 11,704 \n 11,071 \n 10,838 \n 14,596 \n 7,232 \n 6,716 \n 2,938 \n 89,877 \nAllocated \nexpenses\n 8,205 \n 3,995 \n 3,347 \n 3,731 \n 4,184 \n 2,278 \n 2,002 \n 997 \n 28,739 \n \n 8,052 \n 3,918 \n 3,232 \n 3,674 \n 3,505 \n 2,026 \n 1,901 \n 1,060 \n 27,368 \nSegment \noperating \nincome\n 11,099 \n 7,133 \n 3,341 \n 6,097 \n 4,856 \n 3,220 \n 2,663 \n 827 \n 39,236 \n \n 9,324 \n 6,882 \n 3,688 \n 5,523 \n 4,197 \n 3,153",
+      "revenues in reported currency terms for fiscal 2025 is ₹1,62,990 \ncrore, a growth of 6.1%. Our revenues for fiscal 2025 in constant \ncurrency grew by 4.2%.\nWe added 365 new customers (gross) during fiscal 2025 as \ncompared to 385 new customers (gross) during fiscal 2024.\nOn a consolidated basis, for the year ended March 31, 2025, \napproximately 96.9% were export revenues whereas 3.1% were \ndomestic revenues, while for the year ended March 31, 2024, \n97.5% were export revenues whereas 2.5% were domestic \nrevenues. Refer to the ‘Segmental profitability’ section in this \nreport for more details on the analysis of segment revenues.\n2. Expenditure\nCost of sales \nThe cost of sales have decreased as a percentage of revenue by \n0.2% on standalone basis and by 0.4% on consolidated basis \nin fiscal 2025 over fiscal 2024. The cost of efforts, comprising \nemployee cost and cost of technical sub-contractors, has \ndecreased as a percentage of revenue from 60.2% in fiscal 2024",
+      "are amortized to expenses over the respective contract life \non a systematic basis consistent with the transfer of goods or \nservices to customer to which the asset relates. Capitalized costs \nare monitored regularly for impairment. Impairment losses are \nrecorded when present value of projected remaining operating \ncash flows is not sufficient to recover the carrying amount of \nthe capitalized costs.\nThe Company presents revenues net of indirect taxes in its \nStatement of Profit and Loss.\nRevenue from operations for the year ended March 31, 2025 and \nMarch 31, 2024 is as follows:\n(In ₹ crore)\nParticulars\nYear ended March 31,\n2025\n2024\nRevenue from software services\n 135,525 \n 128,637 \nRevenue from products and \nplatforms\n 1,067 \n 296 \nTotal revenue from operations\n 136,592 \n 128,933 \nProducts & platforms\nThe Company derives revenues from the sale of products and \nplatforms including Infosys Applied AI which applies next-\ngeneration AI and machine learning."
+    ],
+    "retrieved_chunk_count": 25,
+    "final_context_chunk_count": 5,
+    "source_page_hit": true,
+    "answered": true
+  }
+]

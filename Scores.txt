@@ -1,0 +1,12 @@
+Step 2: Freeze final metrics
+
+Your final project numbers should be recorded in the README/report:
+
+Retrieval strategy: MultiQuery + Cohere Rerank
+
+RAGAS:
+faithfulness:        70.28%
+answer relevancy:   93.25%
+context precision:  84.00%
+context recall:     100%
+answer correctness: 75.50%
